@@ -1,0 +1,1347 @@
+{
+  "ExpressionLimit": {"Type": "First"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {
+    "StartDate": null,
+    "EndDate": null
+  },
+  "ConceptSets": [
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 80502,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "64859006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Osteoporosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42538151,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "739301006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Osteoporosis co-occurrent and due to multiple myeloma",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4002134,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "203437004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Osteoporosis in endocrine disorders",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Invalid",
+            "CONCEPT_ID": 4001645,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "203428004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Osteoporosis, unspecified",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "U"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40480160,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "443165006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Pathological fracture due to osteoporosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45766159,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "703264005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Secondary osteoporosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Invalid",
+            "CONCEPT_ID": 40401864,
+            "STANDARD_CONCEPT": "N",
+            "CONCEPT_CODE": "203878009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "[X]Other osteoporosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "D"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        }
+      ]},
+      "name": "[ODTP] Osteoporosis",
+      "id": 0
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40174359,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "904951",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "ibandronic acid 1 MG/ML",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 19126449,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "705823",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "zoledronic acid 0.05 MG/ML",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[ODTP] Bisphosphonate_IV",
+      "id": 1
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40173589,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "904418",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Alendronic acid 10 MG",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40173601,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "904424",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Alendronic acid 5 MG",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40174497,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "905040",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "risedronate sodium 5 MG",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[ODTP] Bisphosphonate_PO_1d",
+      "id": 2
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40173605,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "904430",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Alendronic acid 70 MG",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40174493,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "905023",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "risedronate sodium 35 MG",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 19123238,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "608376",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Risedronate 35 MG",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21104349,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP411746",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Alendronate 0.7 MG/ML",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[ODTP] Bisphosphonate_PO_1W",
+      "id": 3
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40174363,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "904931",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "ibandronic acid 150 MG",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40174485,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "905027",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "risedronate sodium 150 MG",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[ODTP] Bisphosphonate_PO_1M",
+      "id": 4
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1513103,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "72143",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Raloxifene",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1436678,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "10324",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Tamoxifen",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1521987,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "32915",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Teriparatide",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1594148,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1921069",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "abaloparatide",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44506794,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1441386",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "bazedoxifene",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40222444,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "993449",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "denosumab",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1511251,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "2123126",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "romosozumab",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40174359,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "904951",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "ibandronic acid 1 MG/ML",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 19126449,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "705823",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "zoledronic acid 0.05 MG/ML",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[ODTP] Anti Osteoporosis Medication (without PO BPs)",
+      "id": 5
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40173589,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "904418",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Alendronic acid 10 MG",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40173601,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "904424",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Alendronic acid 5 MG",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40174497,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "905040",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "risedronate sodium 5 MG",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40174363,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "904931",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "ibandronic acid 150 MG",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40174485,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "905027",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "risedronate sodium 150 MG",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40173605,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "904430",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Alendronic acid 70 MG",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40174493,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "905023",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "risedronate sodium 35 MG",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Comp",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[ODTP] Bisphosphonate",
+      "id": 6
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4307254,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "423125000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4222001,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "84138006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Collapse of vertebra",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 441406,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "414025005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Disorder of fetus or newborn",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4154098,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "315643003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Dupuytren's fracture dislocation ankle",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4001458,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "202831001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fatigue fracture of vertebra",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4015350,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "208388003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture at wrist and/or hand level",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4115182,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "287078007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture malunion - ankle and/or foot",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4059173,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "16114001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of ankle",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4067766,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "203449003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of bone in neoplastic disease",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4302223,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "418764009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of bone of head",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4279139,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "65354004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of bones of trunk",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4129393,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "125606003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of cervical spine",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 442560,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "71620000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of femur",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4048393,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "15574005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of foot",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4278672,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "65966004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of forearm",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4071876,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "20511007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of hand",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4185758,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "414292006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of lower leg",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4187096,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "46866001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of lower limb",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4013613,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "207986006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of lumbar spine and/or pelvis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4050747,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "23406007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of upper limb",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4174520,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "50448004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of vertebral column",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4069306,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "203448006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Idiopathic osteoporosis with pathological fracture",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 73571,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "268029009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Pathological fracture",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4115176,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "287070000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Pathological fracture - ankle and/or foot",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40480160,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "443165006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Pathological fracture due to osteoporosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40441585,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "240197007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Stress fracture",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[ODTP] Osteoporotic Fracture",
+      "id": 7
+    }
+  ],
+  "EndStrategy": {"CustomEra": {
+    "DrugCodesetId": 6,
+    "DaysSupplyOverride": null,
+    "GapDays": 395,
+    "Offset": 0
+  }},
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": null,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 0,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "EndWindow": null,
+          "Criteria": {"ConditionOccurrence": {
+            "OccurrenceEndDate": null,
+            "CorrelatedCriteria": null,
+            "ConditionTypeExclude": false,
+            "CodesetId": 0,
+            "ProviderSpecialty": null,
+            "Gender": [{
+              "INVALID_REASON_CAPTION": "Unknown",
+              "CONCEPT_ID": 8532,
+              "STANDARD_CONCEPT": null,
+              "CONCEPT_CODE": "F",
+              "VOCABULARY_ID": "Gender",
+              "CONCEPT_NAME": "FEMALE",
+              "DOMAIN_ID": "Gender",
+              "STANDARD_CONCEPT_CAPTION": "Unknown",
+              "CONCEPT_CLASS_ID": null,
+              "INVALID_REASON": null
+            }],
+            "VisitType": null,
+            "First": null,
+            "OccurrenceStartDate": null,
+            "ConditionType": null,
+            "ConditionSourceConcept": null,
+            "ConditionStatus": null,
+            "StopReason": null,
+            "Age": {
+              "Op": "gte",
+              "Extent": null,
+              "Value": 50
+            }
+          }},
+          "Occurrence": {
+            "Type": 2,
+            "CountColumn": null,
+            "IsDistinct": false,
+            "Count": 1
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "has a history of osteoporosis",
+      "description": "postmenopausal osteoporosis"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": null,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "EndWindow": null,
+          "Criteria": {"ConditionOccurrence": {
+            "OccurrenceEndDate": null,
+            "CorrelatedCriteria": null,
+            "ConditionTypeExclude": false,
+            "CodesetId": 7,
+            "ProviderSpecialty": null,
+            "Gender": null,
+            "VisitType": null,
+            "First": null,
+            "OccurrenceStartDate": null,
+            "ConditionType": null,
+            "ConditionSourceConcept": null,
+            "ConditionStatus": null,
+            "StopReason": null,
+            "Age": null
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "CountColumn": null,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "has no history of osteoporotic fracture",
+      "description": null
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": null,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "EndWindow": null,
+          "Criteria": {"DrugExposure": {
+            "OccurrenceEndDate": null,
+            "CorrelatedCriteria": null,
+            "DrugSourceConcept": null,
+            "CodesetId": 5,
+            "DrugTypeExclude": false,
+            "Quantity": null,
+            "DrugType": null,
+            "ProviderSpecialty": null,
+            "EffectiveDrugDose": null,
+            "Gender": null,
+            "DaysSupply": null,
+            "DoseUnit": null,
+            "VisitType": null,
+            "Refills": null,
+            "First": null,
+            "OccurrenceStartDate": null,
+            "RouteConcept": null,
+            "StopReason": null,
+            "LotNumber": null,
+            "Age": null
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "CountColumn": null,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "has no history of anti osteoporosis w/o BPs",
+      "description": null
+    }
+  ],
+  "PrimaryCriteria": {
+    "CriteriaList": [
+      {"DrugExposure": {
+        "OccurrenceEndDate": null,
+        "CorrelatedCriteria": null,
+        "DrugSourceConcept": null,
+        "CodesetId": 2,
+        "DrugTypeExclude": false,
+        "Quantity": null,
+        "DrugType": null,
+        "ProviderSpecialty": null,
+        "EffectiveDrugDose": null,
+        "Gender": null,
+        "DaysSupply": {
+          "Op": "gte",
+          "Extent": null,
+          "Value": 28
+        },
+        "DoseUnit": null,
+        "VisitType": null,
+        "Refills": null,
+        "First": null,
+        "OccurrenceStartDate": null,
+        "RouteConcept": null,
+        "StopReason": null,
+        "LotNumber": null,
+        "Age": null
+      }},
+      {"DrugExposure": {
+        "OccurrenceEndDate": null,
+        "CorrelatedCriteria": null,
+        "DrugSourceConcept": null,
+        "CodesetId": 3,
+        "DrugTypeExclude": false,
+        "Quantity": null,
+        "DrugType": null,
+        "ProviderSpecialty": null,
+        "EffectiveDrugDose": null,
+        "Gender": null,
+        "DaysSupply": {
+          "Op": "gte",
+          "Extent": null,
+          "Value": 4
+        },
+        "DoseUnit": null,
+        "VisitType": null,
+        "Refills": null,
+        "First": null,
+        "OccurrenceStartDate": null,
+        "RouteConcept": null,
+        "StopReason": null,
+        "LotNumber": null,
+        "Age": null
+      }},
+      {"DrugExposure": {
+        "OccurrenceEndDate": null,
+        "CorrelatedCriteria": null,
+        "DrugSourceConcept": null,
+        "CodesetId": 4,
+        "DrugTypeExclude": false,
+        "Quantity": null,
+        "DrugType": null,
+        "ProviderSpecialty": null,
+        "EffectiveDrugDose": null,
+        "Gender": null,
+        "DaysSupply": {
+          "Op": "gte",
+          "Extent": null,
+          "Value": 1
+        },
+        "DoseUnit": null,
+        "VisitType": null,
+        "Refills": null,
+        "First": null,
+        "OccurrenceStartDate": null,
+        "RouteConcept": null,
+        "StopReason": null,
+        "LotNumber": null,
+        "Age": null
+      }}
+    ],
+    "PrimaryCriteriaLimit": {"Type": "First"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}
