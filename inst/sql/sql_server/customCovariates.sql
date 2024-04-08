@@ -428,7 +428,7 @@ from (
 	select cohort.*, min(DRUG_EXPOSURE.drug_exposure_start_date) as drug_start_date, max(DRUG_EXPOSURE.drug_exposure_end_date) as drug_end_date 
 	FROM @cohort_table cohort
 	INNER JOIN @cdm_database_schema.DRUG_EXPOSURE DRUG_EXPOSURE
-		ON cohort.subject_id =drug.person_id
+		ON cohort.subject_id =DRUG_EXPOSURE.person_id
 	where cohort.cohort_definition_id IN (@cohort_id) 
 	  and DRUG_EXPOSURE.drug_concept_id in (
 		select descendant_concept_id 
