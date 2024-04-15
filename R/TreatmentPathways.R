@@ -60,7 +60,7 @@ runPathwayAnalysis <- function(connectionDetails,
                                                 generationId=id)
     DatabaseConnector::executeSql(connection = connection, sql = excSql, progressBar = TRUE)
 
-    resultSql <- paste("select *",
+    resultSql <- paste("select t1.*",
                        "from @cohortDatabaseSchema.@cohortTable_Osteoporosis_pathway_analysis_paths t1",
                        "where pathway_analysis_generation_id=@generationId;")
     resultSql <- SqlRender::render(sql = resultSql,
