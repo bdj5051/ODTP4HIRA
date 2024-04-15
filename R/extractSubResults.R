@@ -299,12 +299,13 @@ extractSubResults <- function(connectionDetails,
 
   # discontinuation (DMAB) ---------------------------------------------------
   connection <- connect(connectionDetails)
-  fracture.sql <- paste("select * from (select distinct subject_id from @cohortDatabaseSchema.@cohortTable_PRESCRIPTION_EVENTS where line != 0) d,",
-                        "(select person_id, condition_concept_id, concept_name, condition_start_date from @cdmDatabaseSchema.condition_occurrence cd, @cdmDatabaseSchema.concept c",
-                        "where condition_concept_id in (select descendant_concept_id from @cdmDatabaseSchema.concept_ancestor",
+  fracture.sql <- paste("select * from (select distinct subject_id from @cohortDatabaseSchema.@cohortTable_PRESCRIPTION_EVENTS where line != 0) d",
+                        "join (select cd.person_id, cd.condition_concept_id, c.concept_name, cd.condition_start_date from @cdmDatabaseSchema.condition_occurrence cd",
+                        "join @cdmDatabaseSchema.concept c on cd.condition_concept_id=c.concept_id",
+                        "where cd.condition_concept_id in (select descendant_concept_id from @cdmDatabaseSchema.concept_ancestor",
                         "where ancestor_concept_id in (4001458, 4222001, 4053828, 4013156, 4009296, 4210437, 4013613, 4129394, 4129420, 4053654))",
-                        "and condition_concept_id=concept_id) t1",
-                        "where d.subject_id=t1.person_id;")
+                        ") t1",
+                        "on d.subject_id=t1.person_id;")
   fracture.sql <- SqlRender::render(sql = fracture.sql,
                                     cdmDatabaseSchema=cdmDatabaseSchema,
                                     cohortDatabaseSchema=cohortDatabaseSchema,
