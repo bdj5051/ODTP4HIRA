@@ -132,11 +132,11 @@ execute <- function(connectionDetails,
     computePrescriptionNum(databaseName = databaseName,
                            outputFolder = outputFolder)
     
-    runPathwayAnalysis(connectionDetails,
-                       cohortDatabaseSchema,
-                       cohortTable,
-                       databaseName,
-                       outputFolder)
+    runPathwayAnalysis(connectionDetails = connectionDetails,
+                       cohortDatabaseSchema = cohortDatabaseSchema,
+                       cohortTable = cohortTable,
+                       databaseName = databaseName,
+                       outputFolder = outputFolder)
     
     ParallelLogger::logInfo("Running CohortMethod analyses")
     runCohortMethod(connectionDetails = connectionDetails,
