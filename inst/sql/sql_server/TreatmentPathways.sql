@@ -1,5 +1,5 @@
 select event_cohort_index, subject_id, CAST(cohort_start_date AS DATETIME) AS cohort_start_date, CAST(cohort_end_date AS DATETIME) AS cohort_end_date
-INTO #event_cohort_eras
+INTO #e_c_e
 FROM (
 	SELECT ec.cohort_index AS event_cohort_index,
 	  e.subject_id,
@@ -28,9 +28,9 @@ WITH
 cohort_dates AS (
 	SELECT DISTINCT subject_id, cohort_date
 	FROM (
-		  SELECT subject_id, cohort_start_date cohort_date FROM #event_cohort_eras
+		  SELECT subject_id, cohort_start_date cohort_date FROM #e_c_e
 		  UNION
-		  SELECT subject_id,cohort_end_date cohort_date FROM #event_cohort_eras
+		  SELECT subject_id,cohort_end_date cohort_date FROM #e_c_e
 		  ) all_dates
 ),
 time_periods AS (
@@ -42,7 +42,7 @@ time_periods AS (
 events AS (
 	SELECT tp.subject_id, event_cohort_index, cohort_date cohort_start_date, next_cohort_date cohort_end_date
 	FROM time_periods tp
-	LEFT JOIN #event_cohort_eras e ON e.subject_id = tp.subject_id
+	LEFT JOIN #e_c_e e ON e.subject_id = tp.subject_id
 	WHERE (e.cohort_start_date <= tp.cohort_date AND e.cohort_end_date >= tp.next_cohort_date)
 )
 SELECT cast(SUM(POWER(cast(2 as bigint), e.event_cohort_index)) as bigint) as combo_id,  subject_id , cohort_start_date, cohort_end_date
@@ -60,7 +60,7 @@ SELECT
   subject_id,
   cohort_start_date,
   cohort_end_date
-INTO #non_repetitive_events
+INTO #n_r_e
 FROM (
   SELECT
     combo_id, subject_id, cohort_start_date, cohort_end_date,
@@ -86,7 +86,7 @@ SELECT
   combo_id,
   cohort_start_date,
   cohort_end_date
-FROM #non_repetitive_events
+FROM #n_r_e
 WHERE 1 = 1 AND ordinal <= 3;
 
 DELETE FROM @cohortDatabaseSchema.@cohortTable_Osteoporosis_pathway_analysis_stats where pathway_analysis_generation_id = @generationId;
@@ -132,11 +132,11 @@ group by pathway_analysis_generation_id, target_cohort_id,
 	step_1, step_2, step_3, step_4, step_5
 ;
 
-TRUNCATE TABLE #non_repetitive_events;
-DROP TABLE #non_repetitive_events;
+TRUNCATE TABLE #n_r_e;
+DROP TABLE #n_r_e;
 
 TRUNCATE TABLE #combo_events;
 DROP TABLE #combo_events;
 
-TRUNCATE TABLE #event_cohort_eras;
-DROP TABLE #event_cohort_eras;
+TRUNCATE TABLE #e_c_e;
+DROP TABLE #e_c_e;
