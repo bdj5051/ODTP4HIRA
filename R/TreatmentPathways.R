@@ -19,6 +19,7 @@
 #' @export
 
 runPathwayAnalysis <- function(connectionDetails,
+                               cdmDatabaseSchema,
                                cohortDatabaseSchema,
                                cohortTable,
                                outputFolder){
@@ -107,7 +108,7 @@ runPathwayAnalysis <- function(connectionDetails,
   saveRDS(base_data, file.path(outputFolder, "tmpData/PrescriptionEvents_line.RDS"))
 
   # Extract Sub Results
-  extractSubResults(connectionDetails,
-                    cdmDatabaseSchema,
+  extractSubResults(connectionDetails=connectionDetails,
+                    cdmDatabaseSchema=cdmDatabaseSchema,
                     outputFolder=outputFolder)
 }
