@@ -136,7 +136,6 @@ execute <- function(connectionDetails,
                        cdmDatabaseSchema = cdmDatabaseSchema,
                        cohortDatabaseSchema = cohortDatabaseSchema,
                        cohortTable = cohortTable,
-                       databaseName = databaseName,
                        outputFolder = outputFolder)
     
     ParallelLogger::logInfo("Running CohortMethod analyses")
