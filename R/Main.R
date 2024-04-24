@@ -133,6 +133,7 @@ execute <- function(connectionDetails,
                            outputFolder = outputFolder)
     
     runPathwayAnalysis(connectionDetails = connectionDetails,
+                       cdmDatabaseSchema = cdmDatabaseSchema,
                        cohortDatabaseSchema = cohortDatabaseSchema,
                        cohortTable = cohortTable,
                        databaseName = databaseName,
