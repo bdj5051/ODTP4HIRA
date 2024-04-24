@@ -5,7 +5,7 @@ FROM (
 	  e.subject_id,
 	  e.cohort_start_date,
 	  dateadd(d, 1, e.cohort_end_date) as cohort_end_date
-	FROM @cohortDatabaseSchema.@cohortTable e
+	FROM HIRA_CDM_YU_OSTEO.OSTEO e
 	  JOIN (SELECT 1005 AS cohort_definition_id, 0 AS cohort_index 
 			UNION ALL 
 			SELECT 1004 AS cohort_definition_id, 1 AS cohort_index 
@@ -17,7 +17,7 @@ FROM (
 			SELECT 1001 AS cohort_definition_id, 4 AS cohort_index 
 			) ec 
 	  ON e.cohort_definition_id = ec.cohort_definition_id
-	  JOIN @cohortDatabaseSchema.@cohortTable t ON t.cohort_start_date <= e.cohort_start_date AND e.cohort_start_date <= t.cohort_end_date AND t.subject_id = e.subject_id
+	  JOIN HIRA_CDM_YU_OSTEO.OSTEO t ON t.cohort_start_date <= e.cohort_start_date AND e.cohort_start_date <= t.cohort_end_date AND t.subject_id = e.subject_id
 	WHERE t.cohort_definition_id = @cohortId
 ) RE;
 
@@ -74,8 +74,8 @@ WHERE repetitive_event = 0;
 /*
 * Persist results
 */
-DELETE FROM @cohortDatabaseSchema.@cohortTable_Osteoporosis_pathway_analysis_events where pathway_analysis_generation_id = @generationId;
-INSERT INTO @cohortDatabaseSchema.@cohortTable_Osteoporosis_pathway_analysis_events (pathway_analysis_generation_id, target_cohort_id, subject_id, ordinal, combo_id, cohort_start_date, cohort_end_date)
+DELETE FROM HIRA_CDM_YU_OSTEO.OSTEO_pathway_events where pathway_analysis_generation_id = @generationId;
+INSERT INTO HIRA_CDM_YU_OSTEO.OSTEO_pathway_events (pathway_analysis_generation_id, target_cohort_id, subject_id, ordinal, combo_id, cohort_start_date, cohort_end_date)
 SELECT
   @generationId as pathway_analysis_generation_id,
   @cohortId as target_cohort_id,
@@ -87,8 +87,8 @@ SELECT
 FROM #n_r_e
 WHERE 1 = 1 AND ordinal <= 3;
 
-DELETE FROM @cohortDatabaseSchema.@cohortTable_Osteoporosis_pathway_analysis_stats where pathway_analysis_generation_id = @generationId;
-INSERT INTO @cohortDatabaseSchema.@cohortTable_Osteoporosis_pathway_analysis_stats (pathway_analysis_generation_id, target_cohort_id, target_cohort_count, pathways_count)
+DELETE FROM HIRA_CDM_YU_OSTEO.OSTEO_pathway_stats where pathway_analysis_generation_id = @generationId;
+INSERT INTO HIRA_CDM_YU_OSTEO.OSTEO_pathway_stats (pathway_analysis_generation_id, target_cohort_id, target_cohort_count, pathways_count)
 SELECT
   @generationId as pathway_analysis_generation_id,
   CAST(@cohortId AS INT) AS target_cohort_id,
@@ -96,12 +96,12 @@ SELECT
   CAST(pathway_count.cnt AS BIGINT) AS pathways_count
 FROM (
   SELECT CAST(COUNT_BIG(*) as BIGINT) cnt
-  FROM @cohortDatabaseSchema.@cohortTable
+  FROM HIRA_CDM_YU_OSTEO.OSTEO
   WHERE cohort_definition_id = @cohortId
 ) target_count,
 (
   SELECT CAST(COUNT_BIG(DISTINCT subject_id) as BIGINT) cnt
-  FROM @cohortDatabaseSchema.@cohortTable_Osteoporosis_pathway_analysis_events
+  FROM HIRA_CDM_YU_OSTEO.OSTEO_pathway_events
   WHERE pathway_analysis_generation_id = @generationId
   AND target_cohort_id = @cohortId
 ) pathway_count;
@@ -109,8 +109,8 @@ FROM (
 
 
 
-DELETE FROM @cohortDatabaseSchema.@cohortTable_Osteoporosis_pathway_analysis_paths where pathway_analysis_generation_id = @generationId;
-INSERT INTO @cohortDatabaseSchema.@cohortTable_Osteoporosis_pathway_analysis_paths (pathway_analysis_generation_id, target_cohort_id, step_1, step_2, step_3, step_4, step_5, count_value)
+DELETE FROM HIRA_CDM_YU_OSTEO.OSTEO_pathway_paths where pathway_analysis_generation_id = @generationId;
+INSERT INTO HIRA_CDM_YU_OSTEO.OSTEO_pathway_paths (pathway_analysis_generation_id, target_cohort_id, step_1, step_2, step_3, step_4, step_5, count_value)
 select pathway_analysis_generation_id, target_cohort_id,
 	step_1, step_2, step_3, step_4, step_5,
   count_big(subject_id) as count_value
@@ -122,7 +122,7 @@ from
     MAX(case when ordinal = 3 then combo_id end) as step_3,
     MAX(case when ordinal = 4 then combo_id end) as step_4,
     MAX(case when ordinal = 5 then combo_id end) as step_5
-  from @cohortDatabaseSchema.@cohortTable_Osteoporosis_pathway_analysis_events e
+  from HIRA_CDM_YU_OSTEO.OSTEO_pathway_events e
   WHERE e.pathway_analysis_generation_id = @generationId
 	GROUP BY e.pathway_analysis_generation_id, e.target_cohort_id, e.subject_id
 ) t1
