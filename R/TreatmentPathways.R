@@ -21,7 +21,6 @@
 runPathwayAnalysis <- function(connectionDetails,
                                cohortDatabaseSchema,
                                cohortTable,
-                               databaseName,
                                outputFolder){
 
   tpOutputFolder <- file.path(outputFolder, "results/TreatmentPathways")
