@@ -35,9 +35,7 @@ runPathwayAnalysis <- function(connectionDetails,
   sql <- SqlRender::loadRenderTranslateSql("CreatePathwaysTable.sql",
                                            "ODTP4HIRA",
                                            dbms = connectionDetails$dbms,
-                                           oracleTempSchema = oracleTempSchema,
-                                           cohortDatabaseSchema = cohortDatabaseSchema,
-                                           cohortTable = cohortTable)
+                                           oracleTempSchema = oracleTempSchema)
   DatabaseConnector::executeSql(connection=connection, sql=sql)
 
   # Create treatment pathway code table:
@@ -54,19 +52,15 @@ runPathwayAnalysis <- function(connectionDetails,
                                                 "ODTP4HIRA",
                                                 dbms = connectionDetails$dbms,
                                                 oracleTempSchema = oracleTempSchema,
-                                                cohortDatabaseSchema = cohortDatabaseSchema,
-                                                cohortTable = cohortTable,
                                                 cohortId = id,
                                                 generationId=id)
     DatabaseConnector::executeSql(connection = connection, sql = excSql, progressBar = TRUE)
 
     resultSql <- paste("select t1.*",
-                       "from @cohortDatabaseSchema.@cohortTable_Osteoporosis_pathway_analysis_paths t1",
+                       "from HIRA_CDM_YU_OSTEO.OSTEO_pathway_paths t1",
                        "where pathway_analysis_generation_id=@generationId;")
     resultSql <- SqlRender::render(sql = resultSql,
-                                   generationId=id,
-                                   cohortDatabaseSchema=cohortDatabaseSchema,
-                                   cohortTable=cohortTable)
+                                   generationId=id)
     result <- DatabaseConnector::querySql(connection = connection, sql = resultSql)
     pathway_results <- rbind(pathway_results, result)
   }
@@ -102,29 +96,19 @@ runPathwayAnalysis <- function(connectionDetails,
                                            "ODTP4HIRA",
                                            dbms = connectionDetails$dbms,
                                            cdmDatabaseSchema=cdmDatabaseSchema,
-                                           oracleTempSchema = oracleTempSchema,
-                                           cohortDatabaseSchema = cohortDatabaseSchema,
-                                           cohortTable = cohortTable)
+                                           oracleTempSchema = oracleTempSchema)
   DatabaseConnector::executeSql(connection = connection, sql = sql, progressBar = TRUE)
 
-  base.sql <- "select * from @cohortDatabaseSchema.@cohortTable_PRESCRIPTION_EVENTS where line = 0;"
-  base.sql <- SqlRender::render(sql = base.sql,
-                                cohortDatabaseSchema=cohortDatabaseSchema,
-                                cohortTable=cohortTable)
+  base.sql <- "select * from HIRA_CDM_YU_OSTEO.OSTEO_PRESCRIPTION_EVENTS where line = 0;"
   base_data <- DatabaseConnector::querySql(connection = connection, sql = base.sql)
   saveRDS(base_data, file.path(outputFolder, "tmpData/PrescriptionEvents_Whole.RDS"))
 
-  base.sql <- "select * from @cohortDatabaseSchema.@cohortTable_PRESCRIPTION_EVENTS where line != 0;"
-  base.sql <- SqlRender::render(sql = base.sql,
-                                cohortDatabaseSchema=cohortDatabaseSchema,
-                                cohortTable=cohortTable)
+  base.sql <- "select * from HIRA_CDM_YU_OSTEO.OSTEO_PRESCRIPTION_EVENTS where line != 0;"
   base_data <- DatabaseConnector::querySql(connection = connection, sql = base.sql)
   saveRDS(base_data, file.path(outputFolder, "tmpData/PrescriptionEvents_line.RDS"))
 
   # Extract Sub Results
   extractSubResults(connectionDetails,
                     cdmDatabaseSchema,
-                    cohortDatabaseSchema,
-                    cohortTable,
                     outputFolder=outputFolder)
 }
