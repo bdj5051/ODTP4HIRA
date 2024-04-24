@@ -1,7 +1,7 @@
-IF OBJECT_ID('@cohortDatabaseSchema.@cohortTable_Osteoporosis_pathway_analysis_events', 'U') IS NOT NULL
-	DROP TABLE @cohortDatabaseSchema.@cohortTable_Osteoporosis_pathway_analysis_events;
+IF OBJECT_ID('@cohortDatabaseSchema.@cohortTable_pathway_events', 'U') IS NOT NULL
+	DROP TABLE @cohortDatabaseSchema.@cohortTable_pathway_events;
 
-CREATE TABLE @cohortDatabaseSchema.@cohortTable_Osteoporosis_pathway_analysis_events (
+CREATE TABLE @cohortDatabaseSchema.@cohortTable_pathway_events (
 	pathway_analysis_generation_id INT,
 	target_cohort_id BIGINT,
 	subject_id BIGINT,
@@ -11,20 +11,20 @@ CREATE TABLE @cohortDatabaseSchema.@cohortTable_Osteoporosis_pathway_analysis_ev
 	cohort_end_date DATE
 	);
 
-IF OBJECT_ID('@cohortDatabaseSchema.@cohortTable_Osteoporosis_pathway_analysis_stats', 'U') IS NOT NULL
-	DROP TABLE @cohortDatabaseSchema.@cohortTable_Osteoporosis_pathway_analysis_stats;
+IF OBJECT_ID('@cohortDatabaseSchema.@cohortTable_pathway_stats', 'U') IS NOT NULL
+	DROP TABLE @cohortDatabaseSchema.@cohortTable_pathway_stats;
 
-CREATE TABLE @cohortDatabaseSchema.@cohortTable_Osteoporosis_pathway_analysis_stats (
+CREATE TABLE @cohortDatabaseSchema.@cohortTable_pathway_stats (
 	pathway_analysis_generation_id INT,
 	target_cohort_id BIGINT,
 	target_cohort_count BIGINT,
 	pathways_count BIGINT
 	);
 
-IF OBJECT_ID('@cohortDatabaseSchema.@cohortTable_Osteoporosis_pathway_analysis_paths', 'U') IS NOT NULL
-	DROP TABLE @cohortDatabaseSchema.@cohortTable_Osteoporosis_pathway_analysis_paths;
+IF OBJECT_ID('@cohortDatabaseSchema.@cohortTable_pathway_paths', 'U') IS NOT NULL
+	DROP TABLE @cohortDatabaseSchema.@cohortTable_pathway_paths;
 
-CREATE TABLE @cohortDatabaseSchema.@cohortTable_Osteoporosis_pathway_analysis_paths (
+CREATE TABLE @cohortDatabaseSchema.@cohortTable_pathway_paths (
 	pathway_analysis_generation_id INT,
 	target_cohort_id BIGINT,
 	step_1 INT,
