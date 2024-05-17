@@ -128,15 +128,15 @@ execute <- function(connectionDetails,
   }
   
   if (runAnalyses) {
-    ParallelLogger::logInfo("Running Treatment Pathways analyses")
-    computePrescriptionNum(databaseName = databaseName,
-                           outputFolder = outputFolder)
+    # ParallelLogger::logInfo("Running Treatment Pathways analyses")
+    # computePrescriptionNum(databaseName = databaseName,
+    #                        outputFolder = outputFolder)
     
-    runPathwayAnalysis(connectionDetails = connectionDetails,
-                       cdmDatabaseSchema = cdmDatabaseSchema,
-                       cohortDatabaseSchema = cohortDatabaseSchema,
-                       cohortTable = cohortTable,
-                       outputFolder = outputFolder)
+    # runPathwayAnalysis(connectionDetails = connectionDetails,
+    #                    cdmDatabaseSchema = cdmDatabaseSchema,
+    #                    cohortDatabaseSchema = cohortDatabaseSchema,
+    #                    cohortTable = cohortTable,
+    #                    outputFolder = outputFolder)
     
     ParallelLogger::logInfo("Running CohortMethod analyses")
     runCohortMethod(connectionDetails = connectionDetails,
