@@ -1,0 +1,2696 @@
+{
+  "ExpressionLimit": {"Type": "First"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {
+    "StartDate": null,
+    "EndDate": null
+  },
+  "ConceptSets": [
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 77365,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "53174001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Disuse osteoporosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 81390,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "3345002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Idiopathic osteoporosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 80502,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "64859006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Osteoporosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4010333,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "102447009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Postmenopausal osteoporosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        }
+      ]},
+      "name": "[HIRA]Osteoporosis",
+      "id": 0
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 21604169,
+          "STANDARD_CONCEPT": "C",
+          "CONCEPT_CODE": "M05BX04",
+          "VOCABULARY_ID": "ATC",
+          "CONCEPT_NAME": "denosumab; parenteral",
+          "DOMAIN_ID": "Drug",
+          "STANDARD_CONCEPT_CAPTION": "Classification",
+          "CONCEPT_CLASS_ID": "ATC 5th",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      }]},
+      "name": "[HIRA]Denosumab",
+      "id": 1
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21118274,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP323822",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "100 ML zoledronic acid 0.05 MG/ML Injectable Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40173414,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "904952",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "3 ML ibandronic acid 1 MG/ML Prefilled Syringe",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 41359781,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2557743",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "5 ML zoledronic acid 0.8 MG/ML Injectable Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40173612,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "904431",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "alendronic acid 70 MG Oral Tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21604152,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "M05BA04",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "alendronic acid; oral",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40174364,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "904932",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "ibandronic acid 150 MG Oral Tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21604154,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "M05BA06",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "ibandronic acid; systemic",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42943685,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP4670312",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Risedronate 35 MG Extended Release Oral Tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40174486,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "905028",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "risedronate sodium 150 MG Oral Tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40174494,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "905024",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "risedronate sodium 35 MG Oral Tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21604155,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "M05BA07",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "risedronic acid; oral",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21604156,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "M05BA08",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "zoledronic acid; parenteral",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42921785,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP4648605",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "2.4 ML Teriparatide 0.25 MG/ML Pen Injector",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 41181419,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2379381",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "bazedoxifene 20 MG Oral Tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21602626,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "G03XC02",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "bazedoxifene; oral",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44814412,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1490065",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "raloxifene hydrochloride 60 MG Oral Tablet",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21602625,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "G03XC01",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "raloxifene; oral",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42970752,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP4697177",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Teriparatide 0.0055 MG Injection",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21602783,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "H05AA02",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "teriparatide; parenteral",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        }
+      ]},
+      "name": "[HIRA]Anti_Osteoporosis(without Denosumab)",
+      "id": 2
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4013604,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "207957008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture lumbar vertebra",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35624169,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "766775007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture of coccyx",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4013160,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "207974008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture sacrum",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4013596,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "207938004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture thoracic vertebra",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4209549,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "311814002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed multiple fractures of thoracic spine",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4203556,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "308757003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Collapse of cervical vertebra",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4204781,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "308758008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Collapse of lumbar vertebra",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4203555,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "308756007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Collapse of thoracic vertebra",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4222001,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "84138006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Collapse of vertebra",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4001458,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "202831001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fatigue fracture of vertebra",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4053654,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "125871005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of coccyx",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4129394,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "125608002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of lumbar spine",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4129420,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "125872003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of sacrum",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4053828,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "125607007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of thoracic spine",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4009296,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "208215006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Multiple fractures of thoracic spine",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4008222,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "207965006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture lumbar vertebra",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35624484,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "767262002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture of coccyx",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4013161,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "207977001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture sacrum",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4013156,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "207949005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture thoracic vertebra",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4210437,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "311815001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open multiple fracture of thoracic spine",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45770877,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "11312121000119103",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Stress fracture of cervical vertebra",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45757330,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "11312201000119103",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Stress fracture of lumbar vertebra",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45772068,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "11312081000119100",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Stress fracture of occipito atlanto axial vertebra",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45757329,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "11312161000119108",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Stress fracture of thoracic vertebra",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 437993,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "269062008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture of cervical spine",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 433329,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "269064009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture of second cervical vertebra",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4129393,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "125606003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of cervical spine",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4013612,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "207983003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of first cervical vertebra",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4008354,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "207984009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of second cervical vertebra",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 437689,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "207910007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Multiple closed fractures of cervical vertebrae",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4008355,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "207985005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Multiple fractures of cervical spine",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 441698,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "207936000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Multiple open fractures of cervical vertebrae",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 436540,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "269072006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture axis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 443248,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "269070003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture of cervical spine",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 433856,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "5913000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of neck of femur",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4027460,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "22802006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed pertrochanteric fracture",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4281541,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "66483005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open pertrochanteric fracture",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4015503,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "208562000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Pertrochanteric fracture",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4009610,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "208551000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture proximal femur, subtrochanteric",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4015981,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "208558006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture proximal femur, subtrochanteric",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4135748,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "263229001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Subtrochanteric fracture of femur",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 81141,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "17616007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture of ilium",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4296627,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "7687006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of ilium",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 78276,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "60214001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture of ilium",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 81696,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "33118001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture of acetabulum",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4276036,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "64455005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of acetabulum",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 77405,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "77598002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture of acetabulum",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 76240,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "208164008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture pubis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4263360,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "36127009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of pubis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 75943,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "71220005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture of pubis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4008356,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "207993005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Multiple fractures of lumbar spine and/or pelvis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4013613,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "207986006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of lumbar spine and/or pelvis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4237458,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "58150001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of clavicle",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4319889,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "9682006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of scapula",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4302740,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "78516000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of sternum",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 434494,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "42636007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture of upper end of humerus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4133610,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "127286005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of upper end of humerus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 436250,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "86844009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture of upper end of humerus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 435940,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90235006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture of shaft of humerus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4175616,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "50890004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of shaft of humerus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 434497,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "23741005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture of shaft of humerus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 440228,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "269080004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture of lower end of humerus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4138299,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "263192005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of distal end of humerus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 437121,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "269081000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture of lower end of humerus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 438887,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "26442006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture of shaft of femur",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 440825,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "54441004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of shaft of femur",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 440856,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "6628008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture of shaft of femur",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 440548,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "263233008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture of femur, distal end",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4135749,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "263232003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of distal end of femur",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 435094,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "263234002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture of femur, distal end",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 435093,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "25415003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture of femur",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 442560,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "71620000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of femur",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 438583,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "28576007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture of femur",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 435666,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "23900009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture of upper end of tibia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4070301,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "20433007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of upper end of tibia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 441979,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "111645003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture of upper end of tibia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 436252,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "28012007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture of shaft of tibia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4320628,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "6990005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of shaft of tibia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 437693,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "22234005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture of shaft of tibia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4012455,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "208634001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture distal tibia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4133194,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "278537006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of distal end of tibia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4012456,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "208637008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture distal tibia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40492392,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "447395005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture of fibula",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 436209,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "75591007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of fibula",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40490827,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "447017008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture of fibula",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4211657,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "413876003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture of lower leg",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4185758,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "414292006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of lower leg",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4186548,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "414942001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture of lower leg",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 436251,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "33041006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture of proximal end of ulna",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4136718,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "263203001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of proximal end of ulna",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 433047,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "78490005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture of proximal end of ulna",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 441973,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "71139009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture of proximal end of radius",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4136715,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "263195007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of proximal end of radius",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 441423,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "23813004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture of proximal end of radius",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 437400,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "53792000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture of shaft of ulna",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4134325,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "263204007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of shaft of ulna",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 433333,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "42760000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture of shaft of ulna",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 437116,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "17222009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture of distal end of radius",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4134322,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "263199001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of distal end of radius",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 440546,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "25529004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture of distal end of radius",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 440538,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "33192001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture of lower end of radius AND ulna",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4138301,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "263208005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of distal end of radius and ulna",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 432747,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "88116004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture of lower end of radius AND ulna",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 441974,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "91419009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture of forearm",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4278672,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "65966004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of forearm",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 440851,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "91296001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture of forearm",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 439162,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "15385006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture of medial malleolus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4105127,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "281531008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of medial malleolus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 432749,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "54530004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture of medial malleolus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 441428,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "34268009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture of lateral malleolus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4085552,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "281535004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of lateral malleolus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 437998,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "4673003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture of lateral malleolus",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4211657,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "413876003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Closed fracture of lower leg",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4185758,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "414292006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Fracture of lower leg",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4186548,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "414942001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Open fracture of lower leg",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40441585,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "240197007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Stress fracture",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4069306,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "203448006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Idiopathic osteoporosis with pathological fracture",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40480160,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "443165006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Osteoporotic fracture",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 73571,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "268029009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Pathological fracture",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        }
+      ]},
+      "name": "[HIRA]Osteoporotic Fracture",
+      "id": 3
+    }
+  ],
+  "EndStrategy": {"CustomEra": {
+    "DrugCodesetId": 1,
+    "DaysSupplyOverride": null,
+    "GapDays": 210,
+    "Offset": 0
+  }},
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "AdditionalCriteria": {
+    "CriteriaList": [],
+    "Type": "ALL",
+    "DemographicCriteriaList": [{
+      "Ethnicity": null,
+      "OccurrenceEndDate": null,
+      "Race": null,
+      "Gender": null,
+      "OccurrenceStartDate": null,
+      "Age": {
+        "Op": "bt",
+        "Extent": 64,
+        "Value": 50
+      }
+    }],
+    "Groups": [],
+    "Count": null
+  },
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": null,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 0,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "EndWindow": null,
+          "Criteria": {"ConditionOccurrence": {
+            "OccurrenceEndDate": null,
+            "CorrelatedCriteria": null,
+            "ConditionTypeExclude": false,
+            "CodesetId": 0,
+            "ProviderSpecialty": null,
+            "Gender": [{
+              "INVALID_REASON_CAPTION": "Unknown",
+              "CONCEPT_ID": 8532,
+              "STANDARD_CONCEPT": null,
+              "CONCEPT_CODE": "F",
+              "VOCABULARY_ID": "Gender",
+              "CONCEPT_NAME": "FEMALE",
+              "DOMAIN_ID": "Gender",
+              "STANDARD_CONCEPT_CAPTION": "Unknown",
+              "CONCEPT_CLASS_ID": null,
+              "INVALID_REASON": null
+            }],
+            "VisitType": null,
+            "First": null,
+            "OccurrenceStartDate": null,
+            "ConditionType": null,
+            "ConditionSourceConcept": null,
+            "ConditionStatus": null,
+            "StopReason": null,
+            "Age": {
+              "Op": "gte",
+              "Extent": null,
+              "Value": 50
+            }
+          }},
+          "Occurrence": {
+            "Type": 2,
+            "CountColumn": null,
+            "IsDistinct": false,
+            "Count": 1
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "has a history of osteoporosis",
+      "description": "postmenopausal osteoporosis"
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": null,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "EndWindow": null,
+          "Criteria": {"DrugExposure": {
+            "OccurrenceEndDate": null,
+            "CorrelatedCriteria": null,
+            "DrugSourceConcept": null,
+            "CodesetId": 2,
+            "DrugTypeExclude": false,
+            "Quantity": null,
+            "DrugType": null,
+            "ProviderSpecialty": null,
+            "EffectiveDrugDose": null,
+            "Gender": null,
+            "DaysSupply": null,
+            "DoseUnit": null,
+            "VisitType": null,
+            "Refills": null,
+            "First": null,
+            "OccurrenceStartDate": null,
+            "RouteConcept": null,
+            "StopReason": null,
+            "LotNumber": null,
+            "Age": null
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "CountColumn": null,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "has no history of anti osteoporosis w/o dmab",
+      "description": null
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": null,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "EndWindow": null,
+          "Criteria": {"ConditionOccurrence": {
+            "OccurrenceEndDate": null,
+            "CorrelatedCriteria": null,
+            "ConditionTypeExclude": false,
+            "CodesetId": 3,
+            "ProviderSpecialty": null,
+            "Gender": null,
+            "VisitType": null,
+            "First": null,
+            "OccurrenceStartDate": null,
+            "ConditionType": null,
+            "ConditionSourceConcept": null,
+            "ConditionStatus": null,
+            "StopReason": null,
+            "Age": null
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "CountColumn": null,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "has no history of osteoporotic fracture",
+      "description": null
+    }
+  ],
+  "PrimaryCriteria": {
+    "CriteriaList": [{"DrugExposure": {
+      "OccurrenceEndDate": null,
+      "CorrelatedCriteria": null,
+      "DrugSourceConcept": null,
+      "CodesetId": 1,
+      "DrugTypeExclude": false,
+      "Quantity": null,
+      "DrugType": null,
+      "ProviderSpecialty": null,
+      "EffectiveDrugDose": null,
+      "Gender": null,
+      "DaysSupply": {
+        "Op": "gte",
+        "Extent": null,
+        "Value": 1
+      },
+      "DoseUnit": null,
+      "VisitType": null,
+      "Refills": null,
+      "First": null,
+      "OccurrenceStartDate": null,
+      "RouteConcept": null,
+      "StopReason": null,
+      "LotNumber": null,
+      "Age": null
+    }}],
+    "PrimaryCriteriaLimit": {"Type": "First"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}

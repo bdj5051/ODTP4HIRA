@@ -1,6 +1,6 @@
 # Copyright 2020 Observational Health Data Sciences and Informatics
 #
-# This file is part of ODTP4HIRA
+# This file is part of ODPT4HIRA8
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -16,13 +16,13 @@
 
 # Format and check code ---------------------------------------------------
 OhdsiRTools::formatRFolder()
-OhdsiRTools::checkUsagePackage("ODTP4HIRA")
+OhdsiRTools::checkUsagePackage("ODPT4HIRA8")
 OhdsiRTools::updateCopyrightYearFolder()
 devtools::spell_check()
 
 # Create manual -----------------------------------------------------------
-unlink("extras/ODTP4HIRA.pdf")
-shell("R CMD Rd2pdf ./ --output=extras/ODTP4HIRA.pdf")
+unlink("extras/ODPT4HIRA8.pdf")
+shell("R CMD Rd2pdf ./ --output=extras/ODPT4HIRA8.pdf")
 
 # Create vignettes ---------------------------------------------------------
 rmarkdown::render("vignettes/UsingSkeletonPackage.Rmd",
@@ -43,7 +43,7 @@ ROhdsiWebApi::insertCohortDefinitionSetInPackage(fileName = "CohortsToCreate.csv
                                                  insertTableSql = TRUE,
                                                  insertCohortCreationR = TRUE,
                                                  generateStats = FALSE,
-                                                 packageName = "ODTP4HIRA")
+                                                 packageName = "ODPT4HIRA8")
 
 # Create analysis details -------------------------------------------------
 source("extras/CreateStudyAnalysisDetails.R")
@@ -51,4 +51,4 @@ createAnalysesDetails("inst/settings/")
 createPositiveControlSynthesisArgs("inst/settings/")
 
 # Store environment in which the study was executed -----------------------
-OhdsiRTools::createRenvLockFile("ODTP4HIRA")
+OhdsiRTools::createRenvLockFile("ODPT4HIRA8")

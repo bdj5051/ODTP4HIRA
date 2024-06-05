@@ -1,6 +1,6 @@
 # Copyright 2020 Observational Health Data Sciences and Informatics
 #
-# This file is part of ODTP4HIRA
+# This file is part of ODPT4HIRA8
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -17,7 +17,7 @@
 #' Execute the Study
 #'
 #' @details
-#' This function executes the ODTP4HIRA Study.
+#' This function executes the ODPT4HIRA8 Study.
 #' 
 #' The \code{createCohorts}, \code{synthesizePositiveControls}, \code{runAnalyses}, and \code{runDiagnostics} arguments
 #' are intended to be used to run parts of the full study at a time, but none of the parts are considered to be optional.
@@ -85,18 +85,9 @@ execute <- function(connectionDetails,
                     packageResults = TRUE,
                     maxCores = 4,
                     minCellCount= 5) {
-  
   if (!file.exists(outputFolder))
     dir.create(outputFolder, recursive = TRUE)
-  if (!file.exists(file.path(outputFolder, "results")))
-    dir.create(file.path(outputFolder, "results"))
-  if (!file.exists(file.path(outputFolder, "results/TreatmentPathways")))
-    dir.create(file.path(outputFolder, "results/TreatmentPathways"))
-  if (!file.exists(file.path(outputFolder, "results/CohortMethod")))
-    dir.create(file.path(outputFolder, "results/CohortMethod"))
-  if (!file.exists(file.path(outputFolder, "tmpData")))
-    dir.create(file.path(outputFolder, "tmpData"))
-  
+
   ParallelLogger::addDefaultFileLogger(file.path(outputFolder, "log.txt"))
   ParallelLogger::addDefaultErrorReportLogger(file.path(outputFolder, "errorReportR.txt"))
   on.exit(ParallelLogger::unregisterLogger("DEFAULT_FILE_LOGGER", silent = TRUE))
@@ -128,16 +119,6 @@ execute <- function(connectionDetails,
   }
   
   if (runAnalyses) {
-    # ParallelLogger::logInfo("Running Treatment Pathways analyses")
-    # computePrescriptionNum(databaseName = databaseName,
-    #                        outputFolder = outputFolder)
-    
-    # runPathwayAnalysis(connectionDetails = connectionDetails,
-    #                    cdmDatabaseSchema = cdmDatabaseSchema,
-    #                    cohortDatabaseSchema = cohortDatabaseSchema,
-    #                    cohortTable = cohortTable,
-    #                    outputFolder = outputFolder)
-    
     ParallelLogger::logInfo("Running CohortMethod analyses")
     runCohortMethod(connectionDetails = connectionDetails,
                     cdmDatabaseSchema = cdmDatabaseSchema,
@@ -152,11 +133,10 @@ execute <- function(connectionDetails,
     ParallelLogger::logInfo("Packaging results")
     exportResults(outputFolder = outputFolder,
                   databaseId = databaseId,
-                  databaseName = databaseId,
-                  databaseDescription = databaseId,
+                  databaseName = databaseName,
+                  databaseDescription = databaseDescription,
                   minCellCount = minCellCount,
                   maxCores = maxCores)
-
   }
   
   invisible(NULL)

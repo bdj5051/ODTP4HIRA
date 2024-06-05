@@ -1,31 +1,26 @@
-atlasId,atlasName,cohortId,name,cohortType,StartYear
-967,[ODTP] New users of Denosumab as first line therapy,967,ODTP_New_users_of_Denosumab_as_first_line_therapy,E_Target,""
-968,[ODTP] New users of Bisphosphonate as first line therapy,968,ODTP_New_users_of_Bisphosphonate_as_first_line_therapy,E_Target,""
-443,[ODTP] Osteoporotics Fracture,443,ODTP_Osteoporotics_Fracture,E_Outcome,""
-984,[ODTP] Osteoporotic fracture (Vertebral),984,ODTP_Osteoporotic_fracture_Vertebral,E_Outcome,""
-985,[ODTP] Osteoporotic fracture (Hip),985,ODTP_Osteoporotic_fracture_Hip,E_Outcome,""
-986,[ODTP] Osteoporotic fracture (NVNH),986,ODTP_Osteoporotic_fracture_NVNH,E_Outcome,""
-987,[ODTP] Osteoporotic fracture (unspecified),987,ODTP_Osteoporotic_fracture_unspecified,E_Outcome,""
-966,[ODTP] New users of PO Bisphosphonate as first line therapy,966,ODTP_New_users_of_PO_Bisphosphonate_as_first_line_therapy,E_Target,""
-965,[ODTP] New users of IV Bisphosphonate as first line therapy,965,ODTP_New_users_of_IV_Bisphosphonate_as_first_line_therapy,E_Target,""
-1,Osteoporosis (2012-2021),1,[ODTP] Osteoporosis,P_Target,""
-2,Osteoporosis (2012),2,[ODTP] Osteoporosis_sub,P_Target,2012
-3,Osteoporosis (2013),3,[ODTP] Osteoporosis_sub,P_Target,2013
-4,Osteoporosis (2014),4,[ODTP] Osteoporosis_sub,P_Target,2014
-5,Osteoporosis (2015),5,[ODTP] Osteoporosis_sub,P_Target,2015
-6,Osteoporosis (2016),6,[ODTP] Osteoporosis_sub,P_Target,2016
-7,Osteoporosis (2017),7,[ODTP] Osteoporosis_sub,P_Target,2017
-8,Osteoporosis (2018),8,[ODTP] Osteoporosis_sub,P_Target,2018
-9,Osteoporosis (2019),9,[ODTP] Osteoporosis_sub,P_Target,2019
-10,Osteoporosis (2020),10,[ODTP] Osteoporosis_sub,P_Target,2020
-11,Osteoporosis (2021),11,[ODTP] Osteoporosis_sub,P_Target,2021
-1001,bisphosphonate PO,1001,[ODTP] Bisphosphonate PO,P_Outcome,""
-1002,bisphosphonate IV,1002,[ODTP] Bisphosphonate_IV,P_Outcome,""
-1003,SERM,1003,[ODTP] SERM,P_Outcome,""
-1004,denosumab,1004,[ODTP] Denosumab,P_Outcome,""
-1005,rhPTH,1005,[ODTP] rhPTH,P_Outcome,""
-2001,bisphosphonate PO,2001,[ODTP] Bisphosphonate PO_DRUG,DRUG,""
-2002,bisphosphonate IV,2002,[ODTP] Bisphosphonate_IV_DRUG,DRUG,""
-2003,SERM,2003,[ODTP] SERM_DRUG,DRUG,""
-2004,denosumab,2004,[ODTP] Denosumab_DRUG,DRUG,""
-2005,rhPTH,2005,[ODTP] rhPTH_DRUG,DRUG,""
+atlasId,atlasName,cohortId,name
+1108,[HIRA] New users of Denosumab as first line therapy,1108,HIRA_New_users_of_Denosumab_as_first_line_therapy
+1109,[HIRA] New users of PO Bisphosphonate as first line therapy,1109,HIRA_New_users_of_PO_Bisphosphonate_as_first_line_therapy
+1102,[HIRA] Osteoporotics Fracture,1102,HIRA_Osteoporotics_Fracture
+1103,[HIRA] Osteoporotic fracture (Hip),1103,HIRA_Osteoporotic_fracture_Hip
+1104,[HIRA] Osteoporotic fracture (Vertebral),1104,HIRA_Osteoporotic_fracture_Vertebral
+1105,[HIRA] Osteoporotic fracture (NVNH),1105,HIRA_Osteoporotic_fracture_NVNH
+1106,[HIRA] Osteoporotic fracture (unspecified),1106,HIRA_Osteoporotic_fracture_unspecified
+1110,[HIRA] New users of IV Bisphosphonate as first line therapy,1110,HIRA_New_users_of_IV_Bisphosphonate_as_first_line_therapy
+1107,[HIRA] New users of Bisphosphonate as first line therapy,1107,HIRA_New_users_of_Bisphosphonate_as_first_line_therapy
+1289,[HIRA] New users of Denosumab as first line therapy 1,1289,HIRA_New_users_of_Denosumab_as_first_line_therapy_1
+1283,[HIRA] New users of Bisphosphonate as first line therapy 1,1283,HIRA_New_users_of_Bisphosphonate_as_first_line_therapy_1
+1290,[HIRA] New users of Denosumab as first line therapy 2,1290,HIRA_New_users_of_Denosumab_as_first_line_therapy_2
+1284,[HIRA] New users of Bisphosphonate as first line therapy 2,1284,HIRA_New_users_of_Bisphosphonate_as_first_line_therapy_2
+1291,[HIRA] New users of Denosumab as first line therapy 3,1291,HIRA_New_users_of_Denosumab_as_first_line_therapy_3
+1285,[HIRA] New users of Bisphosphonate as first line therapy 3,1285,HIRA_New_users_of_Bisphosphonate_as_first_line_therapy_3
+1292,[HIRA] New users of Denosumab as first line therapy 4,1292,HIRA_New_users_of_Denosumab_as_first_line_therapy_4
+1286,[HIRA] New users of Bisphosphonate as first line therapy 4,1286,HIRA_New_users_of_Bisphosphonate_as_first_line_therapy_4
+1293,[HIRA] New users of Denosumab as first line therapy 5,1293,HIRA_New_users_of_Denosumab_as_first_line_therapy_5
+1287,[HIRA] New users of Bisphosphonate as first line therapy 5,1287,HIRA_New_users_of_Bisphosphonate_as_first_line_therapy_5
+1294,[HIRA] New users of Denosumab as first line therapy 6,1294,HIRA_New_users_of_Denosumab_as_first_line_therapy_6
+1288,[HIRA] New users of Bisphosphonate as first line therapy 6,1288,HIRA_New_users_of_Bisphosphonate_as_first_line_therapy_6
+1297,[HIRA] New users of Denosumab as first line therapy 7,1297,HIRA_New_users_of_Denosumab_as_first_line_therapy_7
+1295,[HIRA] New users of Bisphosphonate as first line therapy 7,1295,HIRA_New_users_of_Bisphosphonate_as_first_line_therapy_7
+1298,[HIRA] New users of Denosumab as first line therapy 8,1298,HIRA_New_users_of_Denosumab_as_first_line_therapy_8
+1296,[HIRA] New users of Bisphosphonate as first line therapy 8,1296,HIRA_New_users_of_Bisphosphonate_as_first_line_therapy_8
