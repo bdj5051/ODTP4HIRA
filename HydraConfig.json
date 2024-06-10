@@ -5,11 +5,11 @@
 	"actions":[{
 		"type": "fileNameFindAndReplace",
 		"input": "packageName",
-		"find": "ODPT4HIRA8"
+		"find": "ODTP4HIRA"
 	},{
 		"type": "stringFindAndReplace",
 		"input": "packageName",
-		"find": "ODPT4HIRA8"
+		"find": "ODTP4HIRA"
 	},{
 		"type": "jsonArrayToCsv",
 		"input": "cohortDefinitions",

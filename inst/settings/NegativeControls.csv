@@ -1,1882 +1,514 @@
 targetId,comparatorId,outcomeId,outcomeName,type
-1108,1109,437390,Hypoxemia,outcome
-1108,1109,4088768,Absent nipple,outcome
-1108,1109,380724,Corneal ghost vessels,outcome
-1108,1109,436041,Leech infestation,outcome
-1108,1109,433369,Toxic effect of food contaminant,outcome
-1108,1109,4088910,Uterine cervix absent,outcome
-1108,1109,440924,Poisoning by vasodilator,outcome
-1108,1109,435028,Puerperal pyrexia of unknown origin,outcome
-1108,1109,443892,Toxic effect of hydrocyanic acid,outcome
-1108,1109,4061157,Antenatal ultrasound scan abnormal,outcome
-1108,1109,4019836,Social exclusion,outcome
-1108,1109,4101305,Gaucher's disease,outcome
-1108,1109,201091,Disproportion - major pelvic abnormality,outcome
-1108,1109,436860,Poisoning by irritant cathartic,outcome
-1108,1109,4155818,Does climb,outcome
-1108,1109,4228429,Carnitine deficiency,outcome
-1108,1109,40482801,Type II diabetes mellitus uncontrolled,outcome
-1108,1109,435515,Hypo-osmolality and or hyponatremia,outcome
-1108,1109,136237,Cardiovascular system problem,outcome
-1108,1109,4012368,Increased frequency of urination,outcome
-1108,1109,441417,Incoordination,outcome
-1108,1109,4213540,Cervical somatic dysfunction,outcome
-1108,1109,441628,Menopausal and postmenopausal disorders,outcome
-1108,1109,81878,Benign paroxysmal positional vertigo,outcome
-1108,1109,4088290,Absence of breast,outcome
-1108,1109,4092896,Feces contents abnormal,outcome
-1108,1109,201613,Chronic nonalcoholic liver disease,outcome
-1108,1109,314754,Wheezing,outcome
-1108,1109,4214376,Hyperglycemia,outcome
-1108,1109,193020,Incomplete emptying of bladder,outcome
-1108,1109,137989,Abnormal results of cardiovascular function studies,outcome
-1108,1109,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
-1108,1109,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
-1108,1109,4209423,Nicotine dependence,outcome
-1108,1109,4194160,Thyroid function tests abnormal,outcome
-1108,1109,439795,Minimal cognitive impairment,outcome
-1108,1109,73026,Abnormal breath sounds,outcome
-1108,1109,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
-1108,1109,4088920,Uterus absent,outcome
-1108,1109,132736,Bacteremia,outcome
-1108,1109,436940,Metabolic syndrome X,outcome
-1108,1109,195590,Urethral stricture,outcome
-1108,1109,4092743,Unsteady when standing,outcome
-1108,1109,443585,Abrasion and/or friction burn of multiple sites,outcome
-1108,1109,4022076,Patient dependence on care provider,outcome
-1108,1109,4059015,Falls,outcome
-1108,1109,4103703,Melena,outcome
-1108,1109,4199550,Unable to mobilize,outcome
-1108,1109,72404,Joint stiffness,outcome
-1108,1109,4233565,Severe protein-calorie malnutrition (Gomez: less than 60 percent of standard weight),outcome
-1108,1109,40480893,Nonspecific tuberculin test reaction,outcome
-1108,1109,201606,Crohn's disease,outcome
-1108,1109,4344500,Impingement syndrome of shoulder region,outcome
-1108,1109,253796,Pneumothorax,outcome
-1108,1109,4295287,Hypercoagulability state,outcome
-1108,1109,4195085,Nasal congestion,outcome
-1108,1109,137682,Skin sensation disturbance,outcome
-1108,1109,374801,Foreign body in ear,outcome
-1108,1109,442282,Urinary casts,outcome
-1108,1109,436246,Reduced libido,outcome
-1108,1109,4196636,Dysarthria,outcome
-1108,1109,4201390,Colostomy present,outcome
-1108,1109,40480002,Aphasia as late effect of cerebrovascular disease,outcome
-1108,1109,435516,Lipoprotein deficiency disorder,outcome
-1108,1109,434675,Complication of gastrostomy,outcome
-1108,1109,432596,Immune defect,outcome
-1108,1109,196454,Colostomy and enterostomy malfunction,outcome
-1108,1109,441553,Myoclonus,outcome
-1108,1109,4125590,Slurred speech,outcome
-1108,1109,439971,Poisoning by anticoagulant,outcome
-1108,1109,372897,Homonymous hemianopia,outcome
-1108,1109,441536,Mixed acid-base balance disorder,outcome
-1108,1109,4094448,Pregnancy test negative,outcome
-1108,1109,436957,Functional disorders of polymorphonuclear neutrophils,outcome
-1108,1109,4262519,Female sexual arousal disorder,outcome
-1108,1109,4229897,Stupor,outcome
-1108,1109,377873,Lid lag,outcome
-1108,1109,4264617,Foot-drop,outcome
-1108,1109,437176,Late effect of accidental fall,outcome
-1108,1109,438130,Opioid abuse,outcome
-1108,1109,4163735,Hemochromatosis,outcome
-1108,1109,4091513,Passing flatus,outcome
-1108,1109,4005743,Female sterility,outcome
-1108,1109,439234,Poisoning by cardiotonic glycoside,outcome
-1108,1109,4201387,Tracheostomy present,outcome
-1108,1109,4115402,Difficulty sleeping,outcome
-1108,1109,432593,Kwashiorkor,outcome
-1108,1109,44783954,Acid reflux,outcome
-1108,1109,440710,Intraretinal microvascular abnormality,outcome
-1108,1109,4022071,Convalescence,outcome
-1108,1109,437744,Heat exhaustion,outcome
-1108,1109,4262562,Abnormal heart beat,outcome
-1108,1109,4103642,Amputated toe,outcome
-1108,1109,4012570,High risk sexual behavior,outcome
-1108,1109,133088,Late amputation stump complication,outcome
-1108,1109,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
-1108,1109,374957,Acquired stenosis of external ear canal,outcome
-1108,1109,440612,Toxic effect of tobacco and nicotine,outcome
-1108,1109,436409,Abnormal pupil,outcome
-1108,1109,4202045,Postviral fatigue syndrome,outcome
-1108,1109,443447,Iatrogenic hypotension,outcome
-1108,1109,4305303,Sleep deprivation,outcome
-1108,1109,197676,Large liver,outcome
-1108,1109,4268911,Disorientated,outcome
-1108,1109,46286594,Problem related to lifestyle,outcome
-1108,1109,440457,Threatened miscarriage,outcome
-1108,1109,4168318,Genetic disorder carrier,outcome
-1108,1109,197036,Vesicoureteric reflux,outcome
-1108,1109,440193,Wristdrop,outcome
-1108,1109,372329,Dissociated deviation,outcome
-1108,1109,4012934,Homocystinuria,outcome
-1108,1109,438941,Hydantoin derivative poisoning,outcome
-1108,1109,4197184,Pseudobulbar affect,outcome
-1108,1109,437092,Physiological development failure,outcome
-1108,1109,193598,Extravasation of urine,outcome
-1108,1109,443172,"Splinter of face, without major open wound",outcome
-1108,1109,433111,Effects of hunger,outcome
-1108,1109,197096,Urethra and bladder neck atresia and stenosis,outcome
-1108,1109,4168681,Irritability and anger,outcome
-1108,1109,434485,Increase in body fat,outcome
-1108,1109,439871,Hemospermia,outcome
-1108,1109,258540,Marfan's syndrome,outcome
-1108,1109,439743,Late effects of respiratory tuberculosis,outcome
-1108,1109,435720,Adverse anesthesia outcome,outcome
-1108,1109,440053,Infestation by insect,outcome
-1108,1109,433441,Ectopic production of endocrine substance,outcome
-1108,1109,4067861,Deviation of finger,outcome
-1108,1109,434482,Diethylstilbestrol poisoning,outcome
-1108,1109,434016,"Nondependent opioid abuse, continuous",outcome
-1108,1109,434916,"Amphetamine or psychostimulant dependence, continuous",outcome
-1108,1109,439136,"Asphyxia, in liveborn infant",outcome
-1108,1109,434063,Jaw to cranial base anomaly,outcome
-1108,1109,4051630,Malingering,outcome
-1108,1109,440068,Psychosexual dysfunction,outcome
-1108,1109,443702,Abnormal response to nerve stimulation,outcome
-1108,1109,134315,Myelophthisis,outcome
-1108,1109,438624,Complication of renal dialysis,outcome
-1108,1109,4090271,Choroidal atrophy,outcome
-1108,1109,433951,Poisoning by tranquilizer,outcome
-1108,1109,439788,Galactosemia,outcome
-1108,1109,80463,Fetus with chromosomal abnormality with antenatal problem,outcome
-1108,1109,4229403,Flat anterior chamber of eye,outcome
-1108,1109,440919,Poisoning by methadone,outcome
-1108,1109,436015,Accidental poisoning from foodstuffs and poisonous plants,outcome
-1108,1109,436828,Saliva abnormal,outcome
-1108,1109,434319,Premature ejaculation,outcome
-1108,1109,441487,Frostbite,outcome
-1108,1109,438759,Descemet's membrane fold,outcome
-1108,1109,436011,Bends,outcome
-1108,1109,436426,Malleus mobility reduced,outcome
-1108,1109,443933,Nicotiana tabacum poisoning,outcome
-1108,1109,375277,Non-infectious pinna disorders,outcome
-1108,1109,4029271,Essential fatty acid deficiency,outcome
-1108,1109,4318502,Poisoning due to scorpion venom,outcome
-1108,1109,435170,Effects of thirst,outcome
-1108,1109,4111720,Sequelae of subarachnoid hemorrhage,outcome
-1108,1109,443526,Toxic effect from eating shellfish,outcome
-1108,1109,436294,Poisoning by phenothiazine-based tranquilizer,outcome
-1108,1109,436233,Delayed milestone,outcome
-1108,1109,4035269,Non-ketotic hyperglycinemia,outcome
-1108,1109,441759,Toxic effect of inorganic lead compound,outcome
-1108,1109,443082,Starvation,outcome
-1108,1109,437732,Toxic effect of chromium,outcome
-1108,1109,4182437,Female genital cutting,outcome
-1108,1109,4002572,"Uncomplicated sedative, hypnotic AND/OR anxiolytic withdrawal",outcome
-1108,1109,254163,Pulmonary aspiration of gastric contents,outcome
-1108,1109,4066505,Clicking hip,outcome
-1108,1109,194439,Obstetric perineal wound disruption,outcome
-1108,1109,437369,Postmature infancy,outcome
-1108,1109,444043,Poisoning by intravenous anesthetic,outcome
-1108,1109,4173136,Agnosia,outcome
-1108,1110,437390,Hypoxemia,outcome
-1108,1110,4088768,Absent nipple,outcome
-1108,1110,380724,Corneal ghost vessels,outcome
-1108,1110,436041,Leech infestation,outcome
-1108,1110,433369,Toxic effect of food contaminant,outcome
-1108,1110,4088910,Uterine cervix absent,outcome
-1108,1110,440924,Poisoning by vasodilator,outcome
-1108,1110,435028,Puerperal pyrexia of unknown origin,outcome
-1108,1110,443892,Toxic effect of hydrocyanic acid,outcome
-1108,1110,4061157,Antenatal ultrasound scan abnormal,outcome
-1108,1110,4019836,Social exclusion,outcome
-1108,1110,4101305,Gaucher's disease,outcome
-1108,1110,201091,Disproportion - major pelvic abnormality,outcome
-1108,1110,436860,Poisoning by irritant cathartic,outcome
-1108,1110,4155818,Does climb,outcome
-1108,1110,4228429,Carnitine deficiency,outcome
-1108,1110,40482801,Type II diabetes mellitus uncontrolled,outcome
-1108,1110,435515,Hypo-osmolality and or hyponatremia,outcome
-1108,1110,136237,Cardiovascular system problem,outcome
-1108,1110,4012368,Increased frequency of urination,outcome
-1108,1110,441417,Incoordination,outcome
-1108,1110,4213540,Cervical somatic dysfunction,outcome
-1108,1110,441628,Menopausal and postmenopausal disorders,outcome
-1108,1110,81878,Benign paroxysmal positional vertigo,outcome
-1108,1110,4088290,Absence of breast,outcome
-1108,1110,4092896,Feces contents abnormal,outcome
-1108,1110,201613,Chronic nonalcoholic liver disease,outcome
-1108,1110,314754,Wheezing,outcome
-1108,1110,4214376,Hyperglycemia,outcome
-1108,1110,193020,Incomplete emptying of bladder,outcome
-1108,1110,137989,Abnormal results of cardiovascular function studies,outcome
-1108,1110,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
-1108,1110,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
-1108,1110,4209423,Nicotine dependence,outcome
-1108,1110,4194160,Thyroid function tests abnormal,outcome
-1108,1110,439795,Minimal cognitive impairment,outcome
-1108,1110,73026,Abnormal breath sounds,outcome
-1108,1110,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
-1108,1110,4088920,Uterus absent,outcome
-1108,1110,132736,Bacteremia,outcome
-1108,1110,436940,Metabolic syndrome X,outcome
-1108,1110,195590,Urethral stricture,outcome
-1108,1110,4092743,Unsteady when standing,outcome
-1108,1110,443585,Abrasion and/or friction burn of multiple sites,outcome
-1108,1110,4022076,Patient dependence on care provider,outcome
-1108,1110,4059015,Falls,outcome
-1108,1110,4103703,Melena,outcome
-1108,1110,4199550,Unable to mobilize,outcome
-1108,1110,72404,Joint stiffness,outcome
-1108,1110,4233565,Severe protein-calorie malnutrition (Gomez: less than 60 percent of standard weight),outcome
-1108,1110,40480893,Nonspecific tuberculin test reaction,outcome
-1108,1110,201606,Crohn's disease,outcome
-1108,1110,4344500,Impingement syndrome of shoulder region,outcome
-1108,1110,253796,Pneumothorax,outcome
-1108,1110,4295287,Hypercoagulability state,outcome
-1108,1110,4195085,Nasal congestion,outcome
-1108,1110,137682,Skin sensation disturbance,outcome
-1108,1110,374801,Foreign body in ear,outcome
-1108,1110,442282,Urinary casts,outcome
-1108,1110,436246,Reduced libido,outcome
-1108,1110,4196636,Dysarthria,outcome
-1108,1110,4201390,Colostomy present,outcome
-1108,1110,40480002,Aphasia as late effect of cerebrovascular disease,outcome
-1108,1110,435516,Lipoprotein deficiency disorder,outcome
-1108,1110,434675,Complication of gastrostomy,outcome
-1108,1110,432596,Immune defect,outcome
-1108,1110,196454,Colostomy and enterostomy malfunction,outcome
-1108,1110,441553,Myoclonus,outcome
-1108,1110,4125590,Slurred speech,outcome
-1108,1110,439971,Poisoning by anticoagulant,outcome
-1108,1110,372897,Homonymous hemianopia,outcome
-1108,1110,441536,Mixed acid-base balance disorder,outcome
-1108,1110,4094448,Pregnancy test negative,outcome
-1108,1110,436957,Functional disorders of polymorphonuclear neutrophils,outcome
-1108,1110,4262519,Female sexual arousal disorder,outcome
-1108,1110,4229897,Stupor,outcome
-1108,1110,377873,Lid lag,outcome
-1108,1110,4264617,Foot-drop,outcome
-1108,1110,437176,Late effect of accidental fall,outcome
-1108,1110,438130,Opioid abuse,outcome
-1108,1110,4163735,Hemochromatosis,outcome
-1108,1110,4091513,Passing flatus,outcome
-1108,1110,4005743,Female sterility,outcome
-1108,1110,439234,Poisoning by cardiotonic glycoside,outcome
-1108,1110,4201387,Tracheostomy present,outcome
-1108,1110,4115402,Difficulty sleeping,outcome
-1108,1110,432593,Kwashiorkor,outcome
-1108,1110,44783954,Acid reflux,outcome
-1108,1110,440710,Intraretinal microvascular abnormality,outcome
-1108,1110,4022071,Convalescence,outcome
-1108,1110,437744,Heat exhaustion,outcome
-1108,1110,4262562,Abnormal heart beat,outcome
-1108,1110,4103642,Amputated toe,outcome
-1108,1110,4012570,High risk sexual behavior,outcome
-1108,1110,133088,Late amputation stump complication,outcome
-1108,1110,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
-1108,1110,374957,Acquired stenosis of external ear canal,outcome
-1108,1110,440612,Toxic effect of tobacco and nicotine,outcome
-1108,1110,436409,Abnormal pupil,outcome
-1108,1110,4202045,Postviral fatigue syndrome,outcome
-1108,1110,443447,Iatrogenic hypotension,outcome
-1108,1110,4305303,Sleep deprivation,outcome
-1108,1110,197676,Large liver,outcome
-1108,1110,4268911,Disorientated,outcome
-1108,1110,46286594,Problem related to lifestyle,outcome
-1108,1110,440457,Threatened miscarriage,outcome
-1108,1110,4168318,Genetic disorder carrier,outcome
-1108,1110,197036,Vesicoureteric reflux,outcome
-1108,1110,440193,Wristdrop,outcome
-1108,1110,372329,Dissociated deviation,outcome
-1108,1110,4012934,Homocystinuria,outcome
-1108,1110,438941,Hydantoin derivative poisoning,outcome
-1108,1110,4197184,Pseudobulbar affect,outcome
-1108,1110,437092,Physiological development failure,outcome
-1108,1110,193598,Extravasation of urine,outcome
-1108,1110,443172,"Splinter of face, without major open wound",outcome
-1108,1110,433111,Effects of hunger,outcome
-1108,1110,197096,Urethra and bladder neck atresia and stenosis,outcome
-1108,1110,4168681,Irritability and anger,outcome
-1108,1110,434485,Increase in body fat,outcome
-1108,1110,439871,Hemospermia,outcome
-1108,1110,258540,Marfan's syndrome,outcome
-1108,1110,439743,Late effects of respiratory tuberculosis,outcome
-1108,1110,435720,Adverse anesthesia outcome,outcome
-1108,1110,440053,Infestation by insect,outcome
-1108,1110,433441,Ectopic production of endocrine substance,outcome
-1108,1110,4067861,Deviation of finger,outcome
-1108,1110,434482,Diethylstilbestrol poisoning,outcome
-1108,1110,434016,"Nondependent opioid abuse, continuous",outcome
-1108,1110,434916,"Amphetamine or psychostimulant dependence, continuous",outcome
-1108,1110,439136,"Asphyxia, in liveborn infant",outcome
-1108,1110,434063,Jaw to cranial base anomaly,outcome
-1108,1110,4051630,Malingering,outcome
-1108,1110,440068,Psychosexual dysfunction,outcome
-1108,1110,443702,Abnormal response to nerve stimulation,outcome
-1108,1110,134315,Myelophthisis,outcome
-1108,1110,438624,Complication of renal dialysis,outcome
-1108,1110,4090271,Choroidal atrophy,outcome
-1108,1110,433951,Poisoning by tranquilizer,outcome
-1108,1110,439788,Galactosemia,outcome
-1108,1110,80463,Fetus with chromosomal abnormality with antenatal problem,outcome
-1108,1110,4229403,Flat anterior chamber of eye,outcome
-1108,1110,440919,Poisoning by methadone,outcome
-1108,1110,436015,Accidental poisoning from foodstuffs and poisonous plants,outcome
-1108,1110,436828,Saliva abnormal,outcome
-1108,1110,434319,Premature ejaculation,outcome
-1108,1110,441487,Frostbite,outcome
-1108,1110,438759,Descemet's membrane fold,outcome
-1108,1110,436011,Bends,outcome
-1108,1110,436426,Malleus mobility reduced,outcome
-1108,1110,443933,Nicotiana tabacum poisoning,outcome
-1108,1110,375277,Non-infectious pinna disorders,outcome
-1108,1110,4029271,Essential fatty acid deficiency,outcome
-1108,1110,4318502,Poisoning due to scorpion venom,outcome
-1108,1110,435170,Effects of thirst,outcome
-1108,1110,4111720,Sequelae of subarachnoid hemorrhage,outcome
-1108,1110,443526,Toxic effect from eating shellfish,outcome
-1108,1110,436294,Poisoning by phenothiazine-based tranquilizer,outcome
-1108,1110,436233,Delayed milestone,outcome
-1108,1110,4035269,Non-ketotic hyperglycinemia,outcome
-1108,1110,441759,Toxic effect of inorganic lead compound,outcome
-1108,1110,443082,Starvation,outcome
-1108,1110,437732,Toxic effect of chromium,outcome
-1108,1110,4182437,Female genital cutting,outcome
-1108,1110,4002572,"Uncomplicated sedative, hypnotic AND/OR anxiolytic withdrawal",outcome
-1108,1110,254163,Pulmonary aspiration of gastric contents,outcome
-1108,1110,4066505,Clicking hip,outcome
-1108,1110,194439,Obstetric perineal wound disruption,outcome
-1108,1110,437369,Postmature infancy,outcome
-1108,1110,444043,Poisoning by intravenous anesthetic,outcome
-1108,1110,4173136,Agnosia,outcome
-1108,1107,437390,Hypoxemia,outcome
-1108,1107,4088768,Absent nipple,outcome
-1108,1107,380724,Corneal ghost vessels,outcome
-1108,1107,436041,Leech infestation,outcome
-1108,1107,433369,Toxic effect of food contaminant,outcome
-1108,1107,4088910,Uterine cervix absent,outcome
-1108,1107,440924,Poisoning by vasodilator,outcome
-1108,1107,435028,Puerperal pyrexia of unknown origin,outcome
-1108,1107,443892,Toxic effect of hydrocyanic acid,outcome
-1108,1107,4061157,Antenatal ultrasound scan abnormal,outcome
-1108,1107,4019836,Social exclusion,outcome
-1108,1107,4101305,Gaucher's disease,outcome
-1108,1107,201091,Disproportion - major pelvic abnormality,outcome
-1108,1107,436860,Poisoning by irritant cathartic,outcome
-1108,1107,4155818,Does climb,outcome
-1108,1107,4228429,Carnitine deficiency,outcome
-1108,1107,40482801,Type II diabetes mellitus uncontrolled,outcome
-1108,1107,435515,Hypo-osmolality and or hyponatremia,outcome
-1108,1107,136237,Cardiovascular system problem,outcome
-1108,1107,4012368,Increased frequency of urination,outcome
-1108,1107,441417,Incoordination,outcome
-1108,1107,4213540,Cervical somatic dysfunction,outcome
-1108,1107,441628,Menopausal and postmenopausal disorders,outcome
-1108,1107,81878,Benign paroxysmal positional vertigo,outcome
-1108,1107,4088290,Absence of breast,outcome
-1108,1107,4092896,Feces contents abnormal,outcome
-1108,1107,201613,Chronic nonalcoholic liver disease,outcome
-1108,1107,314754,Wheezing,outcome
-1108,1107,4214376,Hyperglycemia,outcome
-1108,1107,193020,Incomplete emptying of bladder,outcome
-1108,1107,137989,Abnormal results of cardiovascular function studies,outcome
-1108,1107,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
-1108,1107,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
-1108,1107,4209423,Nicotine dependence,outcome
-1108,1107,4194160,Thyroid function tests abnormal,outcome
-1108,1107,439795,Minimal cognitive impairment,outcome
-1108,1107,73026,Abnormal breath sounds,outcome
-1108,1107,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
-1108,1107,4088920,Uterus absent,outcome
-1108,1107,132736,Bacteremia,outcome
-1108,1107,436940,Metabolic syndrome X,outcome
-1108,1107,195590,Urethral stricture,outcome
-1108,1107,4092743,Unsteady when standing,outcome
-1108,1107,443585,Abrasion and/or friction burn of multiple sites,outcome
-1108,1107,4022076,Patient dependence on care provider,outcome
-1108,1107,4059015,Falls,outcome
-1108,1107,4103703,Melena,outcome
-1108,1107,4199550,Unable to mobilize,outcome
-1108,1107,72404,Joint stiffness,outcome
-1108,1107,4233565,Severe protein-calorie malnutrition (Gomez: less than 60 percent of standard weight),outcome
-1108,1107,40480893,Nonspecific tuberculin test reaction,outcome
-1108,1107,201606,Crohn's disease,outcome
-1108,1107,4344500,Impingement syndrome of shoulder region,outcome
-1108,1107,253796,Pneumothorax,outcome
-1108,1107,4295287,Hypercoagulability state,outcome
-1108,1107,4195085,Nasal congestion,outcome
-1108,1107,137682,Skin sensation disturbance,outcome
-1108,1107,374801,Foreign body in ear,outcome
-1108,1107,442282,Urinary casts,outcome
-1108,1107,436246,Reduced libido,outcome
-1108,1107,4196636,Dysarthria,outcome
-1108,1107,4201390,Colostomy present,outcome
-1108,1107,40480002,Aphasia as late effect of cerebrovascular disease,outcome
-1108,1107,435516,Lipoprotein deficiency disorder,outcome
-1108,1107,434675,Complication of gastrostomy,outcome
-1108,1107,432596,Immune defect,outcome
-1108,1107,196454,Colostomy and enterostomy malfunction,outcome
-1108,1107,441553,Myoclonus,outcome
-1108,1107,4125590,Slurred speech,outcome
-1108,1107,439971,Poisoning by anticoagulant,outcome
-1108,1107,372897,Homonymous hemianopia,outcome
-1108,1107,441536,Mixed acid-base balance disorder,outcome
-1108,1107,4094448,Pregnancy test negative,outcome
-1108,1107,436957,Functional disorders of polymorphonuclear neutrophils,outcome
-1108,1107,4262519,Female sexual arousal disorder,outcome
-1108,1107,4229897,Stupor,outcome
-1108,1107,377873,Lid lag,outcome
-1108,1107,4264617,Foot-drop,outcome
-1108,1107,437176,Late effect of accidental fall,outcome
-1108,1107,438130,Opioid abuse,outcome
-1108,1107,4163735,Hemochromatosis,outcome
-1108,1107,4091513,Passing flatus,outcome
-1108,1107,4005743,Female sterility,outcome
-1108,1107,439234,Poisoning by cardiotonic glycoside,outcome
-1108,1107,4201387,Tracheostomy present,outcome
-1108,1107,4115402,Difficulty sleeping,outcome
-1108,1107,432593,Kwashiorkor,outcome
-1108,1107,44783954,Acid reflux,outcome
-1108,1107,440710,Intraretinal microvascular abnormality,outcome
-1108,1107,4022071,Convalescence,outcome
-1108,1107,437744,Heat exhaustion,outcome
-1108,1107,4262562,Abnormal heart beat,outcome
-1108,1107,4103642,Amputated toe,outcome
-1108,1107,4012570,High risk sexual behavior,outcome
-1108,1107,133088,Late amputation stump complication,outcome
-1108,1107,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
-1108,1107,374957,Acquired stenosis of external ear canal,outcome
-1108,1107,440612,Toxic effect of tobacco and nicotine,outcome
-1108,1107,436409,Abnormal pupil,outcome
-1108,1107,4202045,Postviral fatigue syndrome,outcome
-1108,1107,443447,Iatrogenic hypotension,outcome
-1108,1107,4305303,Sleep deprivation,outcome
-1108,1107,197676,Large liver,outcome
-1108,1107,4268911,Disorientated,outcome
-1108,1107,46286594,Problem related to lifestyle,outcome
-1108,1107,440457,Threatened miscarriage,outcome
-1108,1107,4168318,Genetic disorder carrier,outcome
-1108,1107,197036,Vesicoureteric reflux,outcome
-1108,1107,440193,Wristdrop,outcome
-1108,1107,372329,Dissociated deviation,outcome
-1108,1107,4012934,Homocystinuria,outcome
-1108,1107,438941,Hydantoin derivative poisoning,outcome
-1108,1107,4197184,Pseudobulbar affect,outcome
-1108,1107,437092,Physiological development failure,outcome
-1108,1107,193598,Extravasation of urine,outcome
-1108,1107,443172,"Splinter of face, without major open wound",outcome
-1108,1107,433111,Effects of hunger,outcome
-1108,1107,197096,Urethra and bladder neck atresia and stenosis,outcome
-1108,1107,4168681,Irritability and anger,outcome
-1108,1107,434485,Increase in body fat,outcome
-1108,1107,439871,Hemospermia,outcome
-1108,1107,258540,Marfan's syndrome,outcome
-1108,1107,439743,Late effects of respiratory tuberculosis,outcome
-1108,1107,435720,Adverse anesthesia outcome,outcome
-1108,1107,440053,Infestation by insect,outcome
-1108,1107,433441,Ectopic production of endocrine substance,outcome
-1108,1107,4067861,Deviation of finger,outcome
-1108,1107,434482,Diethylstilbestrol poisoning,outcome
-1108,1107,434016,"Nondependent opioid abuse, continuous",outcome
-1108,1107,434916,"Amphetamine or psychostimulant dependence, continuous",outcome
-1108,1107,439136,"Asphyxia, in liveborn infant",outcome
-1108,1107,434063,Jaw to cranial base anomaly,outcome
-1108,1107,4051630,Malingering,outcome
-1108,1107,440068,Psychosexual dysfunction,outcome
-1108,1107,443702,Abnormal response to nerve stimulation,outcome
-1108,1107,134315,Myelophthisis,outcome
-1108,1107,438624,Complication of renal dialysis,outcome
-1108,1107,4090271,Choroidal atrophy,outcome
-1108,1107,433951,Poisoning by tranquilizer,outcome
-1108,1107,439788,Galactosemia,outcome
-1108,1107,80463,Fetus with chromosomal abnormality with antenatal problem,outcome
-1108,1107,4229403,Flat anterior chamber of eye,outcome
-1108,1107,440919,Poisoning by methadone,outcome
-1108,1107,436015,Accidental poisoning from foodstuffs and poisonous plants,outcome
-1108,1107,436828,Saliva abnormal,outcome
-1108,1107,434319,Premature ejaculation,outcome
-1108,1107,441487,Frostbite,outcome
-1108,1107,438759,Descemet's membrane fold,outcome
-1108,1107,436011,Bends,outcome
-1108,1107,436426,Malleus mobility reduced,outcome
-1108,1107,443933,Nicotiana tabacum poisoning,outcome
-1108,1107,375277,Non-infectious pinna disorders,outcome
-1108,1107,4029271,Essential fatty acid deficiency,outcome
-1108,1107,4318502,Poisoning due to scorpion venom,outcome
-1108,1107,435170,Effects of thirst,outcome
-1108,1107,4111720,Sequelae of subarachnoid hemorrhage,outcome
-1108,1107,443526,Toxic effect from eating shellfish,outcome
-1108,1107,436294,Poisoning by phenothiazine-based tranquilizer,outcome
-1108,1107,436233,Delayed milestone,outcome
-1108,1107,4035269,Non-ketotic hyperglycinemia,outcome
-1108,1107,441759,Toxic effect of inorganic lead compound,outcome
-1108,1107,443082,Starvation,outcome
-1108,1107,437732,Toxic effect of chromium,outcome
-1108,1107,4182437,Female genital cutting,outcome
-1108,1107,4002572,"Uncomplicated sedative, hypnotic AND/OR anxiolytic withdrawal",outcome
-1108,1107,254163,Pulmonary aspiration of gastric contents,outcome
-1108,1107,4066505,Clicking hip,outcome
-1108,1107,194439,Obstetric perineal wound disruption,outcome
-1108,1107,437369,Postmature infancy,outcome
-1108,1107,444043,Poisoning by intravenous anesthetic,outcome
-1108,1107,4173136,Agnosia,outcome
-1289,1283,437390,Hypoxemia,outcome
-1289,1283,4088768,Absent nipple,outcome
-1289,1283,380724,Corneal ghost vessels,outcome
-1289,1283,436041,Leech infestation,outcome
-1289,1283,433369,Toxic effect of food contaminant,outcome
-1289,1283,4088910,Uterine cervix absent,outcome
-1289,1283,440924,Poisoning by vasodilator,outcome
-1289,1283,435028,Puerperal pyrexia of unknown origin,outcome
-1289,1283,443892,Toxic effect of hydrocyanic acid,outcome
-1289,1283,4061157,Antenatal ultrasound scan abnormal,outcome
-1289,1283,4019836,Social exclusion,outcome
-1289,1283,4101305,Gaucher's disease,outcome
-1289,1283,201091,Disproportion - major pelvic abnormality,outcome
-1289,1283,436860,Poisoning by irritant cathartic,outcome
-1289,1283,4155818,Does climb,outcome
-1289,1283,4228429,Carnitine deficiency,outcome
-1289,1283,40482801,Type II diabetes mellitus uncontrolled,outcome
-1289,1283,435515,Hypo-osmolality and or hyponatremia,outcome
-1289,1283,136237,Cardiovascular system problem,outcome
-1289,1283,4012368,Increased frequency of urination,outcome
-1289,1283,441417,Incoordination,outcome
-1289,1283,4213540,Cervical somatic dysfunction,outcome
-1289,1283,441628,Menopausal and postmenopausal disorders,outcome
-1289,1283,81878,Benign paroxysmal positional vertigo,outcome
-1289,1283,4088290,Absence of breast,outcome
-1289,1283,4092896,Feces contents abnormal,outcome
-1289,1283,201613,Chronic nonalcoholic liver disease,outcome
-1289,1283,314754,Wheezing,outcome
-1289,1283,4214376,Hyperglycemia,outcome
-1289,1283,193020,Incomplete emptying of bladder,outcome
-1289,1283,137989,Abnormal results of cardiovascular function studies,outcome
-1289,1283,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
-1289,1283,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
-1289,1283,4209423,Nicotine dependence,outcome
-1289,1283,4194160,Thyroid function tests abnormal,outcome
-1289,1283,439795,Minimal cognitive impairment,outcome
-1289,1283,73026,Abnormal breath sounds,outcome
-1289,1283,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
-1289,1283,4088920,Uterus absent,outcome
-1289,1283,132736,Bacteremia,outcome
-1289,1283,436940,Metabolic syndrome X,outcome
-1289,1283,195590,Urethral stricture,outcome
-1289,1283,4092743,Unsteady when standing,outcome
-1289,1283,443585,Abrasion and/or friction burn of multiple sites,outcome
-1289,1283,4022076,Patient dependence on care provider,outcome
-1289,1283,4059015,Falls,outcome
-1289,1283,4103703,Melena,outcome
-1289,1283,4199550,Unable to mobilize,outcome
-1289,1283,72404,Joint stiffness,outcome
-1289,1283,4233565,Severe protein-calorie malnutrition (Gomez: less than 60 percent of standard weight),outcome
-1289,1283,40480893,Nonspecific tuberculin test reaction,outcome
-1289,1283,201606,Crohn's disease,outcome
-1289,1283,4344500,Impingement syndrome of shoulder region,outcome
-1289,1283,253796,Pneumothorax,outcome
-1289,1283,4295287,Hypercoagulability state,outcome
-1289,1283,4195085,Nasal congestion,outcome
-1289,1283,137682,Skin sensation disturbance,outcome
-1289,1283,374801,Foreign body in ear,outcome
-1289,1283,442282,Urinary casts,outcome
-1289,1283,436246,Reduced libido,outcome
-1289,1283,4196636,Dysarthria,outcome
-1289,1283,4201390,Colostomy present,outcome
-1289,1283,40480002,Aphasia as late effect of cerebrovascular disease,outcome
-1289,1283,435516,Lipoprotein deficiency disorder,outcome
-1289,1283,434675,Complication of gastrostomy,outcome
-1289,1283,432596,Immune defect,outcome
-1289,1283,196454,Colostomy and enterostomy malfunction,outcome
-1289,1283,441553,Myoclonus,outcome
-1289,1283,4125590,Slurred speech,outcome
-1289,1283,439971,Poisoning by anticoagulant,outcome
-1289,1283,372897,Homonymous hemianopia,outcome
-1289,1283,441536,Mixed acid-base balance disorder,outcome
-1289,1283,4094448,Pregnancy test negative,outcome
-1289,1283,436957,Functional disorders of polymorphonuclear neutrophils,outcome
-1289,1283,4262519,Female sexual arousal disorder,outcome
-1289,1283,4229897,Stupor,outcome
-1289,1283,377873,Lid lag,outcome
-1289,1283,4264617,Foot-drop,outcome
-1289,1283,437176,Late effect of accidental fall,outcome
-1289,1283,438130,Opioid abuse,outcome
-1289,1283,4163735,Hemochromatosis,outcome
-1289,1283,4091513,Passing flatus,outcome
-1289,1283,4005743,Female sterility,outcome
-1289,1283,439234,Poisoning by cardiotonic glycoside,outcome
-1289,1283,4201387,Tracheostomy present,outcome
-1289,1283,4115402,Difficulty sleeping,outcome
-1289,1283,432593,Kwashiorkor,outcome
-1289,1283,44783954,Acid reflux,outcome
-1289,1283,440710,Intraretinal microvascular abnormality,outcome
-1289,1283,4022071,Convalescence,outcome
-1289,1283,437744,Heat exhaustion,outcome
-1289,1283,4262562,Abnormal heart beat,outcome
-1289,1283,4103642,Amputated toe,outcome
-1289,1283,4012570,High risk sexual behavior,outcome
-1289,1283,133088,Late amputation stump complication,outcome
-1289,1283,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
-1289,1283,374957,Acquired stenosis of external ear canal,outcome
-1289,1283,440612,Toxic effect of tobacco and nicotine,outcome
-1289,1283,436409,Abnormal pupil,outcome
-1289,1283,4202045,Postviral fatigue syndrome,outcome
-1289,1283,443447,Iatrogenic hypotension,outcome
-1289,1283,4305303,Sleep deprivation,outcome
-1289,1283,197676,Large liver,outcome
-1289,1283,4268911,Disorientated,outcome
-1289,1283,46286594,Problem related to lifestyle,outcome
-1289,1283,440457,Threatened miscarriage,outcome
-1289,1283,4168318,Genetic disorder carrier,outcome
-1289,1283,197036,Vesicoureteric reflux,outcome
-1289,1283,440193,Wristdrop,outcome
-1289,1283,372329,Dissociated deviation,outcome
-1289,1283,4012934,Homocystinuria,outcome
-1289,1283,438941,Hydantoin derivative poisoning,outcome
-1289,1283,4197184,Pseudobulbar affect,outcome
-1289,1283,437092,Physiological development failure,outcome
-1289,1283,193598,Extravasation of urine,outcome
-1289,1283,443172,"Splinter of face, without major open wound",outcome
-1289,1283,433111,Effects of hunger,outcome
-1289,1283,197096,Urethra and bladder neck atresia and stenosis,outcome
-1289,1283,4168681,Irritability and anger,outcome
-1289,1283,434485,Increase in body fat,outcome
-1289,1283,439871,Hemospermia,outcome
-1289,1283,258540,Marfan's syndrome,outcome
-1289,1283,439743,Late effects of respiratory tuberculosis,outcome
-1289,1283,435720,Adverse anesthesia outcome,outcome
-1289,1283,440053,Infestation by insect,outcome
-1289,1283,433441,Ectopic production of endocrine substance,outcome
-1289,1283,4067861,Deviation of finger,outcome
-1289,1283,434482,Diethylstilbestrol poisoning,outcome
-1289,1283,434016,"Nondependent opioid abuse, continuous",outcome
-1289,1283,434916,"Amphetamine or psychostimulant dependence, continuous",outcome
-1289,1283,439136,"Asphyxia, in liveborn infant",outcome
-1289,1283,434063,Jaw to cranial base anomaly,outcome
-1289,1283,4051630,Malingering,outcome
-1289,1283,440068,Psychosexual dysfunction,outcome
-1289,1283,443702,Abnormal response to nerve stimulation,outcome
-1289,1283,134315,Myelophthisis,outcome
-1289,1283,438624,Complication of renal dialysis,outcome
-1289,1283,4090271,Choroidal atrophy,outcome
-1289,1283,433951,Poisoning by tranquilizer,outcome
-1289,1283,439788,Galactosemia,outcome
-1289,1283,80463,Fetus with chromosomal abnormality with antenatal problem,outcome
-1289,1283,4229403,Flat anterior chamber of eye,outcome
-1289,1283,440919,Poisoning by methadone,outcome
-1289,1283,436015,Accidental poisoning from foodstuffs and poisonous plants,outcome
-1289,1283,436828,Saliva abnormal,outcome
-1289,1283,434319,Premature ejaculation,outcome
-1289,1283,441487,Frostbite,outcome
-1289,1283,438759,Descemet's membrane fold,outcome
-1289,1283,436011,Bends,outcome
-1289,1283,436426,Malleus mobility reduced,outcome
-1289,1283,443933,Nicotiana tabacum poisoning,outcome
-1289,1283,375277,Non-infectious pinna disorders,outcome
-1289,1283,4029271,Essential fatty acid deficiency,outcome
-1289,1283,4318502,Poisoning due to scorpion venom,outcome
-1289,1283,435170,Effects of thirst,outcome
-1289,1283,4111720,Sequelae of subarachnoid hemorrhage,outcome
-1289,1283,443526,Toxic effect from eating shellfish,outcome
-1289,1283,436294,Poisoning by phenothiazine-based tranquilizer,outcome
-1289,1283,436233,Delayed milestone,outcome
-1289,1283,4035269,Non-ketotic hyperglycinemia,outcome
-1289,1283,441759,Toxic effect of inorganic lead compound,outcome
-1289,1283,443082,Starvation,outcome
-1289,1283,437732,Toxic effect of chromium,outcome
-1289,1283,4182437,Female genital cutting,outcome
-1289,1283,4002572,"Uncomplicated sedative, hypnotic AND/OR anxiolytic withdrawal",outcome
-1289,1283,254163,Pulmonary aspiration of gastric contents,outcome
-1289,1283,4066505,Clicking hip,outcome
-1289,1283,194439,Obstetric perineal wound disruption,outcome
-1289,1283,437369,Postmature infancy,outcome
-1289,1283,444043,Poisoning by intravenous anesthetic,outcome
-1289,1283,4173136,Agnosia,outcome
-1290,1284,437390,Hypoxemia,outcome
-1290,1284,4088768,Absent nipple,outcome
-1290,1284,380724,Corneal ghost vessels,outcome
-1290,1284,436041,Leech infestation,outcome
-1290,1284,433369,Toxic effect of food contaminant,outcome
-1290,1284,4088910,Uterine cervix absent,outcome
-1290,1284,440924,Poisoning by vasodilator,outcome
-1290,1284,435028,Puerperal pyrexia of unknown origin,outcome
-1290,1284,443892,Toxic effect of hydrocyanic acid,outcome
-1290,1284,4061157,Antenatal ultrasound scan abnormal,outcome
-1290,1284,4019836,Social exclusion,outcome
-1290,1284,4101305,Gaucher's disease,outcome
-1290,1284,201091,Disproportion - major pelvic abnormality,outcome
-1290,1284,436860,Poisoning by irritant cathartic,outcome
-1290,1284,4155818,Does climb,outcome
-1290,1284,4228429,Carnitine deficiency,outcome
-1290,1284,40482801,Type II diabetes mellitus uncontrolled,outcome
-1290,1284,435515,Hypo-osmolality and or hyponatremia,outcome
-1290,1284,136237,Cardiovascular system problem,outcome
-1290,1284,4012368,Increased frequency of urination,outcome
-1290,1284,441417,Incoordination,outcome
-1290,1284,4213540,Cervical somatic dysfunction,outcome
-1290,1284,441628,Menopausal and postmenopausal disorders,outcome
-1290,1284,81878,Benign paroxysmal positional vertigo,outcome
-1290,1284,4088290,Absence of breast,outcome
-1290,1284,4092896,Feces contents abnormal,outcome
-1290,1284,201613,Chronic nonalcoholic liver disease,outcome
-1290,1284,314754,Wheezing,outcome
-1290,1284,4214376,Hyperglycemia,outcome
-1290,1284,193020,Incomplete emptying of bladder,outcome
-1290,1284,137989,Abnormal results of cardiovascular function studies,outcome
-1290,1284,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
-1290,1284,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
-1290,1284,4209423,Nicotine dependence,outcome
-1290,1284,4194160,Thyroid function tests abnormal,outcome
-1290,1284,439795,Minimal cognitive impairment,outcome
-1290,1284,73026,Abnormal breath sounds,outcome
-1290,1284,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
-1290,1284,4088920,Uterus absent,outcome
-1290,1284,132736,Bacteremia,outcome
-1290,1284,436940,Metabolic syndrome X,outcome
-1290,1284,195590,Urethral stricture,outcome
-1290,1284,4092743,Unsteady when standing,outcome
-1290,1284,443585,Abrasion and/or friction burn of multiple sites,outcome
-1290,1284,4022076,Patient dependence on care provider,outcome
-1290,1284,4059015,Falls,outcome
-1290,1284,4103703,Melena,outcome
-1290,1284,4199550,Unable to mobilize,outcome
-1290,1284,72404,Joint stiffness,outcome
-1290,1284,4233565,Severe protein-calorie malnutrition (Gomez: less than 60 percent of standard weight),outcome
-1290,1284,40480893,Nonspecific tuberculin test reaction,outcome
-1290,1284,201606,Crohn's disease,outcome
-1290,1284,4344500,Impingement syndrome of shoulder region,outcome
-1290,1284,253796,Pneumothorax,outcome
-1290,1284,4295287,Hypercoagulability state,outcome
-1290,1284,4195085,Nasal congestion,outcome
-1290,1284,137682,Skin sensation disturbance,outcome
-1290,1284,374801,Foreign body in ear,outcome
-1290,1284,442282,Urinary casts,outcome
-1290,1284,436246,Reduced libido,outcome
-1290,1284,4196636,Dysarthria,outcome
-1290,1284,4201390,Colostomy present,outcome
-1290,1284,40480002,Aphasia as late effect of cerebrovascular disease,outcome
-1290,1284,435516,Lipoprotein deficiency disorder,outcome
-1290,1284,434675,Complication of gastrostomy,outcome
-1290,1284,432596,Immune defect,outcome
-1290,1284,196454,Colostomy and enterostomy malfunction,outcome
-1290,1284,441553,Myoclonus,outcome
-1290,1284,4125590,Slurred speech,outcome
-1290,1284,439971,Poisoning by anticoagulant,outcome
-1290,1284,372897,Homonymous hemianopia,outcome
-1290,1284,441536,Mixed acid-base balance disorder,outcome
-1290,1284,4094448,Pregnancy test negative,outcome
-1290,1284,436957,Functional disorders of polymorphonuclear neutrophils,outcome
-1290,1284,4262519,Female sexual arousal disorder,outcome
-1290,1284,4229897,Stupor,outcome
-1290,1284,377873,Lid lag,outcome
-1290,1284,4264617,Foot-drop,outcome
-1290,1284,437176,Late effect of accidental fall,outcome
-1290,1284,438130,Opioid abuse,outcome
-1290,1284,4163735,Hemochromatosis,outcome
-1290,1284,4091513,Passing flatus,outcome
-1290,1284,4005743,Female sterility,outcome
-1290,1284,439234,Poisoning by cardiotonic glycoside,outcome
-1290,1284,4201387,Tracheostomy present,outcome
-1290,1284,4115402,Difficulty sleeping,outcome
-1290,1284,432593,Kwashiorkor,outcome
-1290,1284,44783954,Acid reflux,outcome
-1290,1284,440710,Intraretinal microvascular abnormality,outcome
-1290,1284,4022071,Convalescence,outcome
-1290,1284,437744,Heat exhaustion,outcome
-1290,1284,4262562,Abnormal heart beat,outcome
-1290,1284,4103642,Amputated toe,outcome
-1290,1284,4012570,High risk sexual behavior,outcome
-1290,1284,133088,Late amputation stump complication,outcome
-1290,1284,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
-1290,1284,374957,Acquired stenosis of external ear canal,outcome
-1290,1284,440612,Toxic effect of tobacco and nicotine,outcome
-1290,1284,436409,Abnormal pupil,outcome
-1290,1284,4202045,Postviral fatigue syndrome,outcome
-1290,1284,443447,Iatrogenic hypotension,outcome
-1290,1284,4305303,Sleep deprivation,outcome
-1290,1284,197676,Large liver,outcome
-1290,1284,4268911,Disorientated,outcome
-1290,1284,46286594,Problem related to lifestyle,outcome
-1290,1284,440457,Threatened miscarriage,outcome
-1290,1284,4168318,Genetic disorder carrier,outcome
-1290,1284,197036,Vesicoureteric reflux,outcome
-1290,1284,440193,Wristdrop,outcome
-1290,1284,372329,Dissociated deviation,outcome
-1290,1284,4012934,Homocystinuria,outcome
-1290,1284,438941,Hydantoin derivative poisoning,outcome
-1290,1284,4197184,Pseudobulbar affect,outcome
-1290,1284,437092,Physiological development failure,outcome
-1290,1284,193598,Extravasation of urine,outcome
-1290,1284,443172,"Splinter of face, without major open wound",outcome
-1290,1284,433111,Effects of hunger,outcome
-1290,1284,197096,Urethra and bladder neck atresia and stenosis,outcome
-1290,1284,4168681,Irritability and anger,outcome
-1290,1284,434485,Increase in body fat,outcome
-1290,1284,439871,Hemospermia,outcome
-1290,1284,258540,Marfan's syndrome,outcome
-1290,1284,439743,Late effects of respiratory tuberculosis,outcome
-1290,1284,435720,Adverse anesthesia outcome,outcome
-1290,1284,440053,Infestation by insect,outcome
-1290,1284,433441,Ectopic production of endocrine substance,outcome
-1290,1284,4067861,Deviation of finger,outcome
-1290,1284,434482,Diethylstilbestrol poisoning,outcome
-1290,1284,434016,"Nondependent opioid abuse, continuous",outcome
-1290,1284,434916,"Amphetamine or psychostimulant dependence, continuous",outcome
-1290,1284,439136,"Asphyxia, in liveborn infant",outcome
-1290,1284,434063,Jaw to cranial base anomaly,outcome
-1290,1284,4051630,Malingering,outcome
-1290,1284,440068,Psychosexual dysfunction,outcome
-1290,1284,443702,Abnormal response to nerve stimulation,outcome
-1290,1284,134315,Myelophthisis,outcome
-1290,1284,438624,Complication of renal dialysis,outcome
-1290,1284,4090271,Choroidal atrophy,outcome
-1290,1284,433951,Poisoning by tranquilizer,outcome
-1290,1284,439788,Galactosemia,outcome
-1290,1284,80463,Fetus with chromosomal abnormality with antenatal problem,outcome
-1290,1284,4229403,Flat anterior chamber of eye,outcome
-1290,1284,440919,Poisoning by methadone,outcome
-1290,1284,436015,Accidental poisoning from foodstuffs and poisonous plants,outcome
-1290,1284,436828,Saliva abnormal,outcome
-1290,1284,434319,Premature ejaculation,outcome
-1290,1284,441487,Frostbite,outcome
-1290,1284,438759,Descemet's membrane fold,outcome
-1290,1284,436011,Bends,outcome
-1290,1284,436426,Malleus mobility reduced,outcome
-1290,1284,443933,Nicotiana tabacum poisoning,outcome
-1290,1284,375277,Non-infectious pinna disorders,outcome
-1290,1284,4029271,Essential fatty acid deficiency,outcome
-1290,1284,4318502,Poisoning due to scorpion venom,outcome
-1290,1284,435170,Effects of thirst,outcome
-1290,1284,4111720,Sequelae of subarachnoid hemorrhage,outcome
-1290,1284,443526,Toxic effect from eating shellfish,outcome
-1290,1284,436294,Poisoning by phenothiazine-based tranquilizer,outcome
-1290,1284,436233,Delayed milestone,outcome
-1290,1284,4035269,Non-ketotic hyperglycinemia,outcome
-1290,1284,441759,Toxic effect of inorganic lead compound,outcome
-1290,1284,443082,Starvation,outcome
-1290,1284,437732,Toxic effect of chromium,outcome
-1290,1284,4182437,Female genital cutting,outcome
-1290,1284,4002572,"Uncomplicated sedative, hypnotic AND/OR anxiolytic withdrawal",outcome
-1290,1284,254163,Pulmonary aspiration of gastric contents,outcome
-1290,1284,4066505,Clicking hip,outcome
-1290,1284,194439,Obstetric perineal wound disruption,outcome
-1290,1284,437369,Postmature infancy,outcome
-1290,1284,444043,Poisoning by intravenous anesthetic,outcome
-1290,1284,4173136,Agnosia,outcome
-1291,1285,437390,Hypoxemia,outcome
-1291,1285,4088768,Absent nipple,outcome
-1291,1285,380724,Corneal ghost vessels,outcome
-1291,1285,436041,Leech infestation,outcome
-1291,1285,433369,Toxic effect of food contaminant,outcome
-1291,1285,4088910,Uterine cervix absent,outcome
-1291,1285,440924,Poisoning by vasodilator,outcome
-1291,1285,435028,Puerperal pyrexia of unknown origin,outcome
-1291,1285,443892,Toxic effect of hydrocyanic acid,outcome
-1291,1285,4061157,Antenatal ultrasound scan abnormal,outcome
-1291,1285,4019836,Social exclusion,outcome
-1291,1285,4101305,Gaucher's disease,outcome
-1291,1285,201091,Disproportion - major pelvic abnormality,outcome
-1291,1285,436860,Poisoning by irritant cathartic,outcome
-1291,1285,4155818,Does climb,outcome
-1291,1285,4228429,Carnitine deficiency,outcome
-1291,1285,40482801,Type II diabetes mellitus uncontrolled,outcome
-1291,1285,435515,Hypo-osmolality and or hyponatremia,outcome
-1291,1285,136237,Cardiovascular system problem,outcome
-1291,1285,4012368,Increased frequency of urination,outcome
-1291,1285,441417,Incoordination,outcome
-1291,1285,4213540,Cervical somatic dysfunction,outcome
-1291,1285,441628,Menopausal and postmenopausal disorders,outcome
-1291,1285,81878,Benign paroxysmal positional vertigo,outcome
-1291,1285,4088290,Absence of breast,outcome
-1291,1285,4092896,Feces contents abnormal,outcome
-1291,1285,201613,Chronic nonalcoholic liver disease,outcome
-1291,1285,314754,Wheezing,outcome
-1291,1285,4214376,Hyperglycemia,outcome
-1291,1285,193020,Incomplete emptying of bladder,outcome
-1291,1285,137989,Abnormal results of cardiovascular function studies,outcome
-1291,1285,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
-1291,1285,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
-1291,1285,4209423,Nicotine dependence,outcome
-1291,1285,4194160,Thyroid function tests abnormal,outcome
-1291,1285,439795,Minimal cognitive impairment,outcome
-1291,1285,73026,Abnormal breath sounds,outcome
-1291,1285,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
-1291,1285,4088920,Uterus absent,outcome
-1291,1285,132736,Bacteremia,outcome
-1291,1285,436940,Metabolic syndrome X,outcome
-1291,1285,195590,Urethral stricture,outcome
-1291,1285,4092743,Unsteady when standing,outcome
-1291,1285,443585,Abrasion and/or friction burn of multiple sites,outcome
-1291,1285,4022076,Patient dependence on care provider,outcome
-1291,1285,4059015,Falls,outcome
-1291,1285,4103703,Melena,outcome
-1291,1285,4199550,Unable to mobilize,outcome
-1291,1285,72404,Joint stiffness,outcome
-1291,1285,4233565,Severe protein-calorie malnutrition (Gomez: less than 60 percent of standard weight),outcome
-1291,1285,40480893,Nonspecific tuberculin test reaction,outcome
-1291,1285,201606,Crohn's disease,outcome
-1291,1285,4344500,Impingement syndrome of shoulder region,outcome
-1291,1285,253796,Pneumothorax,outcome
-1291,1285,4295287,Hypercoagulability state,outcome
-1291,1285,4195085,Nasal congestion,outcome
-1291,1285,137682,Skin sensation disturbance,outcome
-1291,1285,374801,Foreign body in ear,outcome
-1291,1285,442282,Urinary casts,outcome
-1291,1285,436246,Reduced libido,outcome
-1291,1285,4196636,Dysarthria,outcome
-1291,1285,4201390,Colostomy present,outcome
-1291,1285,40480002,Aphasia as late effect of cerebrovascular disease,outcome
-1291,1285,435516,Lipoprotein deficiency disorder,outcome
-1291,1285,434675,Complication of gastrostomy,outcome
-1291,1285,432596,Immune defect,outcome
-1291,1285,196454,Colostomy and enterostomy malfunction,outcome
-1291,1285,441553,Myoclonus,outcome
-1291,1285,4125590,Slurred speech,outcome
-1291,1285,439971,Poisoning by anticoagulant,outcome
-1291,1285,372897,Homonymous hemianopia,outcome
-1291,1285,441536,Mixed acid-base balance disorder,outcome
-1291,1285,4094448,Pregnancy test negative,outcome
-1291,1285,436957,Functional disorders of polymorphonuclear neutrophils,outcome
-1291,1285,4262519,Female sexual arousal disorder,outcome
-1291,1285,4229897,Stupor,outcome
-1291,1285,377873,Lid lag,outcome
-1291,1285,4264617,Foot-drop,outcome
-1291,1285,437176,Late effect of accidental fall,outcome
-1291,1285,438130,Opioid abuse,outcome
-1291,1285,4163735,Hemochromatosis,outcome
-1291,1285,4091513,Passing flatus,outcome
-1291,1285,4005743,Female sterility,outcome
-1291,1285,439234,Poisoning by cardiotonic glycoside,outcome
-1291,1285,4201387,Tracheostomy present,outcome
-1291,1285,4115402,Difficulty sleeping,outcome
-1291,1285,432593,Kwashiorkor,outcome
-1291,1285,44783954,Acid reflux,outcome
-1291,1285,440710,Intraretinal microvascular abnormality,outcome
-1291,1285,4022071,Convalescence,outcome
-1291,1285,437744,Heat exhaustion,outcome
-1291,1285,4262562,Abnormal heart beat,outcome
-1291,1285,4103642,Amputated toe,outcome
-1291,1285,4012570,High risk sexual behavior,outcome
-1291,1285,133088,Late amputation stump complication,outcome
-1291,1285,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
-1291,1285,374957,Acquired stenosis of external ear canal,outcome
-1291,1285,440612,Toxic effect of tobacco and nicotine,outcome
-1291,1285,436409,Abnormal pupil,outcome
-1291,1285,4202045,Postviral fatigue syndrome,outcome
-1291,1285,443447,Iatrogenic hypotension,outcome
-1291,1285,4305303,Sleep deprivation,outcome
-1291,1285,197676,Large liver,outcome
-1291,1285,4268911,Disorientated,outcome
-1291,1285,46286594,Problem related to lifestyle,outcome
-1291,1285,440457,Threatened miscarriage,outcome
-1291,1285,4168318,Genetic disorder carrier,outcome
-1291,1285,197036,Vesicoureteric reflux,outcome
-1291,1285,440193,Wristdrop,outcome
-1291,1285,372329,Dissociated deviation,outcome
-1291,1285,4012934,Homocystinuria,outcome
-1291,1285,438941,Hydantoin derivative poisoning,outcome
-1291,1285,4197184,Pseudobulbar affect,outcome
-1291,1285,437092,Physiological development failure,outcome
-1291,1285,193598,Extravasation of urine,outcome
-1291,1285,443172,"Splinter of face, without major open wound",outcome
-1291,1285,433111,Effects of hunger,outcome
-1291,1285,197096,Urethra and bladder neck atresia and stenosis,outcome
-1291,1285,4168681,Irritability and anger,outcome
-1291,1285,434485,Increase in body fat,outcome
-1291,1285,439871,Hemospermia,outcome
-1291,1285,258540,Marfan's syndrome,outcome
-1291,1285,439743,Late effects of respiratory tuberculosis,outcome
-1291,1285,435720,Adverse anesthesia outcome,outcome
-1291,1285,440053,Infestation by insect,outcome
-1291,1285,433441,Ectopic production of endocrine substance,outcome
-1291,1285,4067861,Deviation of finger,outcome
-1291,1285,434482,Diethylstilbestrol poisoning,outcome
-1291,1285,434016,"Nondependent opioid abuse, continuous",outcome
-1291,1285,434916,"Amphetamine or psychostimulant dependence, continuous",outcome
-1291,1285,439136,"Asphyxia, in liveborn infant",outcome
-1291,1285,434063,Jaw to cranial base anomaly,outcome
-1291,1285,4051630,Malingering,outcome
-1291,1285,440068,Psychosexual dysfunction,outcome
-1291,1285,443702,Abnormal response to nerve stimulation,outcome
-1291,1285,134315,Myelophthisis,outcome
-1291,1285,438624,Complication of renal dialysis,outcome
-1291,1285,4090271,Choroidal atrophy,outcome
-1291,1285,433951,Poisoning by tranquilizer,outcome
-1291,1285,439788,Galactosemia,outcome
-1291,1285,80463,Fetus with chromosomal abnormality with antenatal problem,outcome
-1291,1285,4229403,Flat anterior chamber of eye,outcome
-1291,1285,440919,Poisoning by methadone,outcome
-1291,1285,436015,Accidental poisoning from foodstuffs and poisonous plants,outcome
-1291,1285,436828,Saliva abnormal,outcome
-1291,1285,434319,Premature ejaculation,outcome
-1291,1285,441487,Frostbite,outcome
-1291,1285,438759,Descemet's membrane fold,outcome
-1291,1285,436011,Bends,outcome
-1291,1285,436426,Malleus mobility reduced,outcome
-1291,1285,443933,Nicotiana tabacum poisoning,outcome
-1291,1285,375277,Non-infectious pinna disorders,outcome
-1291,1285,4029271,Essential fatty acid deficiency,outcome
-1291,1285,4318502,Poisoning due to scorpion venom,outcome
-1291,1285,435170,Effects of thirst,outcome
-1291,1285,4111720,Sequelae of subarachnoid hemorrhage,outcome
-1291,1285,443526,Toxic effect from eating shellfish,outcome
-1291,1285,436294,Poisoning by phenothiazine-based tranquilizer,outcome
-1291,1285,436233,Delayed milestone,outcome
-1291,1285,4035269,Non-ketotic hyperglycinemia,outcome
-1291,1285,441759,Toxic effect of inorganic lead compound,outcome
-1291,1285,443082,Starvation,outcome
-1291,1285,437732,Toxic effect of chromium,outcome
-1291,1285,4182437,Female genital cutting,outcome
-1291,1285,4002572,"Uncomplicated sedative, hypnotic AND/OR anxiolytic withdrawal",outcome
-1291,1285,254163,Pulmonary aspiration of gastric contents,outcome
-1291,1285,4066505,Clicking hip,outcome
-1291,1285,194439,Obstetric perineal wound disruption,outcome
-1291,1285,437369,Postmature infancy,outcome
-1291,1285,444043,Poisoning by intravenous anesthetic,outcome
-1291,1285,4173136,Agnosia,outcome
-1292,1286,437390,Hypoxemia,outcome
-1292,1286,4088768,Absent nipple,outcome
-1292,1286,380724,Corneal ghost vessels,outcome
-1292,1286,436041,Leech infestation,outcome
-1292,1286,433369,Toxic effect of food contaminant,outcome
-1292,1286,4088910,Uterine cervix absent,outcome
-1292,1286,440924,Poisoning by vasodilator,outcome
-1292,1286,435028,Puerperal pyrexia of unknown origin,outcome
-1292,1286,443892,Toxic effect of hydrocyanic acid,outcome
-1292,1286,4061157,Antenatal ultrasound scan abnormal,outcome
-1292,1286,4019836,Social exclusion,outcome
-1292,1286,4101305,Gaucher's disease,outcome
-1292,1286,201091,Disproportion - major pelvic abnormality,outcome
-1292,1286,436860,Poisoning by irritant cathartic,outcome
-1292,1286,4155818,Does climb,outcome
-1292,1286,4228429,Carnitine deficiency,outcome
-1292,1286,40482801,Type II diabetes mellitus uncontrolled,outcome
-1292,1286,435515,Hypo-osmolality and or hyponatremia,outcome
-1292,1286,136237,Cardiovascular system problem,outcome
-1292,1286,4012368,Increased frequency of urination,outcome
-1292,1286,441417,Incoordination,outcome
-1292,1286,4213540,Cervical somatic dysfunction,outcome
-1292,1286,441628,Menopausal and postmenopausal disorders,outcome
-1292,1286,81878,Benign paroxysmal positional vertigo,outcome
-1292,1286,4088290,Absence of breast,outcome
-1292,1286,4092896,Feces contents abnormal,outcome
-1292,1286,201613,Chronic nonalcoholic liver disease,outcome
-1292,1286,314754,Wheezing,outcome
-1292,1286,4214376,Hyperglycemia,outcome
-1292,1286,193020,Incomplete emptying of bladder,outcome
-1292,1286,137989,Abnormal results of cardiovascular function studies,outcome
-1292,1286,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
-1292,1286,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
-1292,1286,4209423,Nicotine dependence,outcome
-1292,1286,4194160,Thyroid function tests abnormal,outcome
-1292,1286,439795,Minimal cognitive impairment,outcome
-1292,1286,73026,Abnormal breath sounds,outcome
-1292,1286,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
-1292,1286,4088920,Uterus absent,outcome
-1292,1286,132736,Bacteremia,outcome
-1292,1286,436940,Metabolic syndrome X,outcome
-1292,1286,195590,Urethral stricture,outcome
-1292,1286,4092743,Unsteady when standing,outcome
-1292,1286,443585,Abrasion and/or friction burn of multiple sites,outcome
-1292,1286,4022076,Patient dependence on care provider,outcome
-1292,1286,4059015,Falls,outcome
-1292,1286,4103703,Melena,outcome
-1292,1286,4199550,Unable to mobilize,outcome
-1292,1286,72404,Joint stiffness,outcome
-1292,1286,4233565,Severe protein-calorie malnutrition (Gomez: less than 60 percent of standard weight),outcome
-1292,1286,40480893,Nonspecific tuberculin test reaction,outcome
-1292,1286,201606,Crohn's disease,outcome
-1292,1286,4344500,Impingement syndrome of shoulder region,outcome
-1292,1286,253796,Pneumothorax,outcome
-1292,1286,4295287,Hypercoagulability state,outcome
-1292,1286,4195085,Nasal congestion,outcome
-1292,1286,137682,Skin sensation disturbance,outcome
-1292,1286,374801,Foreign body in ear,outcome
-1292,1286,442282,Urinary casts,outcome
-1292,1286,436246,Reduced libido,outcome
-1292,1286,4196636,Dysarthria,outcome
-1292,1286,4201390,Colostomy present,outcome
-1292,1286,40480002,Aphasia as late effect of cerebrovascular disease,outcome
-1292,1286,435516,Lipoprotein deficiency disorder,outcome
-1292,1286,434675,Complication of gastrostomy,outcome
-1292,1286,432596,Immune defect,outcome
-1292,1286,196454,Colostomy and enterostomy malfunction,outcome
-1292,1286,441553,Myoclonus,outcome
-1292,1286,4125590,Slurred speech,outcome
-1292,1286,439971,Poisoning by anticoagulant,outcome
-1292,1286,372897,Homonymous hemianopia,outcome
-1292,1286,441536,Mixed acid-base balance disorder,outcome
-1292,1286,4094448,Pregnancy test negative,outcome
-1292,1286,436957,Functional disorders of polymorphonuclear neutrophils,outcome
-1292,1286,4262519,Female sexual arousal disorder,outcome
-1292,1286,4229897,Stupor,outcome
-1292,1286,377873,Lid lag,outcome
-1292,1286,4264617,Foot-drop,outcome
-1292,1286,437176,Late effect of accidental fall,outcome
-1292,1286,438130,Opioid abuse,outcome
-1292,1286,4163735,Hemochromatosis,outcome
-1292,1286,4091513,Passing flatus,outcome
-1292,1286,4005743,Female sterility,outcome
-1292,1286,439234,Poisoning by cardiotonic glycoside,outcome
-1292,1286,4201387,Tracheostomy present,outcome
-1292,1286,4115402,Difficulty sleeping,outcome
-1292,1286,432593,Kwashiorkor,outcome
-1292,1286,44783954,Acid reflux,outcome
-1292,1286,440710,Intraretinal microvascular abnormality,outcome
-1292,1286,4022071,Convalescence,outcome
-1292,1286,437744,Heat exhaustion,outcome
-1292,1286,4262562,Abnormal heart beat,outcome
-1292,1286,4103642,Amputated toe,outcome
-1292,1286,4012570,High risk sexual behavior,outcome
-1292,1286,133088,Late amputation stump complication,outcome
-1292,1286,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
-1292,1286,374957,Acquired stenosis of external ear canal,outcome
-1292,1286,440612,Toxic effect of tobacco and nicotine,outcome
-1292,1286,436409,Abnormal pupil,outcome
-1292,1286,4202045,Postviral fatigue syndrome,outcome
-1292,1286,443447,Iatrogenic hypotension,outcome
-1292,1286,4305303,Sleep deprivation,outcome
-1292,1286,197676,Large liver,outcome
-1292,1286,4268911,Disorientated,outcome
-1292,1286,46286594,Problem related to lifestyle,outcome
-1292,1286,440457,Threatened miscarriage,outcome
-1292,1286,4168318,Genetic disorder carrier,outcome
-1292,1286,197036,Vesicoureteric reflux,outcome
-1292,1286,440193,Wristdrop,outcome
-1292,1286,372329,Dissociated deviation,outcome
-1292,1286,4012934,Homocystinuria,outcome
-1292,1286,438941,Hydantoin derivative poisoning,outcome
-1292,1286,4197184,Pseudobulbar affect,outcome
-1292,1286,437092,Physiological development failure,outcome
-1292,1286,193598,Extravasation of urine,outcome
-1292,1286,443172,"Splinter of face, without major open wound",outcome
-1292,1286,433111,Effects of hunger,outcome
-1292,1286,197096,Urethra and bladder neck atresia and stenosis,outcome
-1292,1286,4168681,Irritability and anger,outcome
-1292,1286,434485,Increase in body fat,outcome
-1292,1286,439871,Hemospermia,outcome
-1292,1286,258540,Marfan's syndrome,outcome
-1292,1286,439743,Late effects of respiratory tuberculosis,outcome
-1292,1286,435720,Adverse anesthesia outcome,outcome
-1292,1286,440053,Infestation by insect,outcome
-1292,1286,433441,Ectopic production of endocrine substance,outcome
-1292,1286,4067861,Deviation of finger,outcome
-1292,1286,434482,Diethylstilbestrol poisoning,outcome
-1292,1286,434016,"Nondependent opioid abuse, continuous",outcome
-1292,1286,434916,"Amphetamine or psychostimulant dependence, continuous",outcome
-1292,1286,439136,"Asphyxia, in liveborn infant",outcome
-1292,1286,434063,Jaw to cranial base anomaly,outcome
-1292,1286,4051630,Malingering,outcome
-1292,1286,440068,Psychosexual dysfunction,outcome
-1292,1286,443702,Abnormal response to nerve stimulation,outcome
-1292,1286,134315,Myelophthisis,outcome
-1292,1286,438624,Complication of renal dialysis,outcome
-1292,1286,4090271,Choroidal atrophy,outcome
-1292,1286,433951,Poisoning by tranquilizer,outcome
-1292,1286,439788,Galactosemia,outcome
-1292,1286,80463,Fetus with chromosomal abnormality with antenatal problem,outcome
-1292,1286,4229403,Flat anterior chamber of eye,outcome
-1292,1286,440919,Poisoning by methadone,outcome
-1292,1286,436015,Accidental poisoning from foodstuffs and poisonous plants,outcome
-1292,1286,436828,Saliva abnormal,outcome
-1292,1286,434319,Premature ejaculation,outcome
-1292,1286,441487,Frostbite,outcome
-1292,1286,438759,Descemet's membrane fold,outcome
-1292,1286,436011,Bends,outcome
-1292,1286,436426,Malleus mobility reduced,outcome
-1292,1286,443933,Nicotiana tabacum poisoning,outcome
-1292,1286,375277,Non-infectious pinna disorders,outcome
-1292,1286,4029271,Essential fatty acid deficiency,outcome
-1292,1286,4318502,Poisoning due to scorpion venom,outcome
-1292,1286,435170,Effects of thirst,outcome
-1292,1286,4111720,Sequelae of subarachnoid hemorrhage,outcome
-1292,1286,443526,Toxic effect from eating shellfish,outcome
-1292,1286,436294,Poisoning by phenothiazine-based tranquilizer,outcome
-1292,1286,436233,Delayed milestone,outcome
-1292,1286,4035269,Non-ketotic hyperglycinemia,outcome
-1292,1286,441759,Toxic effect of inorganic lead compound,outcome
-1292,1286,443082,Starvation,outcome
-1292,1286,437732,Toxic effect of chromium,outcome
-1292,1286,4182437,Female genital cutting,outcome
-1292,1286,4002572,"Uncomplicated sedative, hypnotic AND/OR anxiolytic withdrawal",outcome
-1292,1286,254163,Pulmonary aspiration of gastric contents,outcome
-1292,1286,4066505,Clicking hip,outcome
-1292,1286,194439,Obstetric perineal wound disruption,outcome
-1292,1286,437369,Postmature infancy,outcome
-1292,1286,444043,Poisoning by intravenous anesthetic,outcome
-1292,1286,4173136,Agnosia,outcome
-1293,1287,437390,Hypoxemia,outcome
-1293,1287,4088768,Absent nipple,outcome
-1293,1287,380724,Corneal ghost vessels,outcome
-1293,1287,436041,Leech infestation,outcome
-1293,1287,433369,Toxic effect of food contaminant,outcome
-1293,1287,4088910,Uterine cervix absent,outcome
-1293,1287,440924,Poisoning by vasodilator,outcome
-1293,1287,435028,Puerperal pyrexia of unknown origin,outcome
-1293,1287,443892,Toxic effect of hydrocyanic acid,outcome
-1293,1287,4061157,Antenatal ultrasound scan abnormal,outcome
-1293,1287,4019836,Social exclusion,outcome
-1293,1287,4101305,Gaucher's disease,outcome
-1293,1287,201091,Disproportion - major pelvic abnormality,outcome
-1293,1287,436860,Poisoning by irritant cathartic,outcome
-1293,1287,4155818,Does climb,outcome
-1293,1287,4228429,Carnitine deficiency,outcome
-1293,1287,40482801,Type II diabetes mellitus uncontrolled,outcome
-1293,1287,435515,Hypo-osmolality and or hyponatremia,outcome
-1293,1287,136237,Cardiovascular system problem,outcome
-1293,1287,4012368,Increased frequency of urination,outcome
-1293,1287,441417,Incoordination,outcome
-1293,1287,4213540,Cervical somatic dysfunction,outcome
-1293,1287,441628,Menopausal and postmenopausal disorders,outcome
-1293,1287,81878,Benign paroxysmal positional vertigo,outcome
-1293,1287,4088290,Absence of breast,outcome
-1293,1287,4092896,Feces contents abnormal,outcome
-1293,1287,201613,Chronic nonalcoholic liver disease,outcome
-1293,1287,314754,Wheezing,outcome
-1293,1287,4214376,Hyperglycemia,outcome
-1293,1287,193020,Incomplete emptying of bladder,outcome
-1293,1287,137989,Abnormal results of cardiovascular function studies,outcome
-1293,1287,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
-1293,1287,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
-1293,1287,4209423,Nicotine dependence,outcome
-1293,1287,4194160,Thyroid function tests abnormal,outcome
-1293,1287,439795,Minimal cognitive impairment,outcome
-1293,1287,73026,Abnormal breath sounds,outcome
-1293,1287,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
-1293,1287,4088920,Uterus absent,outcome
-1293,1287,132736,Bacteremia,outcome
-1293,1287,436940,Metabolic syndrome X,outcome
-1293,1287,195590,Urethral stricture,outcome
-1293,1287,4092743,Unsteady when standing,outcome
-1293,1287,443585,Abrasion and/or friction burn of multiple sites,outcome
-1293,1287,4022076,Patient dependence on care provider,outcome
-1293,1287,4059015,Falls,outcome
-1293,1287,4103703,Melena,outcome
-1293,1287,4199550,Unable to mobilize,outcome
-1293,1287,72404,Joint stiffness,outcome
-1293,1287,4233565,Severe protein-calorie malnutrition (Gomez: less than 60 percent of standard weight),outcome
-1293,1287,40480893,Nonspecific tuberculin test reaction,outcome
-1293,1287,201606,Crohn's disease,outcome
-1293,1287,4344500,Impingement syndrome of shoulder region,outcome
-1293,1287,253796,Pneumothorax,outcome
-1293,1287,4295287,Hypercoagulability state,outcome
-1293,1287,4195085,Nasal congestion,outcome
-1293,1287,137682,Skin sensation disturbance,outcome
-1293,1287,374801,Foreign body in ear,outcome
-1293,1287,442282,Urinary casts,outcome
-1293,1287,436246,Reduced libido,outcome
-1293,1287,4196636,Dysarthria,outcome
-1293,1287,4201390,Colostomy present,outcome
-1293,1287,40480002,Aphasia as late effect of cerebrovascular disease,outcome
-1293,1287,435516,Lipoprotein deficiency disorder,outcome
-1293,1287,434675,Complication of gastrostomy,outcome
-1293,1287,432596,Immune defect,outcome
-1293,1287,196454,Colostomy and enterostomy malfunction,outcome
-1293,1287,441553,Myoclonus,outcome
-1293,1287,4125590,Slurred speech,outcome
-1293,1287,439971,Poisoning by anticoagulant,outcome
-1293,1287,372897,Homonymous hemianopia,outcome
-1293,1287,441536,Mixed acid-base balance disorder,outcome
-1293,1287,4094448,Pregnancy test negative,outcome
-1293,1287,436957,Functional disorders of polymorphonuclear neutrophils,outcome
-1293,1287,4262519,Female sexual arousal disorder,outcome
-1293,1287,4229897,Stupor,outcome
-1293,1287,377873,Lid lag,outcome
-1293,1287,4264617,Foot-drop,outcome
-1293,1287,437176,Late effect of accidental fall,outcome
-1293,1287,438130,Opioid abuse,outcome
-1293,1287,4163735,Hemochromatosis,outcome
-1293,1287,4091513,Passing flatus,outcome
-1293,1287,4005743,Female sterility,outcome
-1293,1287,439234,Poisoning by cardiotonic glycoside,outcome
-1293,1287,4201387,Tracheostomy present,outcome
-1293,1287,4115402,Difficulty sleeping,outcome
-1293,1287,432593,Kwashiorkor,outcome
-1293,1287,44783954,Acid reflux,outcome
-1293,1287,440710,Intraretinal microvascular abnormality,outcome
-1293,1287,4022071,Convalescence,outcome
-1293,1287,437744,Heat exhaustion,outcome
-1293,1287,4262562,Abnormal heart beat,outcome
-1293,1287,4103642,Amputated toe,outcome
-1293,1287,4012570,High risk sexual behavior,outcome
-1293,1287,133088,Late amputation stump complication,outcome
-1293,1287,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
-1293,1287,374957,Acquired stenosis of external ear canal,outcome
-1293,1287,440612,Toxic effect of tobacco and nicotine,outcome
-1293,1287,436409,Abnormal pupil,outcome
-1293,1287,4202045,Postviral fatigue syndrome,outcome
-1293,1287,443447,Iatrogenic hypotension,outcome
-1293,1287,4305303,Sleep deprivation,outcome
-1293,1287,197676,Large liver,outcome
-1293,1287,4268911,Disorientated,outcome
-1293,1287,46286594,Problem related to lifestyle,outcome
-1293,1287,440457,Threatened miscarriage,outcome
-1293,1287,4168318,Genetic disorder carrier,outcome
-1293,1287,197036,Vesicoureteric reflux,outcome
-1293,1287,440193,Wristdrop,outcome
-1293,1287,372329,Dissociated deviation,outcome
-1293,1287,4012934,Homocystinuria,outcome
-1293,1287,438941,Hydantoin derivative poisoning,outcome
-1293,1287,4197184,Pseudobulbar affect,outcome
-1293,1287,437092,Physiological development failure,outcome
-1293,1287,193598,Extravasation of urine,outcome
-1293,1287,443172,"Splinter of face, without major open wound",outcome
-1293,1287,433111,Effects of hunger,outcome
-1293,1287,197096,Urethra and bladder neck atresia and stenosis,outcome
-1293,1287,4168681,Irritability and anger,outcome
-1293,1287,434485,Increase in body fat,outcome
-1293,1287,439871,Hemospermia,outcome
-1293,1287,258540,Marfan's syndrome,outcome
-1293,1287,439743,Late effects of respiratory tuberculosis,outcome
-1293,1287,435720,Adverse anesthesia outcome,outcome
-1293,1287,440053,Infestation by insect,outcome
-1293,1287,433441,Ectopic production of endocrine substance,outcome
-1293,1287,4067861,Deviation of finger,outcome
-1293,1287,434482,Diethylstilbestrol poisoning,outcome
-1293,1287,434016,"Nondependent opioid abuse, continuous",outcome
-1293,1287,434916,"Amphetamine or psychostimulant dependence, continuous",outcome
-1293,1287,439136,"Asphyxia, in liveborn infant",outcome
-1293,1287,434063,Jaw to cranial base anomaly,outcome
-1293,1287,4051630,Malingering,outcome
-1293,1287,440068,Psychosexual dysfunction,outcome
-1293,1287,443702,Abnormal response to nerve stimulation,outcome
-1293,1287,134315,Myelophthisis,outcome
-1293,1287,438624,Complication of renal dialysis,outcome
-1293,1287,4090271,Choroidal atrophy,outcome
-1293,1287,433951,Poisoning by tranquilizer,outcome
-1293,1287,439788,Galactosemia,outcome
-1293,1287,80463,Fetus with chromosomal abnormality with antenatal problem,outcome
-1293,1287,4229403,Flat anterior chamber of eye,outcome
-1293,1287,440919,Poisoning by methadone,outcome
-1293,1287,436015,Accidental poisoning from foodstuffs and poisonous plants,outcome
-1293,1287,436828,Saliva abnormal,outcome
-1293,1287,434319,Premature ejaculation,outcome
-1293,1287,441487,Frostbite,outcome
-1293,1287,438759,Descemet's membrane fold,outcome
-1293,1287,436011,Bends,outcome
-1293,1287,436426,Malleus mobility reduced,outcome
-1293,1287,443933,Nicotiana tabacum poisoning,outcome
-1293,1287,375277,Non-infectious pinna disorders,outcome
-1293,1287,4029271,Essential fatty acid deficiency,outcome
-1293,1287,4318502,Poisoning due to scorpion venom,outcome
-1293,1287,435170,Effects of thirst,outcome
-1293,1287,4111720,Sequelae of subarachnoid hemorrhage,outcome
-1293,1287,443526,Toxic effect from eating shellfish,outcome
-1293,1287,436294,Poisoning by phenothiazine-based tranquilizer,outcome
-1293,1287,436233,Delayed milestone,outcome
-1293,1287,4035269,Non-ketotic hyperglycinemia,outcome
-1293,1287,441759,Toxic effect of inorganic lead compound,outcome
-1293,1287,443082,Starvation,outcome
-1293,1287,437732,Toxic effect of chromium,outcome
-1293,1287,4182437,Female genital cutting,outcome
-1293,1287,4002572,"Uncomplicated sedative, hypnotic AND/OR anxiolytic withdrawal",outcome
-1293,1287,254163,Pulmonary aspiration of gastric contents,outcome
-1293,1287,4066505,Clicking hip,outcome
-1293,1287,194439,Obstetric perineal wound disruption,outcome
-1293,1287,437369,Postmature infancy,outcome
-1293,1287,444043,Poisoning by intravenous anesthetic,outcome
-1293,1287,4173136,Agnosia,outcome
-1294,1288,437390,Hypoxemia,outcome
-1294,1288,4088768,Absent nipple,outcome
-1294,1288,380724,Corneal ghost vessels,outcome
-1294,1288,436041,Leech infestation,outcome
-1294,1288,433369,Toxic effect of food contaminant,outcome
-1294,1288,4088910,Uterine cervix absent,outcome
-1294,1288,440924,Poisoning by vasodilator,outcome
-1294,1288,435028,Puerperal pyrexia of unknown origin,outcome
-1294,1288,443892,Toxic effect of hydrocyanic acid,outcome
-1294,1288,4061157,Antenatal ultrasound scan abnormal,outcome
-1294,1288,4019836,Social exclusion,outcome
-1294,1288,4101305,Gaucher's disease,outcome
-1294,1288,201091,Disproportion - major pelvic abnormality,outcome
-1294,1288,436860,Poisoning by irritant cathartic,outcome
-1294,1288,4155818,Does climb,outcome
-1294,1288,4228429,Carnitine deficiency,outcome
-1294,1288,40482801,Type II diabetes mellitus uncontrolled,outcome
-1294,1288,435515,Hypo-osmolality and or hyponatremia,outcome
-1294,1288,136237,Cardiovascular system problem,outcome
-1294,1288,4012368,Increased frequency of urination,outcome
-1294,1288,441417,Incoordination,outcome
-1294,1288,4213540,Cervical somatic dysfunction,outcome
-1294,1288,441628,Menopausal and postmenopausal disorders,outcome
-1294,1288,81878,Benign paroxysmal positional vertigo,outcome
-1294,1288,4088290,Absence of breast,outcome
-1294,1288,4092896,Feces contents abnormal,outcome
-1294,1288,201613,Chronic nonalcoholic liver disease,outcome
-1294,1288,314754,Wheezing,outcome
-1294,1288,4214376,Hyperglycemia,outcome
-1294,1288,193020,Incomplete emptying of bladder,outcome
-1294,1288,137989,Abnormal results of cardiovascular function studies,outcome
-1294,1288,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
-1294,1288,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
-1294,1288,4209423,Nicotine dependence,outcome
-1294,1288,4194160,Thyroid function tests abnormal,outcome
-1294,1288,439795,Minimal cognitive impairment,outcome
-1294,1288,73026,Abnormal breath sounds,outcome
-1294,1288,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
-1294,1288,4088920,Uterus absent,outcome
-1294,1288,132736,Bacteremia,outcome
-1294,1288,436940,Metabolic syndrome X,outcome
-1294,1288,195590,Urethral stricture,outcome
-1294,1288,4092743,Unsteady when standing,outcome
-1294,1288,443585,Abrasion and/or friction burn of multiple sites,outcome
-1294,1288,4022076,Patient dependence on care provider,outcome
-1294,1288,4059015,Falls,outcome
-1294,1288,4103703,Melena,outcome
-1294,1288,4199550,Unable to mobilize,outcome
-1294,1288,72404,Joint stiffness,outcome
-1294,1288,4233565,Severe protein-calorie malnutrition (Gomez: less than 60 percent of standard weight),outcome
-1294,1288,40480893,Nonspecific tuberculin test reaction,outcome
-1294,1288,201606,Crohn's disease,outcome
-1294,1288,4344500,Impingement syndrome of shoulder region,outcome
-1294,1288,253796,Pneumothorax,outcome
-1294,1288,4295287,Hypercoagulability state,outcome
-1294,1288,4195085,Nasal congestion,outcome
-1294,1288,137682,Skin sensation disturbance,outcome
-1294,1288,374801,Foreign body in ear,outcome
-1294,1288,442282,Urinary casts,outcome
-1294,1288,436246,Reduced libido,outcome
-1294,1288,4196636,Dysarthria,outcome
-1294,1288,4201390,Colostomy present,outcome
-1294,1288,40480002,Aphasia as late effect of cerebrovascular disease,outcome
-1294,1288,435516,Lipoprotein deficiency disorder,outcome
-1294,1288,434675,Complication of gastrostomy,outcome
-1294,1288,432596,Immune defect,outcome
-1294,1288,196454,Colostomy and enterostomy malfunction,outcome
-1294,1288,441553,Myoclonus,outcome
-1294,1288,4125590,Slurred speech,outcome
-1294,1288,439971,Poisoning by anticoagulant,outcome
-1294,1288,372897,Homonymous hemianopia,outcome
-1294,1288,441536,Mixed acid-base balance disorder,outcome
-1294,1288,4094448,Pregnancy test negative,outcome
-1294,1288,436957,Functional disorders of polymorphonuclear neutrophils,outcome
-1294,1288,4262519,Female sexual arousal disorder,outcome
-1294,1288,4229897,Stupor,outcome
-1294,1288,377873,Lid lag,outcome
-1294,1288,4264617,Foot-drop,outcome
-1294,1288,437176,Late effect of accidental fall,outcome
-1294,1288,438130,Opioid abuse,outcome
-1294,1288,4163735,Hemochromatosis,outcome
-1294,1288,4091513,Passing flatus,outcome
-1294,1288,4005743,Female sterility,outcome
-1294,1288,439234,Poisoning by cardiotonic glycoside,outcome
-1294,1288,4201387,Tracheostomy present,outcome
-1294,1288,4115402,Difficulty sleeping,outcome
-1294,1288,432593,Kwashiorkor,outcome
-1294,1288,44783954,Acid reflux,outcome
-1294,1288,440710,Intraretinal microvascular abnormality,outcome
-1294,1288,4022071,Convalescence,outcome
-1294,1288,437744,Heat exhaustion,outcome
-1294,1288,4262562,Abnormal heart beat,outcome
-1294,1288,4103642,Amputated toe,outcome
-1294,1288,4012570,High risk sexual behavior,outcome
-1294,1288,133088,Late amputation stump complication,outcome
-1294,1288,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
-1294,1288,374957,Acquired stenosis of external ear canal,outcome
-1294,1288,440612,Toxic effect of tobacco and nicotine,outcome
-1294,1288,436409,Abnormal pupil,outcome
-1294,1288,4202045,Postviral fatigue syndrome,outcome
-1294,1288,443447,Iatrogenic hypotension,outcome
-1294,1288,4305303,Sleep deprivation,outcome
-1294,1288,197676,Large liver,outcome
-1294,1288,4268911,Disorientated,outcome
-1294,1288,46286594,Problem related to lifestyle,outcome
-1294,1288,440457,Threatened miscarriage,outcome
-1294,1288,4168318,Genetic disorder carrier,outcome
-1294,1288,197036,Vesicoureteric reflux,outcome
-1294,1288,440193,Wristdrop,outcome
-1294,1288,372329,Dissociated deviation,outcome
-1294,1288,4012934,Homocystinuria,outcome
-1294,1288,438941,Hydantoin derivative poisoning,outcome
-1294,1288,4197184,Pseudobulbar affect,outcome
-1294,1288,437092,Physiological development failure,outcome
-1294,1288,193598,Extravasation of urine,outcome
-1294,1288,443172,"Splinter of face, without major open wound",outcome
-1294,1288,433111,Effects of hunger,outcome
-1294,1288,197096,Urethra and bladder neck atresia and stenosis,outcome
-1294,1288,4168681,Irritability and anger,outcome
-1294,1288,434485,Increase in body fat,outcome
-1294,1288,439871,Hemospermia,outcome
-1294,1288,258540,Marfan's syndrome,outcome
-1294,1288,439743,Late effects of respiratory tuberculosis,outcome
-1294,1288,435720,Adverse anesthesia outcome,outcome
-1294,1288,440053,Infestation by insect,outcome
-1294,1288,433441,Ectopic production of endocrine substance,outcome
-1294,1288,4067861,Deviation of finger,outcome
-1294,1288,434482,Diethylstilbestrol poisoning,outcome
-1294,1288,434016,"Nondependent opioid abuse, continuous",outcome
-1294,1288,434916,"Amphetamine or psychostimulant dependence, continuous",outcome
-1294,1288,439136,"Asphyxia, in liveborn infant",outcome
-1294,1288,434063,Jaw to cranial base anomaly,outcome
-1294,1288,4051630,Malingering,outcome
-1294,1288,440068,Psychosexual dysfunction,outcome
-1294,1288,443702,Abnormal response to nerve stimulation,outcome
-1294,1288,134315,Myelophthisis,outcome
-1294,1288,438624,Complication of renal dialysis,outcome
-1294,1288,4090271,Choroidal atrophy,outcome
-1294,1288,433951,Poisoning by tranquilizer,outcome
-1294,1288,439788,Galactosemia,outcome
-1294,1288,80463,Fetus with chromosomal abnormality with antenatal problem,outcome
-1294,1288,4229403,Flat anterior chamber of eye,outcome
-1294,1288,440919,Poisoning by methadone,outcome
-1294,1288,436015,Accidental poisoning from foodstuffs and poisonous plants,outcome
-1294,1288,436828,Saliva abnormal,outcome
-1294,1288,434319,Premature ejaculation,outcome
-1294,1288,441487,Frostbite,outcome
-1294,1288,438759,Descemet's membrane fold,outcome
-1294,1288,436011,Bends,outcome
-1294,1288,436426,Malleus mobility reduced,outcome
-1294,1288,443933,Nicotiana tabacum poisoning,outcome
-1294,1288,375277,Non-infectious pinna disorders,outcome
-1294,1288,4029271,Essential fatty acid deficiency,outcome
-1294,1288,4318502,Poisoning due to scorpion venom,outcome
-1294,1288,435170,Effects of thirst,outcome
-1294,1288,4111720,Sequelae of subarachnoid hemorrhage,outcome
-1294,1288,443526,Toxic effect from eating shellfish,outcome
-1294,1288,436294,Poisoning by phenothiazine-based tranquilizer,outcome
-1294,1288,436233,Delayed milestone,outcome
-1294,1288,4035269,Non-ketotic hyperglycinemia,outcome
-1294,1288,441759,Toxic effect of inorganic lead compound,outcome
-1294,1288,443082,Starvation,outcome
-1294,1288,437732,Toxic effect of chromium,outcome
-1294,1288,4182437,Female genital cutting,outcome
-1294,1288,4002572,"Uncomplicated sedative, hypnotic AND/OR anxiolytic withdrawal",outcome
-1294,1288,254163,Pulmonary aspiration of gastric contents,outcome
-1294,1288,4066505,Clicking hip,outcome
-1294,1288,194439,Obstetric perineal wound disruption,outcome
-1294,1288,437369,Postmature infancy,outcome
-1294,1288,444043,Poisoning by intravenous anesthetic,outcome
-1294,1288,4173136,Agnosia,outcome
-1297,1295,437390,Hypoxemia,outcome
-1297,1295,4088768,Absent nipple,outcome
-1297,1295,380724,Corneal ghost vessels,outcome
-1297,1295,436041,Leech infestation,outcome
-1297,1295,433369,Toxic effect of food contaminant,outcome
-1297,1295,4088910,Uterine cervix absent,outcome
-1297,1295,440924,Poisoning by vasodilator,outcome
-1297,1295,435028,Puerperal pyrexia of unknown origin,outcome
-1297,1295,443892,Toxic effect of hydrocyanic acid,outcome
-1297,1295,4061157,Antenatal ultrasound scan abnormal,outcome
-1297,1295,4019836,Social exclusion,outcome
-1297,1295,4101305,Gaucher's disease,outcome
-1297,1295,201091,Disproportion - major pelvic abnormality,outcome
-1297,1295,436860,Poisoning by irritant cathartic,outcome
-1297,1295,4155818,Does climb,outcome
-1297,1295,4228429,Carnitine deficiency,outcome
-1297,1295,40482801,Type II diabetes mellitus uncontrolled,outcome
-1297,1295,435515,Hypo-osmolality and or hyponatremia,outcome
-1297,1295,136237,Cardiovascular system problem,outcome
-1297,1295,4012368,Increased frequency of urination,outcome
-1297,1295,441417,Incoordination,outcome
-1297,1295,4213540,Cervical somatic dysfunction,outcome
-1297,1295,441628,Menopausal and postmenopausal disorders,outcome
-1297,1295,81878,Benign paroxysmal positional vertigo,outcome
-1297,1295,4088290,Absence of breast,outcome
-1297,1295,4092896,Feces contents abnormal,outcome
-1297,1295,201613,Chronic nonalcoholic liver disease,outcome
-1297,1295,314754,Wheezing,outcome
-1297,1295,4214376,Hyperglycemia,outcome
-1297,1295,193020,Incomplete emptying of bladder,outcome
-1297,1295,137989,Abnormal results of cardiovascular function studies,outcome
-1297,1295,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
-1297,1295,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
-1297,1295,4209423,Nicotine dependence,outcome
-1297,1295,4194160,Thyroid function tests abnormal,outcome
-1297,1295,439795,Minimal cognitive impairment,outcome
-1297,1295,73026,Abnormal breath sounds,outcome
-1297,1295,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
-1297,1295,4088920,Uterus absent,outcome
-1297,1295,132736,Bacteremia,outcome
-1297,1295,436940,Metabolic syndrome X,outcome
-1297,1295,195590,Urethral stricture,outcome
-1297,1295,4092743,Unsteady when standing,outcome
-1297,1295,443585,Abrasion and/or friction burn of multiple sites,outcome
-1297,1295,4022076,Patient dependence on care provider,outcome
-1297,1295,4059015,Falls,outcome
-1297,1295,4103703,Melena,outcome
-1297,1295,4199550,Unable to mobilize,outcome
-1297,1295,72404,Joint stiffness,outcome
-1297,1295,4233565,Severe protein-calorie malnutrition (Gomez: less than 60 percent of standard weight),outcome
-1297,1295,40480893,Nonspecific tuberculin test reaction,outcome
-1297,1295,201606,Crohn's disease,outcome
-1297,1295,4344500,Impingement syndrome of shoulder region,outcome
-1297,1295,253796,Pneumothorax,outcome
-1297,1295,4295287,Hypercoagulability state,outcome
-1297,1295,4195085,Nasal congestion,outcome
-1297,1295,137682,Skin sensation disturbance,outcome
-1297,1295,374801,Foreign body in ear,outcome
-1297,1295,442282,Urinary casts,outcome
-1297,1295,436246,Reduced libido,outcome
-1297,1295,4196636,Dysarthria,outcome
-1297,1295,4201390,Colostomy present,outcome
-1297,1295,40480002,Aphasia as late effect of cerebrovascular disease,outcome
-1297,1295,435516,Lipoprotein deficiency disorder,outcome
-1297,1295,434675,Complication of gastrostomy,outcome
-1297,1295,432596,Immune defect,outcome
-1297,1295,196454,Colostomy and enterostomy malfunction,outcome
-1297,1295,441553,Myoclonus,outcome
-1297,1295,4125590,Slurred speech,outcome
-1297,1295,439971,Poisoning by anticoagulant,outcome
-1297,1295,372897,Homonymous hemianopia,outcome
-1297,1295,441536,Mixed acid-base balance disorder,outcome
-1297,1295,4094448,Pregnancy test negative,outcome
-1297,1295,436957,Functional disorders of polymorphonuclear neutrophils,outcome
-1297,1295,4262519,Female sexual arousal disorder,outcome
-1297,1295,4229897,Stupor,outcome
-1297,1295,377873,Lid lag,outcome
-1297,1295,4264617,Foot-drop,outcome
-1297,1295,437176,Late effect of accidental fall,outcome
-1297,1295,438130,Opioid abuse,outcome
-1297,1295,4163735,Hemochromatosis,outcome
-1297,1295,4091513,Passing flatus,outcome
-1297,1295,4005743,Female sterility,outcome
-1297,1295,439234,Poisoning by cardiotonic glycoside,outcome
-1297,1295,4201387,Tracheostomy present,outcome
-1297,1295,4115402,Difficulty sleeping,outcome
-1297,1295,432593,Kwashiorkor,outcome
-1297,1295,44783954,Acid reflux,outcome
-1297,1295,440710,Intraretinal microvascular abnormality,outcome
-1297,1295,4022071,Convalescence,outcome
-1297,1295,437744,Heat exhaustion,outcome
-1297,1295,4262562,Abnormal heart beat,outcome
-1297,1295,4103642,Amputated toe,outcome
-1297,1295,4012570,High risk sexual behavior,outcome
-1297,1295,133088,Late amputation stump complication,outcome
-1297,1295,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
-1297,1295,374957,Acquired stenosis of external ear canal,outcome
-1297,1295,440612,Toxic effect of tobacco and nicotine,outcome
-1297,1295,436409,Abnormal pupil,outcome
-1297,1295,4202045,Postviral fatigue syndrome,outcome
-1297,1295,443447,Iatrogenic hypotension,outcome
-1297,1295,4305303,Sleep deprivation,outcome
-1297,1295,197676,Large liver,outcome
-1297,1295,4268911,Disorientated,outcome
-1297,1295,46286594,Problem related to lifestyle,outcome
-1297,1295,440457,Threatened miscarriage,outcome
-1297,1295,4168318,Genetic disorder carrier,outcome
-1297,1295,197036,Vesicoureteric reflux,outcome
-1297,1295,440193,Wristdrop,outcome
-1297,1295,372329,Dissociated deviation,outcome
-1297,1295,4012934,Homocystinuria,outcome
-1297,1295,438941,Hydantoin derivative poisoning,outcome
-1297,1295,4197184,Pseudobulbar affect,outcome
-1297,1295,437092,Physiological development failure,outcome
-1297,1295,193598,Extravasation of urine,outcome
-1297,1295,443172,"Splinter of face, without major open wound",outcome
-1297,1295,433111,Effects of hunger,outcome
-1297,1295,197096,Urethra and bladder neck atresia and stenosis,outcome
-1297,1295,4168681,Irritability and anger,outcome
-1297,1295,434485,Increase in body fat,outcome
-1297,1295,439871,Hemospermia,outcome
-1297,1295,258540,Marfan's syndrome,outcome
-1297,1295,439743,Late effects of respiratory tuberculosis,outcome
-1297,1295,435720,Adverse anesthesia outcome,outcome
-1297,1295,440053,Infestation by insect,outcome
-1297,1295,433441,Ectopic production of endocrine substance,outcome
-1297,1295,4067861,Deviation of finger,outcome
-1297,1295,434482,Diethylstilbestrol poisoning,outcome
-1297,1295,434016,"Nondependent opioid abuse, continuous",outcome
-1297,1295,434916,"Amphetamine or psychostimulant dependence, continuous",outcome
-1297,1295,439136,"Asphyxia, in liveborn infant",outcome
-1297,1295,434063,Jaw to cranial base anomaly,outcome
-1297,1295,4051630,Malingering,outcome
-1297,1295,440068,Psychosexual dysfunction,outcome
-1297,1295,443702,Abnormal response to nerve stimulation,outcome
-1297,1295,134315,Myelophthisis,outcome
-1297,1295,438624,Complication of renal dialysis,outcome
-1297,1295,4090271,Choroidal atrophy,outcome
-1297,1295,433951,Poisoning by tranquilizer,outcome
-1297,1295,439788,Galactosemia,outcome
-1297,1295,80463,Fetus with chromosomal abnormality with antenatal problem,outcome
-1297,1295,4229403,Flat anterior chamber of eye,outcome
-1297,1295,440919,Poisoning by methadone,outcome
-1297,1295,436015,Accidental poisoning from foodstuffs and poisonous plants,outcome
-1297,1295,436828,Saliva abnormal,outcome
-1297,1295,434319,Premature ejaculation,outcome
-1297,1295,441487,Frostbite,outcome
-1297,1295,438759,Descemet's membrane fold,outcome
-1297,1295,436011,Bends,outcome
-1297,1295,436426,Malleus mobility reduced,outcome
-1297,1295,443933,Nicotiana tabacum poisoning,outcome
-1297,1295,375277,Non-infectious pinna disorders,outcome
-1297,1295,4029271,Essential fatty acid deficiency,outcome
-1297,1295,4318502,Poisoning due to scorpion venom,outcome
-1297,1295,435170,Effects of thirst,outcome
-1297,1295,4111720,Sequelae of subarachnoid hemorrhage,outcome
-1297,1295,443526,Toxic effect from eating shellfish,outcome
-1297,1295,436294,Poisoning by phenothiazine-based tranquilizer,outcome
-1297,1295,436233,Delayed milestone,outcome
-1297,1295,4035269,Non-ketotic hyperglycinemia,outcome
-1297,1295,441759,Toxic effect of inorganic lead compound,outcome
-1297,1295,443082,Starvation,outcome
-1297,1295,437732,Toxic effect of chromium,outcome
-1297,1295,4182437,Female genital cutting,outcome
-1297,1295,4002572,"Uncomplicated sedative, hypnotic AND/OR anxiolytic withdrawal",outcome
-1297,1295,254163,Pulmonary aspiration of gastric contents,outcome
-1297,1295,4066505,Clicking hip,outcome
-1297,1295,194439,Obstetric perineal wound disruption,outcome
-1297,1295,437369,Postmature infancy,outcome
-1297,1295,444043,Poisoning by intravenous anesthetic,outcome
-1297,1295,4173136,Agnosia,outcome
-1298,1296,437390,Hypoxemia,outcome
-1298,1296,4088768,Absent nipple,outcome
-1298,1296,380724,Corneal ghost vessels,outcome
-1298,1296,436041,Leech infestation,outcome
-1298,1296,433369,Toxic effect of food contaminant,outcome
-1298,1296,4088910,Uterine cervix absent,outcome
-1298,1296,440924,Poisoning by vasodilator,outcome
-1298,1296,435028,Puerperal pyrexia of unknown origin,outcome
-1298,1296,443892,Toxic effect of hydrocyanic acid,outcome
-1298,1296,4061157,Antenatal ultrasound scan abnormal,outcome
-1298,1296,4019836,Social exclusion,outcome
-1298,1296,4101305,Gaucher's disease,outcome
-1298,1296,201091,Disproportion - major pelvic abnormality,outcome
-1298,1296,436860,Poisoning by irritant cathartic,outcome
-1298,1296,4155818,Does climb,outcome
-1298,1296,4228429,Carnitine deficiency,outcome
-1298,1296,40482801,Type II diabetes mellitus uncontrolled,outcome
-1298,1296,435515,Hypo-osmolality and or hyponatremia,outcome
-1298,1296,136237,Cardiovascular system problem,outcome
-1298,1296,4012368,Increased frequency of urination,outcome
-1298,1296,441417,Incoordination,outcome
-1298,1296,4213540,Cervical somatic dysfunction,outcome
-1298,1296,441628,Menopausal and postmenopausal disorders,outcome
-1298,1296,81878,Benign paroxysmal positional vertigo,outcome
-1298,1296,4088290,Absence of breast,outcome
-1298,1296,4092896,Feces contents abnormal,outcome
-1298,1296,201613,Chronic nonalcoholic liver disease,outcome
-1298,1296,314754,Wheezing,outcome
-1298,1296,4214376,Hyperglycemia,outcome
-1298,1296,193020,Incomplete emptying of bladder,outcome
-1298,1296,137989,Abnormal results of cardiovascular function studies,outcome
-1298,1296,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
-1298,1296,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
-1298,1296,4209423,Nicotine dependence,outcome
-1298,1296,4194160,Thyroid function tests abnormal,outcome
-1298,1296,439795,Minimal cognitive impairment,outcome
-1298,1296,73026,Abnormal breath sounds,outcome
-1298,1296,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
-1298,1296,4088920,Uterus absent,outcome
-1298,1296,132736,Bacteremia,outcome
-1298,1296,436940,Metabolic syndrome X,outcome
-1298,1296,195590,Urethral stricture,outcome
-1298,1296,4092743,Unsteady when standing,outcome
-1298,1296,443585,Abrasion and/or friction burn of multiple sites,outcome
-1298,1296,4022076,Patient dependence on care provider,outcome
-1298,1296,4059015,Falls,outcome
-1298,1296,4103703,Melena,outcome
-1298,1296,4199550,Unable to mobilize,outcome
-1298,1296,72404,Joint stiffness,outcome
-1298,1296,4233565,Severe protein-calorie malnutrition (Gomez: less than 60 percent of standard weight),outcome
-1298,1296,40480893,Nonspecific tuberculin test reaction,outcome
-1298,1296,201606,Crohn's disease,outcome
-1298,1296,4344500,Impingement syndrome of shoulder region,outcome
-1298,1296,253796,Pneumothorax,outcome
-1298,1296,4295287,Hypercoagulability state,outcome
-1298,1296,4195085,Nasal congestion,outcome
-1298,1296,137682,Skin sensation disturbance,outcome
-1298,1296,374801,Foreign body in ear,outcome
-1298,1296,442282,Urinary casts,outcome
-1298,1296,436246,Reduced libido,outcome
-1298,1296,4196636,Dysarthria,outcome
-1298,1296,4201390,Colostomy present,outcome
-1298,1296,40480002,Aphasia as late effect of cerebrovascular disease,outcome
-1298,1296,435516,Lipoprotein deficiency disorder,outcome
-1298,1296,434675,Complication of gastrostomy,outcome
-1298,1296,432596,Immune defect,outcome
-1298,1296,196454,Colostomy and enterostomy malfunction,outcome
-1298,1296,441553,Myoclonus,outcome
-1298,1296,4125590,Slurred speech,outcome
-1298,1296,439971,Poisoning by anticoagulant,outcome
-1298,1296,372897,Homonymous hemianopia,outcome
-1298,1296,441536,Mixed acid-base balance disorder,outcome
-1298,1296,4094448,Pregnancy test negative,outcome
-1298,1296,436957,Functional disorders of polymorphonuclear neutrophils,outcome
-1298,1296,4262519,Female sexual arousal disorder,outcome
-1298,1296,4229897,Stupor,outcome
-1298,1296,377873,Lid lag,outcome
-1298,1296,4264617,Foot-drop,outcome
-1298,1296,437176,Late effect of accidental fall,outcome
-1298,1296,438130,Opioid abuse,outcome
-1298,1296,4163735,Hemochromatosis,outcome
-1298,1296,4091513,Passing flatus,outcome
-1298,1296,4005743,Female sterility,outcome
-1298,1296,439234,Poisoning by cardiotonic glycoside,outcome
-1298,1296,4201387,Tracheostomy present,outcome
-1298,1296,4115402,Difficulty sleeping,outcome
-1298,1296,432593,Kwashiorkor,outcome
-1298,1296,44783954,Acid reflux,outcome
-1298,1296,440710,Intraretinal microvascular abnormality,outcome
-1298,1296,4022071,Convalescence,outcome
-1298,1296,437744,Heat exhaustion,outcome
-1298,1296,4262562,Abnormal heart beat,outcome
-1298,1296,4103642,Amputated toe,outcome
-1298,1296,4012570,High risk sexual behavior,outcome
-1298,1296,133088,Late amputation stump complication,outcome
-1298,1296,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
-1298,1296,374957,Acquired stenosis of external ear canal,outcome
-1298,1296,440612,Toxic effect of tobacco and nicotine,outcome
-1298,1296,436409,Abnormal pupil,outcome
-1298,1296,4202045,Postviral fatigue syndrome,outcome
-1298,1296,443447,Iatrogenic hypotension,outcome
-1298,1296,4305303,Sleep deprivation,outcome
-1298,1296,197676,Large liver,outcome
-1298,1296,4268911,Disorientated,outcome
-1298,1296,46286594,Problem related to lifestyle,outcome
-1298,1296,440457,Threatened miscarriage,outcome
-1298,1296,4168318,Genetic disorder carrier,outcome
-1298,1296,197036,Vesicoureteric reflux,outcome
-1298,1296,440193,Wristdrop,outcome
-1298,1296,372329,Dissociated deviation,outcome
-1298,1296,4012934,Homocystinuria,outcome
-1298,1296,438941,Hydantoin derivative poisoning,outcome
-1298,1296,4197184,Pseudobulbar affect,outcome
-1298,1296,437092,Physiological development failure,outcome
-1298,1296,193598,Extravasation of urine,outcome
-1298,1296,443172,"Splinter of face, without major open wound",outcome
-1298,1296,433111,Effects of hunger,outcome
-1298,1296,197096,Urethra and bladder neck atresia and stenosis,outcome
-1298,1296,4168681,Irritability and anger,outcome
-1298,1296,434485,Increase in body fat,outcome
-1298,1296,439871,Hemospermia,outcome
-1298,1296,258540,Marfan's syndrome,outcome
-1298,1296,439743,Late effects of respiratory tuberculosis,outcome
-1298,1296,435720,Adverse anesthesia outcome,outcome
-1298,1296,440053,Infestation by insect,outcome
-1298,1296,433441,Ectopic production of endocrine substance,outcome
-1298,1296,4067861,Deviation of finger,outcome
-1298,1296,434482,Diethylstilbestrol poisoning,outcome
-1298,1296,434016,"Nondependent opioid abuse, continuous",outcome
-1298,1296,434916,"Amphetamine or psychostimulant dependence, continuous",outcome
-1298,1296,439136,"Asphyxia, in liveborn infant",outcome
-1298,1296,434063,Jaw to cranial base anomaly,outcome
-1298,1296,4051630,Malingering,outcome
-1298,1296,440068,Psychosexual dysfunction,outcome
-1298,1296,443702,Abnormal response to nerve stimulation,outcome
-1298,1296,134315,Myelophthisis,outcome
-1298,1296,438624,Complication of renal dialysis,outcome
-1298,1296,4090271,Choroidal atrophy,outcome
-1298,1296,433951,Poisoning by tranquilizer,outcome
-1298,1296,439788,Galactosemia,outcome
-1298,1296,80463,Fetus with chromosomal abnormality with antenatal problem,outcome
-1298,1296,4229403,Flat anterior chamber of eye,outcome
-1298,1296,440919,Poisoning by methadone,outcome
-1298,1296,436015,Accidental poisoning from foodstuffs and poisonous plants,outcome
-1298,1296,436828,Saliva abnormal,outcome
-1298,1296,434319,Premature ejaculation,outcome
-1298,1296,441487,Frostbite,outcome
-1298,1296,438759,Descemet's membrane fold,outcome
-1298,1296,436011,Bends,outcome
-1298,1296,436426,Malleus mobility reduced,outcome
-1298,1296,443933,Nicotiana tabacum poisoning,outcome
-1298,1296,375277,Non-infectious pinna disorders,outcome
-1298,1296,4029271,Essential fatty acid deficiency,outcome
-1298,1296,4318502,Poisoning due to scorpion venom,outcome
-1298,1296,435170,Effects of thirst,outcome
-1298,1296,4111720,Sequelae of subarachnoid hemorrhage,outcome
-1298,1296,443526,Toxic effect from eating shellfish,outcome
-1298,1296,436294,Poisoning by phenothiazine-based tranquilizer,outcome
-1298,1296,436233,Delayed milestone,outcome
-1298,1296,4035269,Non-ketotic hyperglycinemia,outcome
-1298,1296,441759,Toxic effect of inorganic lead compound,outcome
-1298,1296,443082,Starvation,outcome
-1298,1296,437732,Toxic effect of chromium,outcome
-1298,1296,4182437,Female genital cutting,outcome
-1298,1296,4002572,"Uncomplicated sedative, hypnotic AND/OR anxiolytic withdrawal",outcome
-1298,1296,254163,Pulmonary aspiration of gastric contents,outcome
-1298,1296,4066505,Clicking hip,outcome
-1298,1296,194439,Obstetric perineal wound disruption,outcome
-1298,1296,437369,Postmature infancy,outcome
-1298,1296,444043,Poisoning by intravenous anesthetic,outcome
-1298,1296,4173136,Agnosia,outcome
+967,968,437390,Hypoxemia,outcome
+967,968,4088768,Absent nipple,outcome
+967,968,380724,Corneal ghost vessels,outcome
+967,968,436041,Leech infestation,outcome
+967,968,433369,Toxic effect of food contaminant,outcome
+967,968,4088910,Uterine cervix absent,outcome
+967,968,440924,Poisoning by vasodilator,outcome
+967,968,435028,Puerperal pyrexia of unknown origin,outcome
+967,968,443892,Toxic effect of hydrocyanic acid,outcome
+967,968,4061157,Antenatal ultrasound scan abnormal,outcome
+967,968,4019836,Social exclusion,outcome
+967,968,4101305,Gaucher's disease,outcome
+967,968,201091,Disproportion - major pelvic abnormality,outcome
+967,968,436860,Poisoning by irritant cathartic,outcome
+967,968,4155818,Does climb,outcome
+967,968,4228429,Carnitine deficiency,outcome
+967,968,40482801,Type II diabetes mellitus uncontrolled,outcome
+967,968,435515,Hypo-osmolality and or hyponatremia,outcome
+967,968,136237,Cardiovascular system problem,outcome
+967,968,4012368,Increased frequency of urination,outcome
+967,968,441417,Incoordination,outcome
+967,968,4213540,Cervical somatic dysfunction,outcome
+967,968,441628,Menopausal and postmenopausal disorders,outcome
+967,968,81878,Benign paroxysmal positional vertigo,outcome
+967,968,4088290,Absence of breast,outcome
+967,968,4092896,Feces contents abnormal,outcome
+967,968,201613,Chronic nonalcoholic liver disease,outcome
+967,968,314754,Wheezing,outcome
+967,968,4214376,Hyperglycemia,outcome
+967,968,193020,Incomplete emptying of bladder,outcome
+967,968,137989,Abnormal results of cardiovascular function studies,outcome
+967,968,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
+967,968,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
+967,968,4209423,Nicotine dependence,outcome
+967,968,4194160,Thyroid function tests abnormal,outcome
+967,968,439795,Minimal cognitive impairment,outcome
+967,968,73026,Abnormal breath sounds,outcome
+967,968,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
+967,968,4088920,Uterus absent,outcome
+967,968,132736,Bacteremia,outcome
+967,968,436940,Metabolic syndrome X,outcome
+967,968,195590,Urethral stricture,outcome
+967,968,4092743,Unsteady when standing,outcome
+967,968,443585,Abrasion and/or friction burn of multiple sites,outcome
+967,968,4022076,Patient dependence on care provider,outcome
+967,968,4059015,Falls,outcome
+967,968,4103703,Melena,outcome
+967,968,4199550,Unable to mobilize,outcome
+967,968,72404,Joint stiffness,outcome
+967,968,4233565,Severe protein-calorie malnutrition (Gomez: less than 60 percent of standard weight),outcome
+967,968,40480893,Nonspecific tuberculin test reaction,outcome
+967,968,201606,Crohn's disease,outcome
+967,968,4344500,Impingement syndrome of shoulder region,outcome
+967,968,253796,Pneumothorax,outcome
+967,968,4295287,Hypercoagulability state,outcome
+967,968,4195085,Nasal congestion,outcome
+967,968,137682,Skin sensation disturbance,outcome
+967,968,374801,Foreign body in ear,outcome
+967,968,442282,Urinary casts,outcome
+967,968,436246,Reduced libido,outcome
+967,968,4196636,Dysarthria,outcome
+967,968,4201390,Colostomy present,outcome
+967,968,40480002,Aphasia as late effect of cerebrovascular disease,outcome
+967,968,435516,Lipoprotein deficiency disorder,outcome
+967,968,434675,Complication of gastrostomy,outcome
+967,968,432596,Immune defect,outcome
+967,968,196454,Colostomy and enterostomy malfunction,outcome
+967,968,441553,Myoclonus,outcome
+967,968,4125590,Slurred speech,outcome
+967,968,439971,Poisoning by anticoagulant,outcome
+967,968,372897,Homonymous hemianopia,outcome
+967,968,441536,Mixed acid-base balance disorder,outcome
+967,968,4094448,Pregnancy test negative,outcome
+967,968,436957,Functional disorders of polymorphonuclear neutrophils,outcome
+967,968,4262519,Female sexual arousal disorder,outcome
+967,968,4229897,Stupor,outcome
+967,968,377873,Lid lag,outcome
+967,968,4264617,Foot-drop,outcome
+967,968,437176,Late effect of accidental fall,outcome
+967,968,438130,Opioid abuse,outcome
+967,968,4163735,Hemochromatosis,outcome
+967,968,4091513,Passing flatus,outcome
+967,968,4005743,Female sterility,outcome
+967,968,439234,Poisoning by cardiotonic glycoside,outcome
+967,968,4201387,Tracheostomy present,outcome
+967,968,4115402,Difficulty sleeping,outcome
+967,968,432593,Kwashiorkor,outcome
+967,968,44783954,Acid reflux,outcome
+967,968,440710,Intraretinal microvascular abnormality,outcome
+967,968,4022071,Convalescence,outcome
+967,968,437744,Heat exhaustion,outcome
+967,968,4262562,Abnormal heart beat,outcome
+967,968,4103642,Amputated toe,outcome
+967,968,4012570,High risk sexual behavior,outcome
+967,968,133088,Late amputation stump complication,outcome
+967,968,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
+967,968,374957,Acquired stenosis of external ear canal,outcome
+967,968,440612,Toxic effect of tobacco and nicotine,outcome
+967,968,436409,Abnormal pupil,outcome
+967,968,4202045,Postviral fatigue syndrome,outcome
+967,968,443447,Iatrogenic hypotension,outcome
+967,968,4305303,Sleep deprivation,outcome
+967,968,197676,Large liver,outcome
+967,968,4268911,Disorientated,outcome
+967,968,46286594,Problem related to lifestyle,outcome
+967,968,440457,Threatened miscarriage,outcome
+967,968,4168318,Genetic disorder carrier,outcome
+967,968,197036,Vesicoureteric reflux,outcome
+967,968,440193,Wristdrop,outcome
+967,968,372329,Dissociated deviation,outcome
+967,968,4012934,Homocystinuria,outcome
+967,968,438941,Hydantoin derivative poisoning,outcome
+967,968,4197184,Pseudobulbar affect,outcome
+967,968,437092,Physiological development failure,outcome
+967,968,193598,Extravasation of urine,outcome
+967,968,443172,"Splinter of face, without major open wound",outcome
+967,968,433111,Effects of hunger,outcome
+967,968,197096,Urethra and bladder neck atresia and stenosis,outcome
+967,968,4168681,Irritability and anger,outcome
+967,968,434485,Increase in body fat,outcome
+967,968,439871,Hemospermia,outcome
+967,968,258540,Marfan's syndrome,outcome
+967,968,439743,Late effects of respiratory tuberculosis,outcome
+967,968,435720,Adverse anesthesia outcome,outcome
+967,968,440053,Infestation by insect,outcome
+967,968,433441,Ectopic production of endocrine substance,outcome
+967,968,4067861,Deviation of finger,outcome
+967,968,434482,Diethylstilbestrol poisoning,outcome
+967,968,434016,"Nondependent opioid abuse, continuous",outcome
+967,968,434916,"Amphetamine or psychostimulant dependence, continuous",outcome
+967,968,439136,"Asphyxia, in liveborn infant",outcome
+967,968,434063,Jaw to cranial base anomaly,outcome
+967,968,4051630,Malingering,outcome
+967,968,440068,Psychosexual dysfunction,outcome
+967,968,443702,Abnormal response to nerve stimulation,outcome
+967,968,134315,Myelophthisis,outcome
+967,968,438624,Complication of renal dialysis,outcome
+967,968,4090271,Choroidal atrophy,outcome
+967,968,433951,Poisoning by tranquilizer,outcome
+967,968,439788,Galactosemia,outcome
+967,968,80463,Fetus with chromosomal abnormality with antenatal problem,outcome
+967,968,4229403,Flat anterior chamber of eye,outcome
+967,968,440919,Poisoning by methadone,outcome
+967,968,436015,Accidental poisoning from foodstuffs and poisonous plants,outcome
+967,968,436828,Saliva abnormal,outcome
+967,968,434319,Premature ejaculation,outcome
+967,968,441487,Frostbite,outcome
+967,968,438759,Descemet's membrane fold,outcome
+967,968,436011,Bends,outcome
+967,968,436426,Malleus mobility reduced,outcome
+967,968,443933,Nicotiana tabacum poisoning,outcome
+967,968,375277,Non-infectious pinna disorders,outcome
+967,968,4029271,Essential fatty acid deficiency,outcome
+967,968,4318502,Poisoning due to scorpion venom,outcome
+967,968,435170,Effects of thirst,outcome
+967,968,4111720,Sequelae of subarachnoid hemorrhage,outcome
+967,968,443526,Toxic effect from eating shellfish,outcome
+967,968,436294,Poisoning by phenothiazine-based tranquilizer,outcome
+967,968,436233,Delayed milestone,outcome
+967,968,4035269,Non-ketotic hyperglycinemia,outcome
+967,968,441759,Toxic effect of inorganic lead compound,outcome
+967,968,443082,Starvation,outcome
+967,968,437732,Toxic effect of chromium,outcome
+967,968,4182437,Female genital cutting,outcome
+967,968,4002572,"Uncomplicated sedative, hypnotic AND/OR anxiolytic withdrawal",outcome
+967,968,254163,Pulmonary aspiration of gastric contents,outcome
+967,968,4066505,Clicking hip,outcome
+967,968,194439,Obstetric perineal wound disruption,outcome
+967,968,437369,Postmature infancy,outcome
+967,968,444043,Poisoning by intravenous anesthetic,outcome
+967,968,4173136,Agnosia,outcome
+967,966,437390,Hypoxemia,outcome
+967,966,4088768,Absent nipple,outcome
+967,966,380724,Corneal ghost vessels,outcome
+967,966,436041,Leech infestation,outcome
+967,966,433369,Toxic effect of food contaminant,outcome
+967,966,4088910,Uterine cervix absent,outcome
+967,966,440924,Poisoning by vasodilator,outcome
+967,966,435028,Puerperal pyrexia of unknown origin,outcome
+967,966,443892,Toxic effect of hydrocyanic acid,outcome
+967,966,4061157,Antenatal ultrasound scan abnormal,outcome
+967,966,4019836,Social exclusion,outcome
+967,966,4101305,Gaucher's disease,outcome
+967,966,201091,Disproportion - major pelvic abnormality,outcome
+967,966,436860,Poisoning by irritant cathartic,outcome
+967,966,4155818,Does climb,outcome
+967,966,4228429,Carnitine deficiency,outcome
+967,966,40482801,Type II diabetes mellitus uncontrolled,outcome
+967,966,435515,Hypo-osmolality and or hyponatremia,outcome
+967,966,136237,Cardiovascular system problem,outcome
+967,966,4012368,Increased frequency of urination,outcome
+967,966,441417,Incoordination,outcome
+967,966,4213540,Cervical somatic dysfunction,outcome
+967,966,441628,Menopausal and postmenopausal disorders,outcome
+967,966,81878,Benign paroxysmal positional vertigo,outcome
+967,966,4088290,Absence of breast,outcome
+967,966,4092896,Feces contents abnormal,outcome
+967,966,201613,Chronic nonalcoholic liver disease,outcome
+967,966,314754,Wheezing,outcome
+967,966,4214376,Hyperglycemia,outcome
+967,966,193020,Incomplete emptying of bladder,outcome
+967,966,137989,Abnormal results of cardiovascular function studies,outcome
+967,966,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
+967,966,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
+967,966,4209423,Nicotine dependence,outcome
+967,966,4194160,Thyroid function tests abnormal,outcome
+967,966,439795,Minimal cognitive impairment,outcome
+967,966,73026,Abnormal breath sounds,outcome
+967,966,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
+967,966,4088920,Uterus absent,outcome
+967,966,132736,Bacteremia,outcome
+967,966,436940,Metabolic syndrome X,outcome
+967,966,195590,Urethral stricture,outcome
+967,966,4092743,Unsteady when standing,outcome
+967,966,443585,Abrasion and/or friction burn of multiple sites,outcome
+967,966,4022076,Patient dependence on care provider,outcome
+967,966,4059015,Falls,outcome
+967,966,4103703,Melena,outcome
+967,966,4199550,Unable to mobilize,outcome
+967,966,72404,Joint stiffness,outcome
+967,966,4233565,Severe protein-calorie malnutrition (Gomez: less than 60 percent of standard weight),outcome
+967,966,40480893,Nonspecific tuberculin test reaction,outcome
+967,966,201606,Crohn's disease,outcome
+967,966,4344500,Impingement syndrome of shoulder region,outcome
+967,966,253796,Pneumothorax,outcome
+967,966,4295287,Hypercoagulability state,outcome
+967,966,4195085,Nasal congestion,outcome
+967,966,137682,Skin sensation disturbance,outcome
+967,966,374801,Foreign body in ear,outcome
+967,966,442282,Urinary casts,outcome
+967,966,436246,Reduced libido,outcome
+967,966,4196636,Dysarthria,outcome
+967,966,4201390,Colostomy present,outcome
+967,966,40480002,Aphasia as late effect of cerebrovascular disease,outcome
+967,966,435516,Lipoprotein deficiency disorder,outcome
+967,966,434675,Complication of gastrostomy,outcome
+967,966,432596,Immune defect,outcome
+967,966,196454,Colostomy and enterostomy malfunction,outcome
+967,966,441553,Myoclonus,outcome
+967,966,4125590,Slurred speech,outcome
+967,966,439971,Poisoning by anticoagulant,outcome
+967,966,372897,Homonymous hemianopia,outcome
+967,966,441536,Mixed acid-base balance disorder,outcome
+967,966,4094448,Pregnancy test negative,outcome
+967,966,436957,Functional disorders of polymorphonuclear neutrophils,outcome
+967,966,4262519,Female sexual arousal disorder,outcome
+967,966,4229897,Stupor,outcome
+967,966,377873,Lid lag,outcome
+967,966,4264617,Foot-drop,outcome
+967,966,437176,Late effect of accidental fall,outcome
+967,966,438130,Opioid abuse,outcome
+967,966,4163735,Hemochromatosis,outcome
+967,966,4091513,Passing flatus,outcome
+967,966,4005743,Female sterility,outcome
+967,966,439234,Poisoning by cardiotonic glycoside,outcome
+967,966,4201387,Tracheostomy present,outcome
+967,966,4115402,Difficulty sleeping,outcome
+967,966,432593,Kwashiorkor,outcome
+967,966,44783954,Acid reflux,outcome
+967,966,440710,Intraretinal microvascular abnormality,outcome
+967,966,4022071,Convalescence,outcome
+967,966,437744,Heat exhaustion,outcome
+967,966,4262562,Abnormal heart beat,outcome
+967,966,4103642,Amputated toe,outcome
+967,966,4012570,High risk sexual behavior,outcome
+967,966,133088,Late amputation stump complication,outcome
+967,966,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
+967,966,374957,Acquired stenosis of external ear canal,outcome
+967,966,440612,Toxic effect of tobacco and nicotine,outcome
+967,966,436409,Abnormal pupil,outcome
+967,966,4202045,Postviral fatigue syndrome,outcome
+967,966,443447,Iatrogenic hypotension,outcome
+967,966,4305303,Sleep deprivation,outcome
+967,966,197676,Large liver,outcome
+967,966,4268911,Disorientated,outcome
+967,966,46286594,Problem related to lifestyle,outcome
+967,966,440457,Threatened miscarriage,outcome
+967,966,4168318,Genetic disorder carrier,outcome
+967,966,197036,Vesicoureteric reflux,outcome
+967,966,440193,Wristdrop,outcome
+967,966,372329,Dissociated deviation,outcome
+967,966,4012934,Homocystinuria,outcome
+967,966,438941,Hydantoin derivative poisoning,outcome
+967,966,4197184,Pseudobulbar affect,outcome
+967,966,437092,Physiological development failure,outcome
+967,966,193598,Extravasation of urine,outcome
+967,966,443172,"Splinter of face, without major open wound",outcome
+967,966,433111,Effects of hunger,outcome
+967,966,197096,Urethra and bladder neck atresia and stenosis,outcome
+967,966,4168681,Irritability and anger,outcome
+967,966,434485,Increase in body fat,outcome
+967,966,439871,Hemospermia,outcome
+967,966,258540,Marfan's syndrome,outcome
+967,966,439743,Late effects of respiratory tuberculosis,outcome
+967,966,435720,Adverse anesthesia outcome,outcome
+967,966,440053,Infestation by insect,outcome
+967,966,433441,Ectopic production of endocrine substance,outcome
+967,966,4067861,Deviation of finger,outcome
+967,966,434482,Diethylstilbestrol poisoning,outcome
+967,966,434016,"Nondependent opioid abuse, continuous",outcome
+967,966,434916,"Amphetamine or psychostimulant dependence, continuous",outcome
+967,966,439136,"Asphyxia, in liveborn infant",outcome
+967,966,434063,Jaw to cranial base anomaly,outcome
+967,966,4051630,Malingering,outcome
+967,966,440068,Psychosexual dysfunction,outcome
+967,966,443702,Abnormal response to nerve stimulation,outcome
+967,966,134315,Myelophthisis,outcome
+967,966,438624,Complication of renal dialysis,outcome
+967,966,4090271,Choroidal atrophy,outcome
+967,966,433951,Poisoning by tranquilizer,outcome
+967,966,439788,Galactosemia,outcome
+967,966,80463,Fetus with chromosomal abnormality with antenatal problem,outcome
+967,966,4229403,Flat anterior chamber of eye,outcome
+967,966,440919,Poisoning by methadone,outcome
+967,966,436015,Accidental poisoning from foodstuffs and poisonous plants,outcome
+967,966,436828,Saliva abnormal,outcome
+967,966,434319,Premature ejaculation,outcome
+967,966,441487,Frostbite,outcome
+967,966,438759,Descemet's membrane fold,outcome
+967,966,436011,Bends,outcome
+967,966,436426,Malleus mobility reduced,outcome
+967,966,443933,Nicotiana tabacum poisoning,outcome
+967,966,375277,Non-infectious pinna disorders,outcome
+967,966,4029271,Essential fatty acid deficiency,outcome
+967,966,4318502,Poisoning due to scorpion venom,outcome
+967,966,435170,Effects of thirst,outcome
+967,966,4111720,Sequelae of subarachnoid hemorrhage,outcome
+967,966,443526,Toxic effect from eating shellfish,outcome
+967,966,436294,Poisoning by phenothiazine-based tranquilizer,outcome
+967,966,436233,Delayed milestone,outcome
+967,966,4035269,Non-ketotic hyperglycinemia,outcome
+967,966,441759,Toxic effect of inorganic lead compound,outcome
+967,966,443082,Starvation,outcome
+967,966,437732,Toxic effect of chromium,outcome
+967,966,4182437,Female genital cutting,outcome
+967,966,4002572,"Uncomplicated sedative, hypnotic AND/OR anxiolytic withdrawal",outcome
+967,966,254163,Pulmonary aspiration of gastric contents,outcome
+967,966,4066505,Clicking hip,outcome
+967,966,194439,Obstetric perineal wound disruption,outcome
+967,966,437369,Postmature infancy,outcome
+967,966,444043,Poisoning by intravenous anesthetic,outcome
+967,966,4173136,Agnosia,outcome
+967,965,437390,Hypoxemia,outcome
+967,965,4088768,Absent nipple,outcome
+967,965,380724,Corneal ghost vessels,outcome
+967,965,436041,Leech infestation,outcome
+967,965,433369,Toxic effect of food contaminant,outcome
+967,965,4088910,Uterine cervix absent,outcome
+967,965,440924,Poisoning by vasodilator,outcome
+967,965,435028,Puerperal pyrexia of unknown origin,outcome
+967,965,443892,Toxic effect of hydrocyanic acid,outcome
+967,965,4061157,Antenatal ultrasound scan abnormal,outcome
+967,965,4019836,Social exclusion,outcome
+967,965,4101305,Gaucher's disease,outcome
+967,965,201091,Disproportion - major pelvic abnormality,outcome
+967,965,436860,Poisoning by irritant cathartic,outcome
+967,965,4155818,Does climb,outcome
+967,965,4228429,Carnitine deficiency,outcome
+967,965,40482801,Type II diabetes mellitus uncontrolled,outcome
+967,965,435515,Hypo-osmolality and or hyponatremia,outcome
+967,965,136237,Cardiovascular system problem,outcome
+967,965,4012368,Increased frequency of urination,outcome
+967,965,441417,Incoordination,outcome
+967,965,4213540,Cervical somatic dysfunction,outcome
+967,965,441628,Menopausal and postmenopausal disorders,outcome
+967,965,81878,Benign paroxysmal positional vertigo,outcome
+967,965,4088290,Absence of breast,outcome
+967,965,4092896,Feces contents abnormal,outcome
+967,965,201613,Chronic nonalcoholic liver disease,outcome
+967,965,314754,Wheezing,outcome
+967,965,4214376,Hyperglycemia,outcome
+967,965,193020,Incomplete emptying of bladder,outcome
+967,965,137989,Abnormal results of cardiovascular function studies,outcome
+967,965,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
+967,965,432798,"Mechanical complication of internal orthopedic device, implant AND/OR graft",outcome
+967,965,4209423,Nicotine dependence,outcome
+967,965,4194160,Thyroid function tests abnormal,outcome
+967,965,439795,Minimal cognitive impairment,outcome
+967,965,73026,Abnormal breath sounds,outcome
+967,965,440276,"Infection AND/OR inflammatory reaction due to internal prosthetic device, implant AND/OR graft",outcome
+967,965,4088920,Uterus absent,outcome
+967,965,132736,Bacteremia,outcome
+967,965,436940,Metabolic syndrome X,outcome
+967,965,195590,Urethral stricture,outcome
+967,965,4092743,Unsteady when standing,outcome
+967,965,443585,Abrasion and/or friction burn of multiple sites,outcome
+967,965,4022076,Patient dependence on care provider,outcome
+967,965,4059015,Falls,outcome
+967,965,4103703,Melena,outcome
+967,965,4199550,Unable to mobilize,outcome
+967,965,72404,Joint stiffness,outcome
+967,965,4233565,Severe protein-calorie malnutrition (Gomez: less than 60 percent of standard weight),outcome
+967,965,40480893,Nonspecific tuberculin test reaction,outcome
+967,965,201606,Crohn's disease,outcome
+967,965,4344500,Impingement syndrome of shoulder region,outcome
+967,965,253796,Pneumothorax,outcome
+967,965,4295287,Hypercoagulability state,outcome
+967,965,4195085,Nasal congestion,outcome
+967,965,137682,Skin sensation disturbance,outcome
+967,965,374801,Foreign body in ear,outcome
+967,965,442282,Urinary casts,outcome
+967,965,436246,Reduced libido,outcome
+967,965,4196636,Dysarthria,outcome
+967,965,4201390,Colostomy present,outcome
+967,965,40480002,Aphasia as late effect of cerebrovascular disease,outcome
+967,965,435516,Lipoprotein deficiency disorder,outcome
+967,965,434675,Complication of gastrostomy,outcome
+967,965,432596,Immune defect,outcome
+967,965,196454,Colostomy and enterostomy malfunction,outcome
+967,965,441553,Myoclonus,outcome
+967,965,4125590,Slurred speech,outcome
+967,965,439971,Poisoning by anticoagulant,outcome
+967,965,372897,Homonymous hemianopia,outcome
+967,965,441536,Mixed acid-base balance disorder,outcome
+967,965,4094448,Pregnancy test negative,outcome
+967,965,436957,Functional disorders of polymorphonuclear neutrophils,outcome
+967,965,4262519,Female sexual arousal disorder,outcome
+967,965,4229897,Stupor,outcome
+967,965,377873,Lid lag,outcome
+967,965,4264617,Foot-drop,outcome
+967,965,437176,Late effect of accidental fall,outcome
+967,965,438130,Opioid abuse,outcome
+967,965,4163735,Hemochromatosis,outcome
+967,965,4091513,Passing flatus,outcome
+967,965,4005743,Female sterility,outcome
+967,965,439234,Poisoning by cardiotonic glycoside,outcome
+967,965,4201387,Tracheostomy present,outcome
+967,965,4115402,Difficulty sleeping,outcome
+967,965,432593,Kwashiorkor,outcome
+967,965,44783954,Acid reflux,outcome
+967,965,440710,Intraretinal microvascular abnormality,outcome
+967,965,4022071,Convalescence,outcome
+967,965,437744,Heat exhaustion,outcome
+967,965,4262562,Abnormal heart beat,outcome
+967,965,4103642,Amputated toe,outcome
+967,965,4012570,High risk sexual behavior,outcome
+967,965,133088,Late amputation stump complication,outcome
+967,965,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
+967,965,374957,Acquired stenosis of external ear canal,outcome
+967,965,440612,Toxic effect of tobacco and nicotine,outcome
+967,965,436409,Abnormal pupil,outcome
+967,965,4202045,Postviral fatigue syndrome,outcome
+967,965,443447,Iatrogenic hypotension,outcome
+967,965,4305303,Sleep deprivation,outcome
+967,965,197676,Large liver,outcome
+967,965,4268911,Disorientated,outcome
+967,965,46286594,Problem related to lifestyle,outcome
+967,965,440457,Threatened miscarriage,outcome
+967,965,4168318,Genetic disorder carrier,outcome
+967,965,197036,Vesicoureteric reflux,outcome
+967,965,440193,Wristdrop,outcome
+967,965,372329,Dissociated deviation,outcome
+967,965,4012934,Homocystinuria,outcome
+967,965,438941,Hydantoin derivative poisoning,outcome
+967,965,4197184,Pseudobulbar affect,outcome
+967,965,437092,Physiological development failure,outcome
+967,965,193598,Extravasation of urine,outcome
+967,965,443172,"Splinter of face, without major open wound",outcome
+967,965,433111,Effects of hunger,outcome
+967,965,197096,Urethra and bladder neck atresia and stenosis,outcome
+967,965,4168681,Irritability and anger,outcome
+967,965,434485,Increase in body fat,outcome
+967,965,439871,Hemospermia,outcome
+967,965,258540,Marfan's syndrome,outcome
+967,965,439743,Late effects of respiratory tuberculosis,outcome
+967,965,435720,Adverse anesthesia outcome,outcome
+967,965,440053,Infestation by insect,outcome
+967,965,433441,Ectopic production of endocrine substance,outcome
+967,965,4067861,Deviation of finger,outcome
+967,965,434482,Diethylstilbestrol poisoning,outcome
+967,965,434016,"Nondependent opioid abuse, continuous",outcome
+967,965,434916,"Amphetamine or psychostimulant dependence, continuous",outcome
+967,965,439136,"Asphyxia, in liveborn infant",outcome
+967,965,434063,Jaw to cranial base anomaly,outcome
+967,965,4051630,Malingering,outcome
+967,965,440068,Psychosexual dysfunction,outcome
+967,965,443702,Abnormal response to nerve stimulation,outcome
+967,965,134315,Myelophthisis,outcome
+967,965,438624,Complication of renal dialysis,outcome
+967,965,4090271,Choroidal atrophy,outcome
+967,965,433951,Poisoning by tranquilizer,outcome
+967,965,439788,Galactosemia,outcome
+967,965,80463,Fetus with chromosomal abnormality with antenatal problem,outcome
+967,965,4229403,Flat anterior chamber of eye,outcome
+967,965,440919,Poisoning by methadone,outcome
+967,965,436015,Accidental poisoning from foodstuffs and poisonous plants,outcome
+967,965,436828,Saliva abnormal,outcome
+967,965,434319,Premature ejaculation,outcome
+967,965,441487,Frostbite,outcome
+967,965,438759,Descemet's membrane fold,outcome
+967,965,436011,Bends,outcome
+967,965,436426,Malleus mobility reduced,outcome
+967,965,443933,Nicotiana tabacum poisoning,outcome
+967,965,375277,Non-infectious pinna disorders,outcome
+967,965,4029271,Essential fatty acid deficiency,outcome
+967,965,4318502,Poisoning due to scorpion venom,outcome
+967,965,435170,Effects of thirst,outcome
+967,965,4111720,Sequelae of subarachnoid hemorrhage,outcome
+967,965,443526,Toxic effect from eating shellfish,outcome
+967,965,436294,Poisoning by phenothiazine-based tranquilizer,outcome
+967,965,436233,Delayed milestone,outcome
+967,965,4035269,Non-ketotic hyperglycinemia,outcome
+967,965,441759,Toxic effect of inorganic lead compound,outcome
+967,965,443082,Starvation,outcome
+967,965,437732,Toxic effect of chromium,outcome
+967,965,4182437,Female genital cutting,outcome
+967,965,4002572,"Uncomplicated sedative, hypnotic AND/OR anxiolytic withdrawal",outcome
+967,965,254163,Pulmonary aspiration of gastric contents,outcome
+967,965,4066505,Clicking hip,outcome
+967,965,194439,Obstetric perineal wound disruption,outcome
+967,965,437369,Postmature infancy,outcome
+967,965,444043,Poisoning by intravenous anesthetic,outcome
+967,965,4173136,Agnosia,outcome

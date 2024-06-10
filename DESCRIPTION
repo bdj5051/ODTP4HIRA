@@ -1,4 +1,4 @@
-Package: ODPT4HIRA8
+Package: ODTP4HIRA
 Type: Package
 Title: A Package Skeleton for Comparative Effectiveness Studies
 Version: 0.0.1
@@ -38,4 +38,4 @@ Remotes:
 License: Apache License 2.0
 VignetteBuilder: knitr
 LazyData: TRUE
-RoxygenNote: 7.1.1
+RoxygenNote: 7.2.3

@@ -1,4 +1,4 @@
-ODPT4HIRA8
+ODTP4HIRA
 ==============================
 
 
@@ -15,10 +15,10 @@ How to run
 ==========
 1. Follow [these instructions](https://ohdsi.github.io/Hades/rSetup.html) for seting up your R environment, including RTools and Java. 
 
-2. Open your study package in RStudio. Use the following code to install all the dependencies:
+2. Open your study package in RStudio. If you use Docker images, please execute `renv::deactivate()` :
 
 	```r
-	renv::restore()
+	renv::deactivate()
 	```
 
 3. In RStudio, select 'Build' then 'Install and Restart' to build the package.
@@ -26,10 +26,10 @@ How to run
 3. Once installed, you can execute the study by modifying and using the code below. For your convenience, this code is also provided under `extras/CodeToRun.R`:
 
 	```r
-	library(ODPT4HIRA8)
+	library(ODTP4HIRA)
 	
-  # Optional: specify where the temporary files (used by the Andromeda package) will be created:
-  options(andromedaTempFolder = "c:/andromedaTemp")
+ 	 # Optional: specify where the temporary files (used by the Andromeda package) will be created:
+  	options(andromedaTempFolder = "c:/andromedaTemp")
 	
 	# Maximum number of cores to be used:
 	maxCores <- parallel::detectCores()
@@ -38,7 +38,7 @@ How to run
 	minCellCount <- 5
 	
 	# The folder where the study intermediate and result files will be written:
-	outputFolder <- "c:/ODPT4HIRA8"
+	outputFolder <- "c:/ODTP4HIRA"
 	
 	# Details for connecting to the server:
 	# See ?DatabaseConnector::createConnectionDetails for help
@@ -69,8 +69,8 @@ How to run
             oracleTempSchema = oracleTempSchema,
             outputFolder = outputFolder,
             databaseId = databaseId,
-            databaseName = databaseName,
-            databaseDescription = databaseDescription,
+            databaseName = databaseId,
+            databaseDescription = databaseId,
             createCohorts = TRUE,
             synthesizePositiveControls = TRUE,
             runAnalyses = TRUE,
@@ -78,30 +78,20 @@ How to run
             maxCores = maxCores)
 	```
 
-4. Upload the file ```export/Results_<DatabaseId>.zip``` in the output folder to the study coordinator:
+4. Send the file ```results/<DatabaseId>_results.zip``` in the output folder to the study coordinator:
 
 	```r
-	uploadResults(outputFolder, privateKeyFileName = "<file>", userName = "<name>")
+	zip::zip(zipfile = paste0(databaseId, "_results.zip"), files = "results", root = outputFolder)
 	```
 	
-	Where ```<file>``` and ```<name<``` are the credentials provided to you personally by the study coordinator.
-		
-5. To view the results, use the Shiny app:
-
-	```r
-	prepareForEvidenceExplorer("Result_<databaseId>.zip", "/shinyData")
-	launchEvidenceExplorer("/shinyData", blind = TRUE)
-	```
-  
-  Note that you can save plots from within the Shiny app. It is possible to view results from more than one database by applying `prepareForEvidenceExplorer` to the Results file from each database, and using the same data folder. Set `blind = FALSE` if you wish to be unblinded to the final results.
 
 License
 =======
-The ODPT4HIRA8 package is licensed under Apache License 2.0
+The ODTP4HIRA package is licensed under Apache License 2.0
 
 Development
 ===========
-ODPT4HIRA8 was developed in ATLAS and R Studio.
+ODTP4HIRA was developed in ATLAS and R Studio.
 
 ### Development status
 
