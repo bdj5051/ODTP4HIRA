@@ -1,5 +1,4 @@
 library(ODTP4HIRA)
-library(dplyr)
 
 # Optional: specify where the temporary files (used by the Andromeda package) will be created:
 options(andromedaTempFolder = "s:/andromeda")
